@@ -39,13 +39,13 @@ After weeks of tension, the two sides agreed to a personal meeting. Both would c
 [VISUAL: wooden pavilion, forest, tense silhouettes]
 On 10 November 1659, they met. What happened next is told in several versions. The Maratha version says that Afzal Khan, a tall man, seized Shivaji in an embrace and tried to stab him. Shivaji, who was wearing armour under his clothes and carried a concealed tiger-claw weapon, the waghnakh, struck first and killed him.
 [VISUAL: the embrace, waghnakh, stylised, no gore]
-The Bijapur-side accounts say that Shivaji acted treacherously. Historians cannot be sure who struck first. What is certain is that Afzal Khan died, and that Shivaji's hidden troops attacked the leaderless Bijapur army and destroyed it. He captured horses, cannons and a huge amount of treasure.
+The Bijapur-side accounts say that Shivaji acted treacherously. A Sanskrit poem written at Shivaji's own court says he used a bladed weapon instead of the claws. The historian Jadunath Sarkar concluded, from contemporary documents, that both men had come armed, and that Afzal Khan may also have planned treachery. Historians cannot be sure who struck first. What is certain is that Afzal Khan died, and that Shivaji's hidden troops attacked the leaderless Bijapur army and destroyed it. He captured horses, cannons and a huge amount of treasure.
 [VISUAL: Pratapgad fort, ambush from the forest]
 After this, his name was known all across India.
 
 ## 5. PAVAN KHIND AND THE MUGHALS (8:50–11:10)
 **NARRATION**
-Bijapur soon sent another army, which besieged Shivaji in the fort of Panhala in 1660. The siege was long. Shivaji planned an escape on a rainy night in July. He slipped out with several hundred men, heading for the fort of Vishalgad. The enemy chased them.
+Bijapur soon sent another army, which besieged Shivaji in the fort of Panhala in 1660. The siege was long. Shivaji planned an escape on a rainy night in July. On the night of 13 July 1660, he slipped out with a few hundred men, heading for the fort of Vishalgad. According to tradition, a barber named Shiva Kashid, who looked like Shivaji, was sent in a palanquin as a decoy, and was caught by the besiegers under the Bijapur commander Siddi Johar. When they found out, the enemy chased the real party.
 [VISUAL: night escape in the rain, torch lights]
 At a narrow mountain pass, called Pavan Khind, a Maratha commander named Baji Prabhu Deshpande held off the pursuers with a small force, so that Shivaji could reach safety. Baji Prabhu, tradition says, fought on although badly wounded, until he heard the signal cannon fire that told him Shivaji had reached the fort. Then he died.
 [VISUAL: narrow pass, small band of soldiers, cannon signal]
@@ -59,11 +59,11 @@ In January 1664, Shivaji attacked Surat, the richest port of the Mughal Empire, 
 Aurangzeb now sent his best general: Mirza Raja Jai Singh of Amer, a Rajput who had served the Mughals for years, with a large army. Jai Singh was patient. He besieged Purandar fort and cut off Shivaji's supplies.
 [VISUAL: Mughal army besieging Purandar]
 In June 1665, Shivaji agreed to the Treaty of Purandar. He gave up twenty-three of his thirty-five forts to the Mughals, and agreed to serve Aurangzeb. He also agreed to visit the Mughal court at Agra.
-In May 1666, Shivaji arrived in Agra with his young son Sambhaji. At the court, on Aurangzeb's birthday, he was put in the third rank, behind lesser nobles. Furious, he protested openly and walked out. He was placed under guard.
+In May 1666, Shivaji arrived in Agra with his young son Sambhaji. At the court, on 12 May, Aurangzeb's fiftieth birthday, he was placed among lesser nobles at the back of the hall, not given the honour he expected. Furious, he protested openly and walked out. He was placed under guard.
 [VISUAL: Agra durbar, Shivaji standing in a low rank, Aurangzeb on the throne]
-What happened next is one of the most famous stories in Indian history. Shivaji fell ill, and sent out large baskets of sweets to Brahmins and holy men as charity. After some days, he and Sambhaji slipped out, hidden in the baskets, according to tradition. Historians doubt the exact details, but it is certain that in August 1666 he escaped from Agra, travelled in disguise as a holy man, and reached Maharashtra after months on the road.
+What happened next is one of the most famous stories in Indian history. Shivaji fell ill, and sent out large baskets of sweets to Brahmins and holy men as charity. After some days, he and Sambhaji slipped out, hidden in the baskets, according to tradition. Historians doubt the exact details, but it is certain that on about 17 August 1666 he escaped from Agra, travelled in disguise as a holy man, and reached Maharashtra after months on the road.
 [VISUAL: sweets baskets, disguised travellers, map of the long road home]
-Over the next few years, he rebuilt his strength, and by 1670 he had retaken many of the forts, along with Surat once more. His great commander Tanaji Malusare had died in the capture of Kondana in 1670, giving rise to the famous saying about the fort being won but the lion lost.
+Over the next few years, he rebuilt his strength, and by 1670 he had retaken many of the forts, along with Surat once more. His great commander Tanaji Malusare had died in the capture of the fort of Kondana, now called Sinhagad, in February 1670, giving rise to the famous saying about the fort being won but the lion lost.
 [VISUAL: forts being recaptured, Tanaji's last climb]
 
 ## 7. THE CORONATION (14:00–16:00)

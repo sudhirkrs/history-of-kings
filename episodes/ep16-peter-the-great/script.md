@@ -24,7 +24,7 @@ Peter took full power only when his mother died in 1694. Ivan V died in 1696. Hi
 Then came the Great Embassy. In March 1697, a delegation of 250 people left Moscow for Europe, with Peter travelling incognito. They visited Riga, Prussia, Holland, England and Vienna. In Zaandam and Amsterdam, Peter worked in the shipyard of the Dutch East India Company, and learned shipbuilding. In England, he studied at the Deptford dockyard, visited the Royal Observatory, the Royal Mint and Oxford. He studied anatomy, learned to pull teeth, and bought tools, books and instruments.
 [VISUAL: Peter at the Dutch shipyard, Deptford, Greenwich observatory]
 He hired over 700 foreign experts, including shipbuilders, doctors and engineers. He planned to go to Venice, but in 1698 news came that the streltsy had risen again. He rushed home.
-The revolt was crushed before he returned. Peter had it investigated, and ordered mass executions. Over a thousand streltsy were executed, some by his own hand, according to foreign diplomats. The regiments were disbanded. It was brutal.
+The revolt was crushed before he returned. Peter had it investigated, and ordered mass executions. Hundreds of streltsy were executed, with figures given from about 800 to over a thousand, and foreign diplomats claimed that Peter beheaded some himself. The regiments were disbanded. It was brutal.
 [VISUAL: Red Square executions, streltsy regiments disbanded]
 
 ## 4. FORCING A NEW RUSSIA (6:00–9:00)
@@ -42,9 +42,9 @@ His reforms had a human cost. Taxes were heavy, conscription was brutal, and tho
 **NARRATION**
 Peter's real goal was the Baltic Sea. Sweden, under its young king Charles XII, held the Baltic coast and was the dominant power in northern Europe. In 1700, Peter allied with Denmark and Saxony-Poland to attack. It was the start of the Great Northern War, which lasted twenty-one years.
 [VISUAL: map of the Baltic, Sweden's empire]
-It started badly. In November 1700, at Narva, the eighteen-year-old Charles XII, with about 10,000 men, destroyed a Russian army of about 35,000 in a snowstorm. Peter had left the camp just before the battle. It was a humiliating defeat.
+It started badly. In November 1700, at Narva, the eighteen-year-old Charles XII, with a much smaller army, destroyed a Russian army of about 35,000 in a snowstorm. Peter had left the camp just before the battle. It was a humiliating defeat.
 [VISUAL: Narva snowstorm, Swedish charge]
-Peter learned from it. He is said to have remarked that the Swedes would beat the Russians for some time, but would teach them how to win. While Charles went to fight in Poland, Peter rebuilt his army with conscription, new regiments and cannons made by melting church bells. He took Swedish forts at the mouth of the Neva river in 1702 and 1703.
+Peter learned from it. He is said to have remarked that the Swedes would beat the Russians for some time, but would teach them how to win. The remark may be legend. While Charles went to fight in Poland, Peter rebuilt his army with conscription, new regiments and cannons made by melting church bells. He took Swedish forts at the mouth of the Neva river in 1702 and 1703.
 In May 1703, on a marshy island, he laid the foundation of the Peter and Paul Fortress, the first building of St Petersburg.
 [VISUAL: Neva river, Peter and Paul Fortress, founding of St Petersburg]
 In 1708, Charles invaded Russia. Peter used a scorched-earth strategy, destroying supplies in his path. The Swedes ended up in Ukraine in a harsh winter. Then, on 8 July 1709, at Poltava, Peter's army of about 40,000 destroyed Charles's weakened force. Charles fled to the Ottoman Empire. Poltava ended Sweden's role as a great power and made Russia one.
@@ -63,7 +63,7 @@ St Petersburg was his window to Europe, designed by foreign architects like Dome
 
 ## 7. THE SON AND THE END (15:30–17:30)
 **NARRATION**
-Peter's private life was difficult. He divorced his first wife, Eudoxia, in 1698 and later married Catherine, a Livonian peasant girl who became his empress. His son and heir, Alexei, from the first marriage, opposed Peter's reforms and fled to Vienna in 1716. He was lured home in 1718, put on trial for treason, and sentenced to death. He died in prison on 26 June 1718, after torture, according to many accounts.
+Peter's private life was difficult. He divorced his first wife, Eudoxia, in 1698 and later married Catherine, a Livonian peasant girl who became his empress. His son and heir, Alexei, from the first marriage, opposed Peter's reforms and fled to Vienna in 1716. He was lured home in 1718, put on trial for treason, and sentenced to death. He died in prison on 26 June 1718. Many accounts say he died of injuries from torture or beating, while the official version blamed shock; historians say the timeline is uncertain.
 [VISUAL: Alexei, trial, prison cell]
 Peter died on 8 February 1725, aged fifty-two, from a urinary illness. A famous story says that in November 1724 he jumped into freezing water to rescue sailors, which worsened his illness. He had not named an heir.
 [VISUAL: Peter on his deathbed]

@@ -10,7 +10,7 @@ The man who ordered this was Kublai Khan, grandson of Genghis. He completed the 
 
 ## 2. A PRINCE IN CHINA (0:50–3:30)
 **NARRATION**
-Kublai was born in 1215, the fourth son of Tolui and a Christian princess, Sorghaghtani Beki. She was a remarkable woman who made sure that her four sons got an excellent education. One of them, Mongke, became Great Khan; another, Hulagu, conquered Persia; another, Ariq Boke, would fight Kublai for the throne; and Kublai himself became the ruler of China.
+Kublai was born in 1215, the second son of Tolui and a Christian princess, Sorghaghtani Beki. She was a remarkable woman who made sure that her four sons got an excellent education. One of them, Mongke, became Great Khan; another, Hulagu, conquered Persia; another, Ariq Boke, would fight Kublai for the throne; and Kublai himself became the ruler of China.
 [VISUAL: Sorghaghtani Beki with her four sons]
 As a young man, Kublai was drawn to China. In 1251, when Mongke became khan, he made Kublai the governor of the Mongol territories in northern China. Kublai gathered Chinese scholars, Buddhist and Daoist monks, and Tibetan lamas. He invited a Chan Buddhist monk, Haiyun, and a Confucian scholar, Liu Bingzhong, who advised him that a conqueror could win the land on horseback but could not rule it on horseback.
 [VISUAL: Kublai with Chinese advisors, Haiyun, Liu Bingzhong]
@@ -31,8 +31,8 @@ But the empire had changed. Other Mongol princes no longer accepted the authorit
 **NARRATION**
 Kublai made his main capital in the city of Zhongdu, the old Jin capital, and built a new city next to it, Dadu, the Great Capital, which is the origin of today's Beijing. It was a planned city with wide avenues, a palace, a bell tower and a drum tower. The work started in 1267.
 [VISUAL: Dadu layout, palace, gates]
-In 1271, Kublai adopted the Chinese dynastic name Yuan, from a phrase in the Book of Changes meaning "the origin" or "the primal force". This was a political move: it declared that he was a Chinese emperor and not only a Mongol khan.
-But he kept Mongol ways too. He divided his subjects into four classes. At the top were the Mongols. Then came the Semu, a class of Central Asians and others, followed by the northern Chinese, and last, the southern Chinese, the people of the former Southern Song. This system gave the Mongols and their foreign allies the best jobs. Historians still debate how strictly it was applied.
+In 1271, Kublai proclaimed the Chinese dynastic name Great Yuan, a name taken, according to the sources, from the Book of Changes, and meaning something like "the origin" or "the primal force". This was a political move: it declared that he was a Chinese emperor and not only a Mongol khan.
+But he kept Mongol ways too. He is traditionally said to have divided his subjects into four classes, though historians debate how strictly this was applied. At the top were the Mongols. Then came the Semu, a class of Central Asians and others, followed by the northern Chinese, and last, the southern Chinese, the people of the former Southern Song. This system gave the Mongols and their foreign allies the best jobs. Historians still debate how strictly it was applied.
 [VISUAL: four-class pyramid]
 
 ## 5. CONQUEST OF THE SONG (8:30–11:00)
@@ -47,7 +47,7 @@ Kublai treated the Song court with care. The child emperor was sent to Tibet to 
 
 ## 6. THE BEYOND-CHINA CAMPAIGNS (11:00–13:30)
 **NARRATION**
-With China conquered, Kublai wanted more. He sent armies to Japan twice, in 1274 and 1281, but failed. The first fleet of about 900 ships landed at Hakata Bay, and then, after a storm, withdrew. The second, much larger force, was ruined by a typhoon in the summer of 1281.
+With China conquered, Kublai wanted more. He sent armies to Japan twice, in 1274 and 1281, but failed. The first fleet, with perhaps 500 to 900 ships, landed at Hakata Bay, and then, after a storm, withdrew. The second, much larger force, with about 4,400 ships and 100,000 or more men, according to the most common figures, was ruined by a typhoon in the summer of 1281. Sources disagree on the exact numbers and the timeline.
 [VISUAL: Hakata Bay, samurai versus Mongol soldiers, typhoon]
 In Southeast Asia, the campaigns had mixed results. Burma's Pagan kingdom was weakened in the 1280s. Campaigns against Vietnam, in 1285 and 1287, were beaten back by the Tran dynasty with guerrilla tactics, and the Mongols fought in swamps and jungles with heavy casualties. A naval expedition to Java in 1293 was tricked by a local ruler and withdrew.
 [VISUAL: Vietnamese guerrilla warfare, Java expedition]
@@ -65,7 +65,7 @@ Marco Polo, a Venetian, claimed that he served Kublai for seventeen years from a
 
 ## 8. THE LAST YEARS AND LEGACY (16:00–18:20)
 **NARRATION**
-Kublai's last years were sad. His favourite wife, Chabi, died in 1281, and his chosen heir, Zhenjin, died in 1285. He grew heavy, suffered from gout, and drank too much. His financial ministers, such as the Muslim Ahmad Fanakati, and later Sangha, were hated for squeezing taxes, and he had to dismiss them.
+Kublai's last years were sad. His favourite wife, Chabi, died in 1281, and his chosen heir, Zhenjin, died in 1285 or early 1286. He grew heavy, suffered from gout, and drank too much. His financial ministers, such as the Muslim Ahmad Fanakati, and later Sangha, were hated for squeezing taxes, and he had to dismiss them.
 [VISUAL: ageing Kublai, Chabi's portrait]
 He died on 18 February 1294, aged seventy-eight. His grandson Temur Oljeitu succeeded him. The Yuan dynasty lasted until 1368, when Han Chinese rebels under Zhu Yuanzhang founded the Ming.
 [VISUAL: Kublai's funeral, Yuan collapse]
@@ -82,7 +82,7 @@ Next, we meet Kublai's cousin who brought the Mongols into Russia: Batu Khan. Su
 - [ ] Xiangyang 1268–1273; counterweight trebuchets (Ismail and Ala al-Din); Lin'an 1276; Yamen 1279.
 - [ ] Japan 1274 (about 900 ships) and 1281 (4,400 ships in some sources).
 - [ ] Vietnam 1285/1287, Java 1293, Burma 1287.
-- [ ] Paper money; Phags-pa script 1269; Ahmad Fanakati killed 1282; Sangha fell 1291.
+- [ ] Paper money; Phags-pa script 1269; Ahmad Fanakati killed 1282 (unverified); Sangha fell 1291 (unverified).
 - [ ] Death 18 Feb 1294; Yuan ends 1368.
 - [ ] Marco Polo's reliability: cite Frances Wood and Peter Jackson.
 

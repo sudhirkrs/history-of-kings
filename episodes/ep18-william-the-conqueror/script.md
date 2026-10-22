@@ -17,7 +17,7 @@ Normandy was a land founded by Vikings. In 911, the Viking chief Rollo was given
 William's childhood was dangerous. Three of his guardians were murdered, and his tutor was killed in front of him. Barons built private castles and fought each other. As a teenager, William learned to survive by being quick, firm and cold.
 In 1047, a rebellion by his own nobles was crushed at Val-es-Dunes, with help from the French king Henry I. Later, Henry turned against him, and William defeated French invasions at Mortemer in 1054 and Varaville in 1057. By the 1060s he was master of Normandy, and one of the strongest princes in France.
 [VISUAL: Val-es-Dunes battle, Norman castles]
-Around 1051 or 1052 he married Matilda of Flanders, a woman of royal blood. The marriage was a success, and they had at least nine children.
+Between about 1050 and 1053 he married Matilda of Flanders, a woman of royal blood. The marriage was a success, and they had at least nine children.
 
 ## 3. THE QUESTION OF THE ENGLISH THRONE (3:30–6:30)
 **NARRATION**
@@ -32,7 +32,7 @@ On 5 January 1066 Edward died. The next day, the Witan, the council of the Engli
 **NARRATION**
 1066 is called the year of three kings. First Edward died, then Harold, and then William was crowned.
 [VISUAL: three kings, timeline]
-William moved quickly. He obtained the Pope's blessing, with a banner to carry in battle, and the Pope declared the invasion a holy cause. He built a fleet of hundreds of ships, perhaps 700, and gathered an army of 7,000 to 8,000 men. He recruited from Normandy, Brittany, Flanders and elsewhere with the promise of land in England.
+William moved quickly. He obtained the Pope's blessing, with a banner to carry in battle, and the Pope declared the invasion a holy cause. He built a fleet of hundreds of ships, though the often-quoted figure of about 700 is uncertain, and gathered an army of perhaps 7,000 to 10,000 men. Nobody knows the exact numbers. He recruited from Normandy, Brittany, Flanders and elsewhere with the promise of land in England.
 Harold held his army on the south coast through the summer, waiting for William. But the Normans were delayed by contrary winds. On 8 September, Harold had to send his men home, as the harvest and supplies ran out.
 [VISUAL: fleet being built, ships waiting in harbour]
 Then Harald Hardrada landed in the north with 300 ships, together with Harold's exiled brother Tostig. They beat the English earls at Fulford on 20 September. Harold marched north in four days, and surprised them at Stamford Bridge on 25 September. Hardrada and Tostig were killed, and the Vikings were crushed.
@@ -55,7 +55,7 @@ By nightfall the English had broken. William had won. He ordered an abbey built 
 William did not rush straight to London. He took Dover, Canterbury and other places in a loop, cutting off the capital. English leaders, including the young Edgar Atheling, the nominal heir, and the archbishops, submitted to him at Berkhamsted. On Christmas Day 1066 he was crowned in Westminster Abbey.
 [VISUAL: coronation at Westminster Abbey]
 When the crowd shouted approval in English and in French, the guards outside thought it was a riot, and set fire to nearby houses. William was trembling, according to one chronicler.
-England did not accept the new king easily. Over the next five years there were rebellions in the west, the Midlands, East Anglia, and the north. In 1069, northern earls, helped by a Danish fleet, took York and killed a Norman garrison. William responded with the Harrying of the North in the winter of 1069 to 1070. His army destroyed crops, animals and villages from York to Durham. Contemporary writers say that tens of thousands died of famine. The monk Orderic Vitalis, who was half Norman, wrote that William had committed a great crime. Modern historians debate the extent: Domesday Book shows large parts of Yorkshire still waste in 1086.
+England did not accept the new king easily. Over the next five years there were rebellions in the west, the Midlands, East Anglia, and the north. In 1069, northern earls, helped by a Danish fleet, took York and killed a Norman garrison. William responded with the Harrying of the North in the winter of 1069 to 1070. His army destroyed crops, animals and villages from York to Durham. Contemporary writers say that tens of thousands died of famine. The monk Orderic Vitalis gives a figure of as many as 100,000, which modern historians consider too high, but tens of thousands is entirely possible. The monk Orderic Vitalis, who was half Norman, wrote that William had committed a great crime. Modern historians debate the extent: Domesday Book shows large parts of Yorkshire still waste in 1086.
 [VISUAL: northern villages burning, empty fields]
 In 1070 to 1071, he also crushed a revolt led by Hereward the Wake in the fens of East Anglia.
 
@@ -72,9 +72,9 @@ The language also changed. For some three centuries, French was the language of 
 
 ## 8. THE END AND LEGACY (18:00–19:30)
 **NARRATION**
-William spent his last years mostly in Normandy, fighting the French king and his own eldest son, Robert Curthose, who rebelled. In July 1087, during a raid on the town of Mantes, William was injured, probably by the pommel of his saddle. He was taken to Rouen and died on 9 September 1087, aged about fifty-nine.
+William spent his last years mostly in Normandy, fighting the French king and his own eldest son, Robert Curthose, who rebelled. In July 1087, during a raid on the town of Mantes, William was injured, according to one account by the pommel of his saddle. The official announcement blamed illness, so the cause is contested. He was taken to Rouen and died on 9 September 1087, aged about fifty-nine.
 [VISUAL: Mantes burning, William's deathbed]
-A grim story follows. His body, which had swollen, burst when forced into a stone coffin, and the smell drove people from the church. Whether true or not, it is recorded by Orderic Vitalis.
+A grim story follows. At his burial in Caen, his swollen body, according to Orderic, burst when forced into a stone coffin, and the smell drove people from the church. Whether true or not, it is recorded by Orderic Vitalis.
 He left Normandy to Robert and England to his second son, William Rufus. Henry, the youngest, got money.
 Historians debate: was the Conquest a revolution or an evolution? Did Anglo-Saxon England already have the foundations for the medieval state? And how many English people died in the Harrying of the North?
 [VISUAL: three question cards]
@@ -83,7 +83,7 @@ Next, we go to France in the seventeenth century, to the king who said, accordin
 
 ## Fact-check flags
 - [ ] Birth c. 1028 Falaise; Robert d. 1035; Val-es-Dunes 1047; Mortemer 1054; Varaville 1057.
-- [ ] Marriage to Matilda c. 1051/52; number of children (about 9-10).
+- [ ] Marriage to Matilda c. 1050–53; number of children (about 9-10).
 - [ ] Edward's alleged promise (1051); Harold's oath 1064/65: debated.
 - [ ] Edward d. 5 Jan 1066; Harold crowned 6 Jan.
 - [ ] Fulford 20 Sept; Stamford Bridge 25 Sept; Pevensey 28 Sept; Hastings 14 Oct; coronation 25 Dec 1066.

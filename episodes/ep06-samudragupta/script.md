@@ -48,18 +48,18 @@ Third, the Dakshinapatha, the southern route. Here the story changes. In the sou
 Why release them? Historians think Samudragupta understood that he could not rule the far south from Pataliputra. It was smarter to defeat them, take their wealth and make them tributaries. The prashasti puts it with a famous phrase: capture, then release, and show favour.
 Fourth, the frontier. Border kingdoms like Samatata in Bengal, Kamarupa in Assam and Nepal, and many tribal republics of Punjab and Rajasthan, including the Malavas, Yaudheyas and Madrakas, paid tribute, obeyed orders and attended in person.
 [VISUAL: frontier kingdoms icons, tribal republics]
-Finally, foreign rulers. The inscription says that the Daivaputra Shahi Shahanushahi, which probably means the Kushan kings, the Shakas and the king of Sri Lanka, brought presents, offered their daughters and asked for royal seals. Historians read this as flattering language for simple diplomatic ties. The Chinese sources add one fact: the Sri Lankan king Meghavarna sent an envoy asking for permission to build a monastery at Bodh Gaya for Sri Lankan pilgrims, and Samudragupta agreed.
+Finally, foreign rulers. The inscription says that the Daivaputra Shahi Shahanushahi, which probably means the Kushan kings, the Shakas and the king of Sri Lanka, brought presents, offered their daughters and asked for royal seals. Historians read this as flattering language for simple diplomatic ties. The Chinese pilgrim Xuanzang, writing centuries later, records that the Sri Lankan king Meghavarna sent an envoy with gifts, asking permission to build a monastery at Bodh Gaya for Sri Lankan pilgrims, and the request was granted. Xuanzang's wording suggests the Gupta court may have seen the gifts as tribute.
 [VISUAL: envoys bringing gifts, Sri Lankan monastery at Bodh Gaya]
 How big was the empire? At its widest, the direct Gupta territory included the Gangetic plain from Punjab to Bengal, with the surrounding kingdoms as vassals. It was not as big as the Maurya Empire, but it was well governed.
 
 ## 6. THE KING WHO PLAYED THE VEENA (11:30–13:30)
 **NARRATION**
-The Napoleon comparison was coined in 1904 by the British historian Vincent Smith. Modern historians criticise it. Samudragupta was not a conqueror who fought for the sake of war. He was a king who combined conquest with careful diplomacy.
+The Napoleon comparison was made by the British historian Vincent Smith, in his Early History of India, first published in 1904. Many modern historians find it misleading. Samudragupta was not a conqueror who fought for the sake of war. He was a king who combined conquest with careful diplomacy.
 [VISUAL: Vincent Smith's book, then a scale of war and diplomacy]
-His coins show another side. His gold coins come in several types. One shows him as an archer with a bow. Another shows him holding a battle-axe. One shows him slaying a tiger, a lion in some versions. And one shows him sitting on a couch, playing the veena.
+His coins show another side. His gold coins come in several types. One shows him as an archer with a bow. Another shows him holding a battle-axe. One shows him slaying a tiger, a rare type. And one shows him sitting on a couch, playing the veena.
 [VISUAL: four coin types in a row]
 The prashasti claims that he put the gods of music to shame by his skill, and that he was a poet who wrote verses worthy of being called the king of poets. No poem by him survives. But the claim is consistent with the music on his coins.
-He also performed the Ashvamedha, the great horse sacrifice, a Vedic ritual that proved a king's supreme power. Coins show a horse in front of a sacrificial post, with the legend: he who has performed the Ashvamedha has brought back the horse after protecting the earth.
+He also performed the Ashvamedha, the great horse sacrifice, a Vedic ritual that proved a king's supreme power. Gold coins show a horse standing in front of a sacrificial post, which numismatists read as marking the horse sacrifice.
 [VISUAL: sacrificial horse, coin with Ashvamedha legend]
 This tells us something about the Guptas. They were Hindu rulers who revived Vedic rituals. They worshipped Vishnu, and called themselves Parama Bhagavata, great devotees of Vishnu. But they also supported Buddhist and Jain institutions, as the Sri Lankan monastery shows.
 
@@ -95,7 +95,8 @@ Next, we go south again, to the Vijayanagara Empire, and the greatest of its kin
 - [ ] The nine Aryavarta kings, twelve Dakshinapatha kings, spellings and identifications.
 - [ ] Susunia inscription and Chandravarman (identification uncertain).
 - [ ] Kacha coins: scholarly debate; do not state as fact.
-- [ ] Meghavarna's mission to Samudragupta (Chinese source, Wang Xuance/ Xuanzang): confirm.
+- [ ] Meghavarna's mission: Xuanzang (c. 637 CE); Wang Xuance version not confirmed.
+- [ ] The lists of nine Aryavarta kings and twelve southern kings: not confirmed by search; check a translation of the Prayaga Prashasti.
 - [ ] "Napoleon of India": Vincent Smith, Early History of India, 1904.
 - [ ] Coin types: archer, battle-axe, tiger-slayer, lyrist, Ashvamedha.
 - [ ] Ramagupta/Devichandraguptam story: label as debated.

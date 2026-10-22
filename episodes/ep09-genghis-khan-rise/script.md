@@ -16,7 +16,7 @@ In the twelfth century, the Mongolian plateau was not a country. It was a patchw
 They fought constantly, over pastures, animals and women, and over old insults. Alliances changed quickly. A family's strength depended on how many loyal warriors it could gather, and in this world, blood ties and personal loyalty mattered more than any state.
 South of the steppe lay China, divided between the Jin dynasty in the north, ruled by Jurchens, and the Song dynasty in the south. The Jin liked to play the tribes against each other, to keep them weak.
 [VISUAL: Jin court, tribal chiefs]
-Our main source for this period is the Secret History of the Mongols, a long account of Genghis Khan's life, written in Mongolian by an unknown author soon after his death, around 1228 or 1240. It was kept in the royal archives. It is detailed and vivid, but it is also a family story told from the winner's point of view, so it needs care. Other sources are the Persian historians Juvaini and Rashid al-Din, and Chinese records.
+Our main source for this period is the Secret History of the Mongols, a long account of Genghis Khan's life, written in Mongolian by an unknown author soon after his death. Scholars date it to 1228 or 1240, or later, and still debate which. It was kept in the royal archives. It is detailed and vivid, but it is also a family story told from the winner's point of view, so it needs care. Other sources are the Persian historians Juvaini and Rashid al-Din, and Chinese records.
 [VISUAL: Secret History manuscript, Persian text, Chinese chronicle]
 
 ## 3. BORN WITH A BLOOD CLOT (3:20–5:30)
@@ -50,7 +50,7 @@ Jamukha is an important figure. He and Temujin had sworn to be anda, blood broth
 
 ## 6. TEMUJIN AGAINST JAMUKHA (10:30–13:00)
 **NARRATION**
-Around the late 1180s, the two split. Each gathered supporters. In a battle called Dalan Balzhut, in around 1187, Jamukha beat Temujin. According to a story in the Persian sources, Jamukha boiled some prisoners alive, which made many leaders turn against him. The story is very unlikely to be literal, but it shows how different traditions saw them.
+Around the late 1180s, the two split. Each gathered supporters. In a battle called Dalan Balzhut, in around 1187, Jamukha beat Temujin. According to some accounts, Jamukha boiled captured enemies alive, which made many leaders turn against him. Historians treat the story with caution, but it shows how later traditions contrasted the two men.
 [VISUAL: two camps, Dalan Balzhut]
 Temujin attracted men who valued loyalty and talent. He rewarded people by merit. Subutai, a blacksmith's son, would become his greatest general. Jebe was an enemy archer who had shot his horse in battle; Temujin liked his honesty and promoted him. Muqali came from a minor family.
 [VISUAL: Subutai, Jebe, Muqali as portraits]
@@ -63,7 +63,7 @@ Then he began to destroy his enemies, one by one. In 1196, with Jin help, he def
 In the spring of 1206, near the source of the Onon river, the chiefs of all the tribes met in a great assembly, the kurultai. They raised a nine-tailed white standard and proclaimed Temujin as Chinggis Khan. The name probably means something like the universal or oceanic ruler. The Mongols were now one people under one ruler.
 [VISUAL: kurultai gathering, nine-tailed white banner]
 He did not just rule. He reorganised everything.
-First, the army. He divided it into decimal units: tens, hundreds, thousands and ten thousands. Soldiers were loyal to their unit and commander, not to their old tribes. He broke up old tribes and mixed their members. Leaders were promoted by ability.
+First, the army. He reorganised it into decimal units: tens, hundreds, thousands and ten thousands. The decimal system was an old steppe tradition, but Genghis made it the backbone of the state. Soldiers were loyal to their unit and commander, not to their old tribes. He broke up old tribes and mixed their members. Leaders were promoted by ability.
 [VISUAL: decimal army diagram arban, jaghun, mingghan, tumen]
 Second, he created a personal guard of about ten thousand, the keshig, picked from the sons of nobles and commoners. They served as bodyguards, administrators and a training school for officers.
 Third, he ordered a written script. The Mongols had no writing. Genghis took a captured Uyghur scribe, Tata-tonga, and had Mongolian written in Uyghur script. This allowed record-keeping and laws.

@@ -39,7 +39,7 @@ By his death, Muscovy had almost tripled in size, and its title changed. Ivan be
 In 1453, the Ottoman Turks under Sultan Mehmed II took Constantinople, ending the Byzantine Empire. The last emperor, Constantine XI, died in the fighting. His niece, Sophia Palaiologina, was brought up in Rome under the care of the Pope.
 [VISUAL: fall of Constantinople, Sophia Palaiologina]
 Ivan's first wife, Maria of Tver, died in 1467. The Pope proposed that Ivan marry Sophia, hoping to bring Russia into the Catholic Church. Ivan accepted. They married in Moscow in 1472. Sophia did not convert Russia to Catholicism; she became an Orthodox believer, and had a major impact on the court, bringing Italian ideas and craftsmen.
-Ivan adopted symbols of Byzantium, especially the double-headed eagle, which became the Russian emblem. After his time, a monk named Filofey would write that Moscow was the Third Rome, since the first Rome had fallen to heresy and the second, Constantinople, to the Turks. This idea was developed under his son and grandson, not under Ivan himself. But Ivan prepared the ground.
+Ivan adopted symbols of Byzantium, especially the double-headed eagle, which became the Russian emblem. Its first documented use as a Russian state emblem is on a seal of 1497. Some historians think that the importance of the marriage has been overstated. After his time, a monk named Filofey would write that Moscow was the Third Rome, since the first Rome had fallen to heresy and the second, Constantinople, to the Turks. This idea was developed under his son and grandson, not under Ivan himself. But Ivan prepared the ground.
 [VISUAL: double-headed eagle, Third Rome letter]
 Historians debate how big Sophia's role was. Some say she pushed Ivan to assert autocratic authority; others say these claims come from later writers who disliked her.
 
@@ -56,7 +56,7 @@ Historians point out that this was not a battle, and not a total break. The Hord
 
 ## 7. THE KREMLIN AND THE STATE (14:00–16:30)
 **NARRATION**
-Ivan also rebuilt Moscow. He hired Italian architects and engineers. The Bolognese Aristotele Fioravanti built the Dormition Cathedral in the Kremlin from 1475 to 1479. Italians also designed the new brick walls and towers of the Kremlin, such as Pietro Solari and Marco Ruffo, whose red-brick walls still stand today.
+Ivan also rebuilt Moscow. He hired Italian architects and engineers. The Bolognese engineer Ridolfo Fioravanti, nicknamed Aristotele, Aristotle, built the Dormition Cathedral in the Kremlin from 1475 to 1479. Italians also designed the new brick walls and towers of the Kremlin, built between 1485 and 1495: Pietro Solari designed the walls and towers, and Marco Ruffo worked on the palace and the eastern side. The red-brick walls still stand today.
 [VISUAL: Dormition Cathedral, Kremlin walls and towers]
 Ivan also built an administration. He gave land to military servitors, called pomeshchiki, in return for service, which created a loyal army. He collected laws in a code, the Sudebnik of 1497, which set rules for courts, fixed the time when peasants could leave their landlords, around St George's Day in autumn, and punished corrupt officials.
 [VISUAL: soldiers with landgrants, Sudebnik manuscript]
@@ -65,7 +65,7 @@ Not all was positive. He crushed dissent, and he exiled and executed his opponen
 
 ## 8. THE END AND LEGACY (16:30–18:30)
 **NARRATION**
-His last years were dominated by a succession struggle. His eldest son, Ivan the Young, from his first marriage, died in 1490. A court battle followed between the faction of Ivan the Young's son Dmitry and the party of Sophia's son Vasily. In 1498 Ivan crowned Dmitry as heir; in 1502 he threw Dmitry into prison and named Vasily as heir. Dmitry died in prison in 1509.
+His last years were dominated by a succession struggle. His eldest son, Ivan the Young, from his first marriage, died in March 1490, of an illness. A court battle followed between the faction of Ivan the Young's son Dmitry and the party of Sophia's son Vasily. In 1498 Ivan crowned Dmitry as heir; in 1502 he threw Dmitry into prison and named Vasily as heir. Dmitry died in prison in 1509.
 [VISUAL: two heirs, the crowning, the prison]
 Ivan died on 27 October 1505, aged sixty-five. His son Vasily III continued the work, annexing Pskov in 1510, Smolensk in 1514 and Ryazan in 1521.
 [VISUAL: Ivan's tomb, Archangel Cathedral]

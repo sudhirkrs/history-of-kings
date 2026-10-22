@@ -34,9 +34,9 @@ The Sun King image started in 1662, when Louis danced in a ballet dressed as the
 [VISUAL: ballet costume, sun emblem]
 Louis's hunting lodge at Versailles, 20 km west of Paris, was gradually transformed into a palace. The work started in the 1660s under the architect Louis Le Vau, with gardens by Andre Le Notre and interiors by Charles Le Brun. Jules Hardouin-Mansart built the Hall of Mirrors, with 357 mirrors, between 1678 and 1684. In 1682, Louis moved the court there permanently.
 [VISUAL: Versailles from the air, Hall of Mirrors, gardens]
-The palace housed around 3,000 courtiers and perhaps up to 10,000 servants and soldiers. The nobility were invited, almost forced, to live there. Daily life was a ritual: the king's rising and going to bed were public ceremonies, called the lever and coucher, and it was an honour to hand him his shirt. Rank was shown by who could sit, who could stand, and who could carry the candlestick.
+The palace housed thousands of courtiers, servants and soldiers; estimates of the exact number vary. The nobility were invited, almost forced, to live there. Daily life was a ritual: the king's rising and going to bed were public ceremonies, called the lever and coucher, and it was an honour to hand him his shirt. Rank was shown by who could sit, who could stand, and who could carry the candlestick.
 [VISUAL: the levee ritual, courtiers]
-Historians have debated why Louis did this. The traditional view is that he wanted to tame the nobility by keeping them occupied with court politics and far from their provinces. Newer research, by scholars like Jeroen Duindam, points out that the court was also a place where nobles bargained for favours, and the king depended on them. The cost was huge: at its peak, Versailles took about 5 to 6 percent of the royal budget, not the 50 percent that was once claimed.
+Historians have debated why Louis did this. The traditional view is that he wanted to tame the nobility by keeping them occupied with court politics and far from their provinces. Newer research, by scholars like Jeroen Duindam, points out that the court was also a place where nobles bargained for favours, and the king depended on them. The cost was huge, but historians now think that the share of the royal budget it took was much smaller than the figures once claimed, which ran to half of all spending.
 Louis was also the patron of great artists. Molière's comedies, Racine's tragedies, Lully's music and Lebrun's paintings made France the cultural centre of Europe. He founded the Academies of Sciences and of Painting. French became the language of diplomacy.
 [VISUAL: Molière, Lully, Racine]
 
@@ -53,9 +53,9 @@ In the end, the Treaty of Utrecht in 1713 allowed Philip to keep Spain, but only
 
 ## 6. THE DARK SIDE (14:00–16:30)
 **NARRATION**
-Louis's France had a harsh side. In 1685, he revoked the Edict of Nantes, the law of 1598 that had given French Protestants, the Huguenots, the right to worship. His reasons were religious and political: he wanted unity in the kingdom, and he thought that he was winning back lost souls. Protestant churches were destroyed, and children were taken to be raised as Catholics. Around 200,000 Huguenots fled abroad, taking skills and capital to England, the Netherlands and Prussia.
+Louis's France had a harsh side. In 1685, he revoked the Edict of Nantes, the law of 1598 that had given French Protestants, the Huguenots, the right to worship. His reasons were religious and political: he wanted unity in the kingdom, and he thought that he was winning back lost souls. Protestant churches were destroyed, and children were taken to be raised as Catholics. Between 150,000 and 200,000 Huguenots fled abroad, taking skills and capital to England, the Netherlands and Prussia.
 [VISUAL: Huguenots fleeing, closed church]
-In the 1690s and 1700s, the country also suffered terrible famines, especially in 1693 to 1694 and in the winter of 1709. Historians estimate that around 1.3 million people died in the first crisis. The weather was a factor, but so were war taxes and requisitions.
+In the 1690s and 1700s, the country also suffered terrible famines, especially in 1693 to 1694 and in the winter of 1709. Historians estimate that well over a million people died in the first crisis, with the commonly cited figure being about 1.3 million. The numbers are uncertain. The weather was a factor, but so were war taxes and requisitions.
 Taxes were heavy. The nobility and clergy were largely exempt, and the burden fell on peasants. By 1715 the state's debt was enormous, and France was in a deep financial crisis.
 [VISUAL: famine, tax collectors, empty granary]
 
@@ -63,7 +63,7 @@ Taxes were heavy. The nobility and clergy were largely exempt, and the burden fe
 **NARRATION**
 Louis's personal life was long and complicated. He had a queen, Maria Theresa of Spain, and many mistresses, including Louise de La Valliere, Madame de Montespan and finally Madame de Maintenon, whom he secretly married after the queen died in 1683. He had many children, though most legitimate ones died young. His son, the Dauphin, died in 1711, and his grandson in 1712. In 1712, his great-grandson was the only surviving direct heir.
 [VISUAL: family tree with deaths, Madame de Maintenon]
-Louis died on 1 September 1715, a few days before his seventy-seventh birthday, of gangrene in his leg. On his deathbed, he told his great-grandson and heir, then five years old: I have loved war too much. Do not imitate me. The quote is recorded in the Marquis de Dangeau's journal, but historians disagree about its accuracy.
+Louis died on 1 September 1715, a few days before his seventy-seventh birthday, of gangrene in his leg. On his deathbed, he reportedly told his great-grandson and heir, then five years old, not to imitate him in his love of war and building. The wording varies in the sources, and historians doubt the exact quote.
 [VISUAL: deathbed with child heir]
 The child became Louis XV. The famous quote, I am the state, attributed to Louis, was not said by him, according to historians. It is a later invention.
 
@@ -80,7 +80,7 @@ Our final video in this series brings us to the man who said he found the French
 - [ ] Fronde 1648–53; flight of Jan 1649.
 - [ ] Fouquet's fête at Vaux Aug 1661; arrest Sept 1661.
 - [ ] Hall of Mirrors 1678–84, 357 mirrors; court moved 1682.
-- [ ] Court size (3,000 courtiers, up to 10,000 total): check Duindam.
+- [ ] Court size and budget share: not verified; check Duindam.
 - [ ] Share of the budget spent on Versailles (5–6%).
 - [ ] Devolution 1667–68; Dutch War 1672–78; Strasbourg 1681; Nine Years' War 1688–97; Spanish Succession 1701–14; Utrecht 1713.
 - [ ] Revocation Oct 1685; Huguenot emigrants (~200,000).

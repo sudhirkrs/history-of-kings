@@ -31,7 +31,7 @@ The danger was an unusual man called Hemu, or Hemchandra. He had started as a tr
 On 5 November 1556, the two armies met at Panipat, the same field where Babur had won thirty years earlier. Hemu had more soldiers and many war elephants, and his side was winning.
 Then an arrow struck him in the eye. He fell unconscious inside his howdah, and his army, thinking he was dead, broke and ran. Hemu was captured and executed.
 [VISUAL: Panipat 1556 battle map, arrow, army fleeing]
-Some accounts say Bairam Khan asked young Akbar to strike the final blow, and Akbar refused. But this story comes from one source, and historians doubt it.
+Some accounts say Bairam Khan urged the young Akbar to strike the final blow, to earn the title of ghazi, a holy warrior. The sources disagree on whether Akbar actually did, and many historians doubt that he did. Hemu died, whoever struck.
 What is certain is that the Mughal Empire was saved by luck as much as skill. If that arrow had missed, Akbar might be remembered as a footnote.
 
 ## 4. TAKING CONTROL (7:00–9:50)
@@ -40,7 +40,7 @@ For four years, Bairam Khan ran things. But Akbar was growing up, and he wanted 
 [VISUAL: Akbar taking the reins, Bairam departing]
 Akbar still had to deal with powerful people close to him. His foster-brother Adham Khan, the son of his nurse Maham Anga, murdered a minister in 1562. Akbar had him thrown from a terrace at Agra Fort, twice, to be sure. The message was clear: the emperor was in charge.
 [VISUAL: Agra Fort terrace, stylised silhouette]
-Next, he made a decision that changed Mughal history. In 1562, he married the daughter of Raja Bharmal of Amer, a Rajput kingdom near modern Jaipur. In the following years, he abolished the tax on Hindu pilgrims in 1563, and the jizya, the special tax on non-Muslims, in 1564.
+Next, he made a decision that changed Mughal history. In 1562, he married the daughter of Raja Bharmal of Amer, a Rajput kingdom near modern Jaipur. In the following years, he abolished the tax on Hindu pilgrims, around 1563, and the jizya, the special tax on non-Muslims, in 1564. A later emperor, Aurangzeb, brought the jizya back in 1679.
 [VISUAL: wedding procession, tax receipt]
 This was a new approach. Rulers before him had mostly seen Rajput chiefs as enemies. Akbar made them partners. Raja Man Singh of Amer, Raja Todar Mal and Raja Birbal became some of his top officials. By the end of his reign, a large share of the highest-ranking nobles were Hindus, mostly Rajputs.
 [VISUAL: Man Singh, Todar Mal, Birbal portraits]
@@ -49,7 +49,7 @@ This was a new approach. Rulers before him had mostly seen Rajput chiefs as enem
 **NARRATION**
 But Akbar was no pacifist. He conquered a huge region, using both force and negotiation.
 [VISUAL: map of Rajputana, Gujarat and Bengal]
-Many Rajput kings accepted his rule. Mewar, whose capital was the great fort of Chittorgarh, did not. In 1567, Akbar laid siege to Chittor. The siege lasted months. The defenders, led by Jaimal and Patta, fought hard, and their names are still remembered. When the fort fell in February 1568, thousands of its defenders died. Akbar's chronicler says that about thirty thousand people were killed afterwards, in a massacre that stands among the darkest moments of his reign.
+Many Rajput kings accepted his rule. Mewar, whose capital was the great fort of Chittorgarh, did not. In 1567, Akbar laid siege to Chittor. The siege lasted months. The defenders, led by Jaimal and Patta, fought hard, and their names are still remembered. When the fort fell on 23 February 1568, thousands of its defenders died. The defender Jaimal was shot, by some accounts by Akbar himself. Akbar's chronicler says that about thirty thousand people were killed afterwards, in a massacre that stands among the darkest moments of his reign.
 [VISUAL: Chittorgarh fort, siege lines, solemn silhouette]
 Then came Gujarat in 1572 and 1573, with its rich ports and cloth trade. Bengal followed in 1576.
 In June 1576 at Haldighati, Mughal forces led by Man Singh fought Maharana Pratap, who had taken the Mewar throne and refused to submit. The Rajput forces were pushed back, but Pratap escaped and continued to resist for years. Who won is still debated, and we will look more closely at Pratap in a later episode.
@@ -71,7 +71,7 @@ His court was famous for talent. Tradition speaks of the Navaratnas, the nine je
 
 ## 7. FAITH AND IDEAS (16:10–18:50)
 **NARRATION**
-Akbar was endlessly curious about religion. In 1575 he built the Ibadat Khana, the House of Worship, at Fatehpur Sikri, where scholars of Islam argued with each other. Soon he invited Hindus, Jains, Parsis, and Jesuit priests from Goa.
+Akbar was endlessly curious about religion. In 1574 or 1575 he built the Ibadat Khana, the House of Worship, at Fatehpur Sikri, where scholars of Islam argued with each other. Soon he invited Hindus, Jains, Parsis, and Jesuit priests from Goa.
 [VISUAL: debate scene, Jesuit missionaries]
 In 1582 he started the Din-i-Ilahi, the Divine Faith. Many people think it was a new religion. Most historians say it was a small circle of courtiers who pledged personal loyalty to the emperor, with a few moral rules. It had very few members, and died with him.
 [VISUAL: Din-i-Ilahi emblem, small group of courtiers]
@@ -100,7 +100,7 @@ In 1579 he issued a decree, called the mahzar, that made the emperor the final j
 **NARRATION**
 His last years were unhappy. His son Salim, the future emperor Jahangir, rebelled and set up his own court. In 1602, Salim arranged the murder of Abu'l Fazl, Akbar's friend and chronicler.
 [VISUAL: Salim, then Abu'l Fazl portrait]
-Akbar died on 27 October 1605, at Agra. He was buried at Sikandra, in a tomb that he had planned himself.
+Akbar died on 27 October 1605, at Agra, according to most sources. He was buried at Sikandra, in a tomb that he had planned himself.
 [VISUAL: Sikandra tomb]
 
 ## 9. LEGACY AND DEBATE (20:10–21:20)
@@ -113,7 +113,7 @@ Let me know what you think in the comments. Next time, we meet the Maratha king 
 
 ## Fact-check flags
 - [ ] Birth 15 Oct 1542 Umarkot; accession 14 Feb 1556 Kalanaur; death 27 Oct 1605.
-- [ ] Second Panipat 5 Nov 1556; elephants; the "Akbar refused to strike" story (Badauni?) — mark doubtful.
+- [ ] Second Panipat 5 Nov 1556; whether Akbar struck Hemu: sources conflict.
 - [ ] Hemu captured Delhi at Tughlaqabad 6 Oct 1556.
 - [ ] Pilgrim tax 1563, jizya 1564 — check whether it was lifted empire-wide.
 - [ ] Adham Khan 1562: details of the death.

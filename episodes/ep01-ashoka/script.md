@@ -76,7 +76,7 @@ What did Ashoka do next? He turned to a idea he calls dhamma. That is the Pali f
 Ashoka's dhamma was not a religion with priests and rituals. It was a way of living. In his edicts, he lists what it means: obey your parents, respect your elders, be generous to the poor and to monks and Brahmins, treat servants and slaves well, be truthful, be gentle, and do not kill living creatures.
 [VISUAL: icons for each virtue appearing one by one]
 He also wanted his officers to act this way. He created a new post, the dhamma-mahamatta, an officer whose job was to look after the welfare of people of all faiths, and to spread this ethic.
-He built things too. In Pillar Edict 7 he lists his works: roads lined with shade trees, mango groves, wells every half mile, rest houses, and medical care for people and animals.
+He built things too. In Pillar Edict 7 he lists his works: roads lined with banyan shade trees, mango groves, wells dug at every half kos, which is roughly a mile, rest houses, and medical care for people and animals.
 [VISUAL: road with trees, wells, rest house, herbal medicine]
 And he told his people about it, in stone. He had his messages cut into rocks and into tall, polished sandstone pillars across the empire, in local languages. In the east, in a script called Brahmi. In the north-west, in Aramaic and in Greek.
 [VISUAL: map of edict sites, Kandahar Greek inscription close-up]

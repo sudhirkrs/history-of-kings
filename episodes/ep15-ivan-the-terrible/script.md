@@ -10,9 +10,9 @@ He is known as Ivan the Terrible. But the Russian word Grozny does not quite mea
 
 ## 2. A LONELY CHILDHOOD (0:50–3:00)
 **NARRATION**
-Ivan was born on 25 August 1530, the son of Grand Prince Vasily III and his second wife, Elena Glinskaya. His father died when he was three, in 1533. His mother ruled as regent, until she died suddenly in 1538, when Ivan was eight. Many people believe she was poisoned. A 1990s study of her remains found a high level of mercury, which supports this.
+Ivan was born on 25 August 1530, the son of Grand Prince Vasily III and his second wife, Elena Glinskaya. His father died when he was three, in 1533. His mother ruled as regent, until she died suddenly in 1538, when Ivan was eight. Many people believe she was poisoned. Some studies of her remains have reported high levels of mercury, though what they prove is debated.
 [VISUAL: young Ivan, Elena Glinskaya's funeral]
-After that, the boyar families, the great nobles, fought for control. Ivan's own memories, written years later in letters, describe being treated like a beggar, ignored and humiliated, while the boyars looted the treasury. He spent his childhood in a court of intrigue. At thirteen, in 1543, he had the leader of the Shuisky family arrested and thrown to the hunting dogs. It showed his character early.
+After that, the boyar families, the great nobles, fought for control. Ivan's own memories, written years later in letters, describe being treated like a beggar, ignored and humiliated, while the boyars looted the treasury. He spent his childhood in a court of intrigue. At thirteen, in 1543, he had Andrei Shuisky, a leader of the Shuisky family, arrested, and, according to the chronicles, handed to the keepers of the hunting dogs, who killed him. Ivan took power into his own hands in 1544. It showed his character early.
 [VISUAL: boyars quarrelling, hunting dogs]
 Historians see a deep effect on his mind: mistrust, fear and a conviction that nobles were his enemies.
 
@@ -21,16 +21,16 @@ Historians see a deep effect on his mind: mistrust, fear and a conviction that n
 On 16 January 1547, Ivan was crowned Tsar, a title taken from Caesar and used earlier for Byzantine emperors and Mongol khans. It made him equal to the emperors of the world. A few weeks later he married Anastasia Romanovna, from a boyar family. By all accounts it was a happy marriage.
 [VISUAL: coronation, Ivan and Anastasia]
 In June 1547, a huge fire destroyed much of Moscow, and a riot broke out against the Glinsky relatives of the Tsar. Ivan was badly shaken. He turned to advisors: the priest Sylvester and the courtier Aleksei Adashev. They formed a group called the Chosen Council.
-Between 1547 and 1560, Russia saw big reforms. A new law code, the Sudebnik of 1550, set out courts and punished corruption. In 1549 the first Zemsky Sobor, an assembly of the land, was held. The army was reorganised. A new infantry force with firearms, the streltsy, was created. The church was reformed at the Stoglav Council of 1551.
+Between 1547 and 1560, Russia saw big reforms. A new law code, the Sudebnik of 1550, set out courts and punished corruption. In 1549 the first Zemsky Sobor, an assembly of the land, was held. The army was reorganised. A new infantry force with firearms, the streltsy, was created around 1550. The church was reformed at the Stoglav Council of 1551.
 [VISUAL: Sudebnik, assembly of the land, streltsy with muskets]
 These years are called the good years of Ivan's reign.
 
 ## 4. KAZAN, ASTRAKHAN AND ST BASIL'S (6:00–8:30)
 **NARRATION**
-The first big goal was Kazan, the Tatar khanate on the middle Volga, a long-time enemy that raided Russian lands and took slaves. After failed attempts in 1547 and 1549, Ivan led a huge army, perhaps 150,000, in 1552. Engineers dug mines under the walls and filled them with gunpowder. On 2 October 1552, the explosions brought down the walls, and the Russians stormed in. Kazan fell.
+The first big goal was Kazan, the Tatar khanate on the middle Volga, a long-time enemy that raided Russian lands and took slaves. After failed attempts in 1547 and 1549, Ivan led a huge army, traditionally put at about 150,000 men, in 1552. Engineers dug mines under the walls and filled them with gunpowder. On 2 October 1552, the explosions brought down the walls, and the Russians stormed in. Kazan fell.
 [VISUAL: siege of Kazan, mines exploding]
 In 1556, Astrakhan, the khanate at the mouth of the Volga, was taken without a major fight. The entire Volga now belonged to Russia. This opened the way to the Caspian Sea, and to Siberia.
-To mark the victory, Ivan ordered a cathedral on Red Square: the Cathedral of the Intercession, later known as St Basil's. It was built from 1555 to 1561, with nine chapels around a central tower, each with a different dome. A later legend says Ivan blinded the architects so they could never build anything as beautiful. This is a myth, as one of the architects, Postnik Yakovlev, appears in records working on other buildings later.
+To mark the victory, Ivan ordered a cathedral on Red Square: the Cathedral of the Intercession, later known as St Basil's. It was built from 1555 to 1561, with nine chapels around a central tower, each with a different dome. A later legend says Ivan blinded the architects so they could never build anything as beautiful. Historians treat this as a myth. The architects are not certain: names like Postnik Yakovlev and Ivan Barma are given, and some scholars think they may be the same man, while others suggest a European master.
 [VISUAL: St Basil's, domes, architects]
 
 ## 5. THE TURN (8:30–11:00)
@@ -47,7 +47,7 @@ In December 1564, Ivan left Moscow suddenly with his family and treasury, and se
 [VISUAL: Ivan's departure, letters, crowds begging]
 Then he divided the country in two. One part, the zemshchina, was left to the old administration. The other, the oprichnina, was the Tsar's personal domain, with its own lands, army and officials. The members of the oprichnina, the oprichniki, wore black, rode black horses and carried a dog's head and a broom as symbols, meaning that they would bite and sweep away treason, according to the foreign accounts of Heinrich Staden and Albert Schlichting.
 [VISUAL: oprichniki in black, dog's head and broom]
-They seized lands, executed boyars and terrorised the population. In 1568 the metropolitan Philip was removed, and later killed, after criticising Ivan. In 1570, Ivan marched on Novgorod, suspecting it of treason. For about five weeks, the oprichniki tortured and killed the townspeople. The number of dead is debated: from about 3,000 to 15,000 or more. In 1571, the Crimean Tatars under Devlet Giray burned Moscow, while the oprichnina army failed to defend it. Ivan abolished the oprichnina in 1572.
+They seized lands, executed boyars and terrorised the population. In 1568 the metropolitan Philip was removed, and later killed, after criticising Ivan. In 1570, Ivan marched on Novgorod, suspecting it of treason. For about five weeks, the oprichniki tortured and killed the townspeople. The number of dead is debated: estimates run from about 2,000 to 15,000 or more. In 1571, the Crimean Tatars under Devlet Giray burned Moscow, while the oprichnina army failed to defend it. Ivan abolished the oprichnina in 1572.
 [VISUAL: Novgorod massacre, Moscow burning in 1571]
 Historians have long argued about it. Some, like the Soviet-era scholars, saw it as a rational policy to break the power of the boyars. Others, like Ruslan Skrynnikov, saw it as pure terror driven by paranoia. Most today say it was inefficient, and damaging.
 
@@ -55,7 +55,7 @@ Historians have long argued about it. Some, like the Soviet-era scholars, saw it
 **NARRATION**
 Ivan married six more times after Anastasia, although the Church allowed only three marriages. In November 1581, in a fit of rage, he struck his pregnant daughter-in-law, and when his son Ivan Ivanovich protested, he hit him on the head with his staff. The prince died days later. This is the scene famously painted by Ilya Repin in 1885.
 [VISUAL: Repin's painting, with a note: 19th-century painting]
-Some historians question the story, since the earliest source is a Jesuit, Antonio Possevino, who had reason to portray Ivan negatively. Others accept that the death took place in a violent quarrel. In 1963, when Ivan's tomb was opened, scientists found very high levels of mercury in the bones, suggesting he was taking mercury as a medicine or had been poisoned.
+Some historians question the story. The only contemporary source is a Jesuit, Antonio Possevino, writing for readers abroad, and the historian Paul Bushkovitch has argued that there is no reliable evidence that Ivan killed his son. Others accept that the death took place in a violent quarrel. In 1963, when the tombs were opened, scientists found high levels of mercury and other metals in the bones of both father and son. That could be from medicines of the time or from poison. The result settled nothing.
 Whatever the case, Ivan was left with his younger son, Feodor, who was weak and slow, and baby Dmitry.
 In the 1580s, a Cossack named Yermak, backed by the Stroganov merchants, crossed the Urals and defeated the Siberian khan Kuchum. This was the start of the conquest of Siberia.
 [VISUAL: Yermak crossing the Urals]
@@ -71,7 +71,7 @@ Next, we jump ahead 120 years to the tsar who built a new capital on a swamp and
 [VISUAL: end screen]
 
 ## Fact-check flags
-- [ ] Born 25 Aug 1530; Elena d. 1538 (mercury found in remains: check source); Shuisky 1543.
+- [ ] Born 25 Aug 1530; Elena d. 1538 (mercury studies debated); Shuisky 1543; personal rule 1544.
 - [ ] Coronation 16 Jan 1547; marriage to Anastasia Feb 1547; Moscow fire June 1547.
 - [ ] Kazan fell 2 Oct 1552; Astrakhan 1556; army size.
 - [ ] St Basil's 1555–61; blinding legend: myth.

@@ -27,7 +27,7 @@ When Udai Singh died in 1572, a succession dispute broke out. The old king had f
 **NARRATION**
 Akbar wanted the Rajput kingdoms to join his empire willingly, in exchange for high positions in the Mughal service and keeping their lands. Most Rajput rulers accepted. But Mewar was different. It was the senior Rajput house, and for it to bow would change the balance for all Rajputs.
 [VISUAL: Akbar's offer scroll]
-Between 1572 and 1573, Akbar sent four envoys, one after another: Jalal Khan Qurchi, Man Singh of Amer, Bhagwant Das and Todar Mal. The Mughal accounts say they offered Pratap an honourable position as a vassal. According to the Rajput accounts, Pratap was unwilling to attend the Mughal court in person, as the other Rajput kings did.
+Between 1572 and 1573, Akbar sent four envoys, one after another: Jalal Khan Qurchi in 1572, Man Singh of Amer in 1573, Bhagwant Das in late 1573, and Todar Mal, whose visit is undated. The Mughal accounts say they offered Pratap an honourable position as a vassal. According to the Rajput accounts, Pratap was unwilling to attend the Mughal court in person, as the other Rajput kings did.
 [VISUAL: four envoys arriving, Pratap listening, then refusing]
 We should remember that Pratap was not refusing to pay respect to authority in general. He was refusing a particular kind of subordination. He was ready to send his son; he would not go himself. For Akbar, that was not enough.
 War became certain.
@@ -38,9 +38,9 @@ In April 1576, Akbar sent a Mughal army to Mewar, under the command of Raja Man 
 [VISUAL: Mughal army marching, Akbar at Ajmer]
 Pratap met them at Haldighati, a pass whose yellow-coloured soil gave it its name. He placed his troops in the narrow valley, with Bhil archers on the hills. Among his commanders were Hakim Khan Sur, an Afghan chief and descendant of Sher Shah, and Ramshah Tanwar, a Rajput prince from Gwalior.
 [VISUAL: Haldighati layout, Bhil archers on the hillsides, Hakim Khan Sur]
-On the morning of 18 June 1576, Pratap's charge broke the Mughal vanguard. For some time it seemed he would win. Then, the Mughal reserves rallied, and a rumour spread that the Emperor himself was arriving. The Rajput left wing was pushed back. Pratap, on his horse Chetak, charged towards Man Singh's elephant. Chetak, according to Rajput tradition, was wounded as it jumped.
+On the morning of 18 June 1576, Pratap's charge broke the Mughal vanguard. For some time it seemed he would win. Then, the Mughal reserves rallied, and a rumour spread that the Emperor himself was arriving. The Rajput left wing was pushed back. Pratap, on his horse, charged towards Man Singh's elephant. Later Mewar tradition names the horse Chetak and says it was wounded as it jumped. Contemporary records do not even name the horse; the Chetak story comes from Mewar poems of the seventeenth century onwards.
 [VISUAL: cavalry charge, Chetak and the elephant]
-Pratap was now wounded and surrounded. A loyal noble, Jhala Man Singh, took the royal umbrella and insignia, drawing the enemy to himself, and died. Pratap rode away from the field. Chetak died soon afterwards of its wounds, and a memorial stands there today.
+Pratap was now wounded and surrounded. A loyal noble, Jhala Man Singh, took the royal umbrella and insignia, drawing the enemy to himself, and died. Pratap rode away from the field. Tradition says the horse died soon afterwards of its wounds, and a memorial stands there today.
 [VISUAL: Jhala Man Singh with royal insignia, Chetak's memorial]
 Who won? The Mughals held the field. But they failed to capture Pratap, the main goal. The Mughal chronicler Badauni, who was present, criticised Man Singh for not pursuing the Rana. Akbar was said to be displeased with his commanders. Modern historians differ: some say it was a Mughal victory, because they held the ground; some say it was a draw; and others call it a Rajput moral victory. We should say: tactically the Mughals won, but strategically Pratap survived.
 
@@ -51,14 +51,14 @@ After Haldighati, Pratap retreated into the western hills, around Kumbhalgarh an
 These were tough years. Later bards, including the English writer James Tod in 1829, wrote that Pratap and his family lived in the jungle, eating grass bread, and that he was nearly ready to give up when a loyal minister, Bhamashah, gave his own wealth to raise a new army. These stories are powerful, but they are not found in contemporary records, and historians treat them as legend, perhaps with a seed of truth.
 [VISUAL: forest life, grass bread, Bhamashah donating treasure]
 The tide turned in the 1580s. Akbar's attention shifted to the north-west frontier, Kabul and Punjab, from about 1585. The Mughal pressure on Mewar eased.
-In 1582 at Dewair, Pratap won a major victory over a Mughal force. Then he set about recovering his lands. Over the next few years, he retook most of Mewar, except for Chittor and Mandalgarh. He moved his capital to Chavand, near modern Udaipur, and built it up.
+In 1582 at Dewair, Pratap won a major victory over a Mughal force. Then he set about recovering his lands. After Akbar left for Lahore in 1585, he retook much of western Mewar, including Kumbhalgarh, Udaipur and Gogunda, though Chittor stayed in Mughal hands. He moved his capital to Chavand, near modern Udaipur, and built it up.
 [VISUAL: Dewair battle, recapture of forts, Chavand]
 
 ## 7. THE LAST DAYS (13:30–15:00)
 **NARRATION**
 Pratap died on 19 January 1597, aged 56, at Chavand, from injuries suffered in a hunting accident, according to tradition. On his deathbed, tradition says, he asked his son and heir Amar Singh and the chiefs to promise to never submit to the Mughals.
 [VISUAL: Chavand, deathbed scene]
-Amar Singh ruled until 1620. Eventually, under Jahangir, Mewar made peace on honourable terms in 1615: the Rana did not have to attend the Mughal court in person; his son would serve. Chittor was returned. In some ways, this was close to what Pratap had insisted on.
+Amar Singh ruled until 1620. Eventually, under Jahangir, Mewar made peace in 1615: the Rana accepted Mughal overlordship, but did not have to attend the Mughal court in person, and a representative from his family served in his place. Chittor was returned, on condition that its fortifications were not repaired. In some ways, this was close to what Pratap had insisted on.
 [VISUAL: treaty of 1615, Amar Singh and Prince Khurram]
 
 ## 8. MEMORY, MYTH AND DEBATE (15:00–17:30)

@@ -16,11 +16,11 @@ Khwarezm was ruled by Shah Muhammad II. His lands reached from the Aral Sea to t
 Genghis wanted trade. He had just conquered northern China and the Silk Road was his to protect. He sent a caravan of some hundreds of merchants, with gold and silver, to Khwarezm in 1218.
 Inalchuq, the governor of Otrar, seized the caravan. The Persian historian Juvaini says Inalchuq was greedy and thought the merchants were spies. Almost all of them were killed. The Mongol sources say there were 450 men, though the number is uncertain.
 [VISUAL: Inalchuq, trading goods seized]
-Genghis sent three envoys to ask the Shah to hand over the governor. The Shah had one of the envoys executed. This broke the rules of diplomacy that the Mongols took very seriously. War was now certain.
+According to the chronicles, Genghis sent envoys to ask the Shah to hand over the governor. The accounts differ on details, but at least one envoy was killed. This broke the rules of diplomacy that the Mongols took very seriously. War was now certain.
 
 ## 3. THE INVASION (3:20–7:30)
 **NARRATION**
-In 1219, Genghis led an army, probably between 90,000 and 150,000 men, out of Mongolia. He left his general Muqali to continue the war in China. He took four sons with him, and a number of engineers from China.
+In 1219, Genghis led a large army out of Mongolia. Estimates of its size are uncertain, from around 100,000 to well over that. He left his general Muqali to continue the war in China. He took four sons with him, and a number of engineers from China.
 [VISUAL: army crossing the Altai, engineers with siege machines]
 The Mongols divided into columns. Jochi and Chagatai besieged Otrar. Genghis himself, with his youngest son Tolui, struck at Bukhara. The Shah, instead of fighting a decisive battle, scattered his forces in garrisons. This was a fatal mistake, because the Mongols could take the garrisons one at a time.
 [VISUAL: Mongol columns on a map, scattered garrisons]
@@ -51,7 +51,7 @@ This fits a broader pattern. The Mongols were tolerant in religion. Clergy of al
 ## 6. HOW THE MONGOL EMPIRE WORKED (12:30–15:00)
 **NARRATION**
 Genghis returned to Mongolia in 1225 and organised his empire.
-He built the yam, a relay system of stations with horses and riders, across the empire. Messengers could travel hundreds of kilometres in a few days. This tied together a huge area and became one of the empire's main strengths.
+The yam, a relay system of stations with horses and riders, linked the empire. It began under Genghis, and was greatly expanded and formalised later, under his son Ogedei. Messengers could travel hundreds of kilometres in a few days. This tied together a huge area and became one of the empire's main strengths.
 [VISUAL: relay stations, riders]
 He protected trade. Merchants, including Muslims, Chinese and Uyghurs, were given privileges. Roads were made safe. This is the origin of what historians later called the Pax Mongolica, the period when travellers like Marco Polo could cross Asia.
 He employed foreigners. His main administrators included Uyghur scribes, Khitan advisors like Yelu Chucai, and Muslim merchants. He valued ability over origin.
@@ -65,23 +65,23 @@ The Tangut kingdom of Western Xia had refused to send troops to the Khwarezm cam
 [VISUAL: siege of the Tangut capital, the khan's tent]
 How did he die? The sources disagree. One says he fell from a horse during a hunt. Another says he died from illness, perhaps typhus or a fever. Marco Polo, writing much later, says he was shot in the knee by an arrow. Another legend says the Tangut queen injured him. We cannot be sure.
 [VISUAL: four theories on cards]
-His body was taken back to Mongolia and buried in a secret place, probably on or near the mountain of Burkhan Khaldun. Legends say that those who carried him were killed, and that a river was diverted over the grave. No one has found the tomb, and Mongolians today largely discourage its search.
+He died on about 18 August 1227. His death was kept secret at first. According to tradition, his body was taken back to Mongolia and buried in a secret place, probably on or near the mountain of Burkhan Khaldun. Legends say that those who carried him were killed, and that a river was diverted over the grave. No one has found the tomb, and Mongolians today largely discourage its search.
 [VISUAL: Burkhan Khaldun mountain]
 Before his death, he named his third son Ogedei as his successor. His eldest son Jochi had died, perhaps in 1225. Chagatai and Tolui received their own territories.
 
 ## 8. LEGACY AND DEBATE (17:30–19:30)
 **NARRATION**
-What did Genghis Khan leave? The Mongol Empire, which his sons and grandsons expanded to cover Eurasia from Korea to Hungary. Estimates suggest that it became the largest contiguous empire in history, around 24 million square kilometres at its peak.
+What did Genghis Khan leave? The Mongol Empire, which his sons and grandsons expanded to cover Eurasia from Korea to Hungary. It became the largest contiguous land empire in history. Estimates of its peak size, under his grandsons, run to around 24 million square kilometres.
 [VISUAL: map of the empire at its greatest]
 In Mongolia, he is a national hero, shown on money, on vodka and on statues. In many other countries, he is remembered as a destroyer. Both views are part of history.
-Historians debate the death toll of the Mongol conquests. Some estimates run into tens of millions, but these are highly uncertain. Another debate concerns his genetic legacy. A 2003 study suggested that about 16 million men carry a Y chromosome that may come from him or his close relatives. Later research is more cautious.
+Historians debate the death toll of the Mongol conquests. Some estimates run into tens of millions, but these are highly uncertain. Another debate concerns his genetic legacy. A 2003 study suggested that about 16 million men carry a Y chromosome lineage that may come from him or his close male relatives. The estimate was conditional on the sample being representative, and later research is more cautious.
 [VISUAL: skulls vs trade routes, scales, DNA tree labelled debated]
 Next, we follow his son, Ogedei, who completed the conquest of northern China and sent armies to Europe. Subscribe, and tell me in the comments which king you want after that.
 [VISUAL: end screen]
 
 ## Fact-check flags
 - [ ] Otrar incident 1218; number of merchants (450); governor Inalchuq; envoys' fate.
-- [ ] Army size 1219; Bukhara Feb 1220; Samarkand Mar 1220; Merv/Nishapur/Herat 1221.
+- [ ] Army size 1219 (uncertain); Bukhara 15 Feb 1220; Samarkand 16 Mar 1220; Merv Apr 1221.
 - [ ] Death toll figures (Juvaini): present as exaggerated.
 - [ ] Subutai & Jebe raid; Kalka River 31 May 1223.
 - [ ] Indus battle Nov 1221 and Jalal ad-Din.

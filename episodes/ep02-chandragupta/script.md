@@ -15,7 +15,7 @@ Around 600 BCE, north India was a patchwork of sixteen major states and republic
 [VISUAL: map of sixteen states fading to Magadha]
 Magadha had two great advantages. It sat on a rich river plain with strong harvests. And it had iron mines nearby, which meant better weapons. By about 345 BCE, a dynasty called the Nandas ruled it. Their capital was Pataliputra.
 [VISUAL: Nanda territory map, iron ore, Pataliputra]
-Greek writers say the last Nanda king, Dhana Nanda in Indian sources, had two hundred thousand infantry, twenty thousand cavalry, two thousand chariots and three thousand elephants. Those numbers are almost certainly inflated, but they show how powerful he looked from the outside. He was also, according to the Greek and Indian sources, very rich, and very unpopular because of heavy taxes.
+The Roman writer Curtius says the king the Greeks called Agrammes, whom historians identify with the last Nanda, Dhana Nanda, had two hundred thousand infantry, twenty thousand cavalry, two thousand chariots and three thousand elephants. Other Greek and Roman writers give even bigger numbers. These figures are almost certainly inflated, but they show how powerful he looked from the outside. He was also, according to the Greek and Indian sources, very rich, and very unpopular because of heavy taxes.
 [VISUAL: Nanda army, heavy tax collection scene]
 Then, in 326 BCE, Alexander the Great crossed the Indus river. He defeated the king Porus at the river Hydaspes. He wanted to go further east, toward the Ganges. But his exhausted soldiers refused, and Alexander turned back. He left India in 325 BCE and died in Babylon in 323 BCE.
 [VISUAL: Alexander's route map, soldiers refusing]
@@ -30,7 +30,7 @@ A Brahmanical tradition, in the play Mudrarakshasa, written many centuries later
 [VISUAL: four manuscript cards, each a different tradition]
 So the sources disagree, and each group seems to have claimed him in its own way. Historians cannot settle this, and we should not pretend to.
 What the sources do agree on is that he was young, talented and ambitious.
-There is one Greek story that supports this. The writer Plutarch says that a man called Androcottus, the Greek form of Chandragupta, saw Alexander as a youth. Years later, he claimed that Alexander could have conquered the Nanda kingdom easily, because the king was hated for his low birth and bad character. This is a late Greek report, so we treat it carefully. But it tells us that the Greeks knew his name as that of a great king.
+There is one Greek story that supports this. The writer Plutarch says that a man called Androcottus, the Greek form of Chandragupta, saw Alexander as a youth. Years later, he often said that Alexander could have conquered the country easily, because its king was hated for his low birth and bad character. Plutarch does not name the king; historians identify him with the Nanda ruler. This is a late Greek report, so we treat it carefully. But it tells us that the Greeks knew his name as that of a great king.
 [VISUAL: Plutarch manuscript, young man at Alexander's camp]
 
 ## 4. CHANAKYA: HISTORY OR LEGEND? (5:50–8:20)
@@ -54,14 +54,14 @@ Historians usually combine these accounts like this. Around 321 BCE, Chandragupt
 By about 305 BCE, he ruled most of northern India, from Bengal in the east to the Indus in the west.
 [VISUAL: animated map growing from Magadha to the Indus]
 Later sources suggest he also held parts of central India and the Deccan, though the evidence is thinner. Some scholars think the south was added by his son Bindusara.
-What about the army? The Roman writer Pliny, quoting Megasthenes, says Chandragupta had six hundred thousand foot soldiers, thirty thousand cavalry and nine thousand elephants. These numbers are probably far too high, but they show that the Greeks saw him as enormously strong.
+What about the army? Greek and Roman writers such as Pliny and Plutarch give Chandragupta's army as six hundred thousand foot soldiers, thirty thousand cavalry and eight or nine thousand elephants. Sources disagree on the exact numbers, and they are probably far too high, but they show that the Greeks saw him as enormously strong.
 [VISUAL: elephants, cavalry, infantry columns]
 
 ## 6. SELEUCUS AND THE TREATY (12:10–14:40)
 **NARRATION**
 In the west, meanwhile, Alexander's old general Seleucus Nicator had taken Babylon and built a huge empire across Asia. Around 305 BCE, he marched east to take back Alexander's Indian lands.
 [VISUAL: map of the Seleucid Empire marching to the Indus]
-What happened is known only in outline. The Greek writers say the two rulers made peace. Seleucus gave Chandragupta territory in what is now Afghanistan and Pakistan: the regions the Greeks called Arachosia, Gedrosia and Paropamisadae. In return, Chandragupta gave Seleucus five hundred war elephants.
+What happened is known only in outline, mainly from the geographer Strabo, who wrote centuries later. The war is usually dated to between 305 and 303 BCE. The Greek writers say the two rulers made peace. Seleucus gave Chandragupta territory in what is now Afghanistan and Pakistan: the regions the Greeks called Arachosia, Gedrosia and Paropamisadae, and possibly Aria as well. Scholars disagree on exactly how much was handed over. In return, Chandragupta gave Seleucus five hundred war elephants.
 [VISUAL: elephants crossing a river, border map]
 This was a good deal for both sides. Chandragupta secured his north-west frontier. Seleucus got a war machine he could not build himself. In 301 BCE, those elephants helped Seleucus win the battle of Ipsus against another of Alexander's successors.
 The treaty may also have included a marriage alliance, but the sources are unclear, and historians disagree. What is clear is what the treaty tells us: the Greek world saw the Maurya king as an equal.
@@ -71,7 +71,7 @@ The treaty may also have included a marriage alliance, but the sources are uncle
 **NARRATION**
 After the treaty, Seleucus sent an ambassador to Chandragupta's court: Megasthenes. He lived in Pataliputra for several years, and wrote a book called Indika.
 [VISUAL: ambassador arriving at Pataliputra]
-The book is lost. But later Greek and Roman writers quoted it, and from these fragments we get a picture. Pataliputra was a very large city on the Ganges, protected by a wooden wall with hundreds of towers and a wide moat. The city was run by a board of thirty officials in six committees, looking after crafts, foreigners, births and deaths, trade, goods and taxes.
+The book is lost. But later Greek and Roman writers quoted it, and from these fragments we get a picture. Pataliputra was a very large city on the Ganges, protected by a wooden wall with hundreds of towers and a wide moat. According to Greek writers, the city was run by a board of thirty officials in six committees, looking after crafts, foreigners, births and deaths, trade, goods and taxes. Some modern scholars read parts of this differently.
 [VISUAL: wooden palisade, committees diagram]
 The king kept a strong guard, including women bodyguards, according to Megasthenes. He appeared in public to hear cases, to make offerings and to hunt. Officers called inspectors travelled the empire and reported on everything. There was a royal highway across the empire. People paid taxes mainly on the produce of the land.
 The Arthashastra gives a theory of how such a state should run: taxes, spies, a standing army, a treasury and a king who is always working. Historians debate how closely it reflects the real Mauryan state. But together with the Greek reports, it gives us a rough picture of an organised, watchful empire.
@@ -85,7 +85,7 @@ Most people were farmers. Megasthenes noticed that Indian farmers were left alon
 Megasthenes described Indian society as divided into seven groups: philosophers, farmers, herdsmen, craftsmen, soldiers, inspectors and councillors. Historians note that this does not match the four-varna system of Indian texts, and that he may have misunderstood what he saw. He also wrote that India had no slavery. That is almost certainly a mistake, since Indian texts of the time clearly mention slaves and bonded labour.
 [VISUAL: seven social groups as icons, with a note, probably misunderstood]
 Trade was growing. A great highway, later called the Uttarapatha, ran from Pataliputra to the north-west. Silver punch-marked coins were used across the empire. Mines, forests and big workshops were owned by the state.
-One of the most interesting traces of the state at work is a pair of small inscriptions, at Mahasthan in Bangladesh and Sohgaura in Uttar Pradesh. They are written in early Brahmi and record the storing of grain in royal granaries to be used in times of famine. Scholars debate their exact date, but many link them to the Mauryan period. If that is right, even this early empire planned for hunger.
+One of the most interesting traces of the state at work is a pair of small inscriptions, at Mahasthan in Bangladesh and Sohgaura in Uttar Pradesh. They are written in early Brahmi and record the storing of grain in royal granaries to be used in times of famine. Scholars disagree on their exact date; some place them in the Mauryan period, others earlier or later. If they are Mauryan, even this early empire planned for hunger.
 [VISUAL: Sohgaura copper plate, granary]
 There is also an engineering detail. A much later inscription, from about 150 CE, says that a governor of Chandragupta named Pushyagupta built the Sudarshana lake near Girnar in Gujarat, for irrigation. The inscription is long after the event, but it suggests Mauryan rule reached the west coast.
 [VISUAL: Girnar hills, lake and dam illustration]
@@ -100,7 +100,7 @@ Chandragupta ruled for about twenty-four years, and died around 297 BCE.
 [VISUAL: timeline end]
 Jain tradition tells a remarkable story. It says that when a great famine struck, the Jain monk Bhadrabahu led his followers south. Chandragupta, who had become his disciple, gave up the throne, followed him to Karnataka, and died at Shravanabelagola by sallekhana, the ritual fast to death. There is a hill there called Chandragiri, and old inscriptions that mention Bhadrabahu and Chandragupta.
 [VISUAL: Chandragiri hill at Shravanabelagola]
-Historians treat this as a strong tradition, but cannot confirm it. The inscriptions are from many centuries later.
+Historians treat this as a strong tradition, but cannot confirm it. The inscriptions that mention it come from many centuries later.
 His son Bindusara took the throne, expanded the empire south, and ruled for about twenty-five years. Then came his grandson, Ashoka.
 [VISUAL: Chandragupta, Bindusara, Ashoka family tree]
 
@@ -120,7 +120,7 @@ If you want to see what his grandson did with this empire, watch our episode on 
 ## Fact-check flags
 - [ ] Reign about 321–297 BCE; Nanda dating; Dhana Nanda army figures (Diodorus/Curtius/Plutarch).
 - [ ] Treaty ~305 BCE: territories (Strabo 15.2.9, Appian Syr. 55); 500 elephants; Ipsus 301 BCE.
-- [ ] Pliny's army numbers (Natural History 6.22) via Megasthenes.
+- [ ] Army numbers: 600,000 / 30,000 / 8,000 or 9,000 (Pliny, Plutarch): sources differ.
 - [ ] Plutarch, Life of Alexander 62: wording of "Androcottus".
 - [ ] Mudrarakshasa date (c. 4th to 8th century CE) and "Vrishala".
 - [ ] Moriya/peacock; Mahavamsa Moriya clan.

@@ -37,7 +37,7 @@ In 799, Pope Leo III was attacked by Roman nobles, who beat him and accused him 
 Then, on 25 December 800, in the Basilica, the Pope crowned Charles Emperor. What was the meaning of the act?
 Einhard writes that Charles said he would not have gone into the church, had he known the Pope's plan. Some historians think Charles was truly irritated, because the Pope had taken the initiative, implying that the imperial title was the Pope's gift. Others think the whole ceremony was planned in advance, and Einhard was just trying to protect Charlemagne's dignity.
 [VISUAL: two interpretations, Pope-led and Charles-led]
-There was also a rival power: the Byzantine Empire in Constantinople, which still claimed to be the Roman Empire. In 800, the throne was held by the Empress Irene, who had blinded and deposed her own son. Some in the West said the throne was vacant, since a woman could not be emperor. Eventually, in 812, after years of negotiation, Byzantium recognised Charles as emperor.
+There was also a rival power: the Byzantine Empire in Constantinople, which still claimed to be the Roman Empire. In 800, the throne was held by the Empress Irene, who had blinded and deposed her own son. Some in the West said the throne was vacant, since a woman could not be emperor. Eventually, in 812, after years of negotiation, Byzantine envoys greeted Charles as emperor at Aachen, though not as emperor of the Romans, a title the Byzantines kept for themselves.
 Whatever the intention, the coronation created a model. A western emperor, chosen by the Pope, heir to Rome, defender of the Church. It would shape Europe for a thousand years, ending only in 1806, with the end of the Holy Roman Empire.
 [VISUAL: Irene and the Byzantines, timeline to 1806]
 
@@ -45,7 +45,7 @@ Whatever the intention, the coronation created a model. A western emperor, chose
 **NARRATION**
 How do you rule such a vast realm with no roads, no postal service and few literate officials? Charlemagne's answer was a mix of personal rule and system.
 [VISUAL: map with counties and borders]
-He divided the realm into about 300 counties, each under a count, who held court, raised troops and collected fines. Along the borders were marches under margraves. Counts were often moved around to avoid local roots.
+He divided the realm into hundreds of counties, each under a count, who held court, raised troops and collected fines. Along the borders were marches under margraves. Counts were often moved around to avoid local roots.
 To check them, he sent out pairs of royal envoys, the missi dominici, one lay and one cleric. They travelled each year through a district, hearing complaints, reading out laws and checking on the counts.
 [VISUAL: missi dominici on the road]
 His laws were written as capitularies, short orders divided into chapters. They covered everything from church reform to weights and measures to the size of the royal estates, and even to the management of his hens and eggs. The most famous is the Capitulare de villis, a list of rules for his farms.
@@ -58,7 +58,7 @@ Aachen became his main residence, with a palace and a chapel, finished around 80
 **NARRATION**
 Charlemagne could speak Frankish and Latin, and understand Greek. He loved books, though he struggled to write. Einhard says he kept tablets under his pillow to practise letters, but started too late and made little progress.
 [VISUAL: Charlemagne trying to write, tablets]
-In 781 he met the English scholar Alcuin of York in Parma, and invited him to the court. Alcuin led a palace school and then became abbot of Tours. Scholars from Italy, Spain and Ireland came too. They copied the classic works of Rome; very many Latin classics survive only because they were copied in Carolingian monasteries.
+In 780 or 781 he met the English scholar Alcuin of York in Parma, and by 782 had invited him to the court. Alcuin led a palace school and then became abbot of Tours. Scholars from Italy, Spain and Ireland came too. They copied the classic works of Rome; very many Latin classics survive only because they were copied in Carolingian monasteries.
 A new, clear handwriting called Carolingian minuscule was developed, with lower-case letters, spaces between words and punctuation. It became the base of the lower-case letters we use today.
 [VISUAL: Carolingian minuscule script, monastery scriptorium]
 In 789, he ordered every monastery and cathedral to open a school to teach boys to read. He tried to standardise the liturgy, correct the Bible text and bring order to the Church.
@@ -66,9 +66,9 @@ Historians call this the Carolingian Renaissance. It was a revival of learning i
 
 ## 7. THE MAN AND THE END (17:00–19:00)
 **NARRATION**
-What was he like? Einhard, who knew him, describes a tall, strong man, with a high-pitched voice, a thick neck, a big belly and white hair. A 2010 study of his thighbone estimated his height at about 1.84 metres, tall for his time. He loved hunting, swimming and hot springs. He wore Frankish dress, not Roman robes, except twice, when the Pope asked. He had at least four wives and several concubines and about twenty children.
+What was he like? Einhard, who knew him, describes a tall, strong man, with a high-pitched voice, a thick neck, a big belly and white hair. A 2010 study of a leg bone, his tibia, estimated his height at about 1.84 metres, very tall for his time. He loved hunting, swimming and hot springs. He wore Frankish dress, not Roman robes, except twice, when the Pope asked. He had four official wives in turn, several concubines, and, depending on the count, eighteen to twenty children.
 [VISUAL: portrait based on Einhard, Frankish dress]
-Charlemagne died on 28 January 814 in Aachen, aged about seventy, probably from pneumonia. He was buried in the Palatine Chapel. Only one of his legitimate sons survived him: Louis the Pious.
+Charlemagne died on 28 January 814 in Aachen, aged about seventy. Einhard says he fell ill with a fever and a pain in his side, which some have read as pneumonia. Modern tests on his bones found no clear answer. He was buried in the Palatine Chapel. Only one of his legitimate sons survived him: Louis the Pious.
 [VISUAL: Aachen funeral]
 Louis could not hold the empire together. After years of civil war, the Treaty of Verdun in 843 divided it into three parts, among Louis's three sons. The western part became France, the eastern part became Germany, and the middle part was fought over for centuries.
 [VISUAL: Treaty of Verdun map: West Francia, Middle Francia, East Francia]
@@ -83,6 +83,7 @@ Next, we cross the Channel to the Norman duke who conquered England in a single 
 
 ## Fact-check flags
 - [ ] Birth year (742/747/748); accession 768; sole king 771.
+- [ ] Verden 782 (4,500), coronation 800, Einhard's reluctance, Avar treasure: not verified by search; check Royal Frankish Annals.
 - [ ] Pavia 774; Roncesvalles 15 Aug 778 (Basques); Verden 782 (4,500); Avar campaigns 791–796.
 - [ ] Coronation 25 Dec 800; Einhard's Vita Karoli ch. 28 on his reluctance.
 - [ ] Irene as Empress 797–802; Byzantine recognition 812.

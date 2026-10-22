@@ -3,7 +3,7 @@ Target: ~9 min (1307 words) · Status: DRAFT — must pass fact-check (docs/04) 
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**
-It is December 1237, and the river Oka is frozen solid. Across the ice comes an army that the Russians have never seen: tens of thousands of riders on small, shaggy horses. They camp outside the town of Ryazan, and send envoys to demand a tenth of everything: a tenth of the people, a tenth of the horses, a tenth of the princes. The prince of Ryazan replies: when none of us are left, then all will be yours.
+It is December 1237, and the river Oka is frozen solid. Across the ice comes an army that the Russians have never seen: tens of thousands of riders on small, shaggy horses. They camp outside the town of Ryazan, and send envoys to demand submission and tribute. In the Tale of the Destruction of Ryazan, a literary work written afterwards, the demand is for a tenth of everything, and the prince's proud answer is: when none of us are left, then all will be yours. Historians treat the tale as a mixture of memory and legend.
 [VISUAL: frozen river, a Mongol army, Ryazan's walls]
 Five days later, Ryazan was burned to the ground. The army was led by Batu, a grandson of Genghis Khan. Over the next three years, he would conquer almost all of Russia, and found the khanate that would rule it for over two centuries.
 [VISUAL: map of Kievan Rus' falling]
@@ -34,7 +34,7 @@ Then came Moscow, then a small town, which was burned in January 1238. Next was 
 [VISUAL: Moscow burned, Vladimir stormed]
 On 4 March, on the river Sit, they destroyed Yuri's army, and killed him. Over a few months, they took fourteen towns.
 The Mongols then headed towards Novgorod, the richest city in the north. But in the spring thaw, the land turned to marshes, which made it impossible for cavalry. About a hundred versts from Novgorod, they turned back.
-Before that they encountered a small town, Kozelsk, whose boy-prince Vasily had resisted fiercely. The siege lasted seven weeks. The Mongols called it the Evil City after they finally took it.
+Before that they encountered a small town, Kozelsk, whose boy-prince Vasily had resisted fiercely. The Russian chronicles say the siege lasted seven weeks, and that the Mongols afterwards called it the Evil City. Other sources date the siege differently, so the details are uncertain.
 [VISUAL: Kozelsk siege, spring thaw]
 
 ## 5. THE FALL OF KIEV (8:30–11:30)
@@ -50,16 +50,16 @@ Then the Mongols turned west and attacked Galicia-Volhynia, and the doors to Hun
 **NARRATION**
 In early 1241, Batu and Subutai invaded Poland and Hungary in separate columns. On 9 April, a Mongol force defeated a Polish and German army at Legnica, and Henry II of Silesia was killed. Two days later, Batu and Subutai destroyed the army of King Bela IV of Hungary near the Sajo river, near Mohi.
 [VISUAL: Legnica and Mohi, Bela IV fleeing]
-Hungary was devastated; perhaps a quarter to a half of the population died, by some estimates. The Mongols pursued King Bela to the Adriatic. Then, in early 1242, news came of the death of the Great Khan Ogedei. Batu retreated east, ravaging Bulgaria on the way. He never returned to the West.
+Hungary was devastated. Some estimates say that a quarter to a half of the population died, though historians debate the figures. The Mongols pursued King Bela to the Adriatic. Then, in early 1242, news came of the death of the Great Khan Ogedei. Batu retreated east, ravaging Bulgaria on the way. He never returned to the West.
 [VISUAL: the retreat, Danube]
 
 ## 7. THE GOLDEN HORDE (13:30–16:00)
 **NARRATION**
-Batu did not go back to Mongolia. He chose to remain in the steppe near the lower Volga, where he founded a new capital, Sarai. Europeans called his state the Golden Horde; Russians called it the Tatar or Mongol Khanate. Perhaps the name comes from the golden tent of the khan.
+Batu did not go back to Mongolia. He chose to remain in the steppe near the lower Volga, where he founded a new capital, Sarai. Europeans called his state the Golden Horde; Russians called it the Tatar or Mongol Khanate. One theory says the name comes from the golden tent of the khan; others link it to the colour gold in Mongol symbolism.
 [VISUAL: Sarai, golden tent]
 Batu did not rule the Russian lands directly. Instead, he allowed the Russian princes to rule their own territories, as vassals. They had to travel to Sarai, and some even to Karakorum, to get a patent to rule, called a yarlyk. They had to pay tribute and provide troops. In the 1250s, the Mongols took a census, to fix the taxes. Russians later called this the Mongol yoke or Tatar yoke.
 [VISUAL: princes at Sarai, tribute, census]
-Some Russian princes used this system. Alexander Nevsky, prince of Novgorod, who had defeated the Swedes on the Neva in 1240 and the Teutonic knights at Lake Peipus in 1242, decided to cooperate with the Mongols rather than fight. He travelled to Sarai and to Karakorum. He saw that the Mongols were too strong. The decision made him a controversial figure: a hero to many, a collaborator to some.
+Some Russian princes used this system. Alexander Nevsky, prince of Novgorod, who, according to Russian sources, defeated the Swedes on the Neva in 1240, and who fought the Teutonic knights at Lake Peipus in April 1242, decided to cooperate with the Mongols rather than fight. He travelled to Sarai and to Karakorum. He saw that the Mongols were too strong. The decision made him a controversial figure: a hero to many, a collaborator to some.
 [VISUAL: Alexander Nevsky, Lake Peipus]
 Others, like Daniel of Galicia, tried to find western allies, but never got effective help.
 Batu died in 1255, aged around fifty. His son Sartaq, a Christian, succeeded briefly, then Berke, Batu's brother, who converted to Islam. The Golden Horde would convert to Islam in the fourteenth century under Ozbeg Khan.
