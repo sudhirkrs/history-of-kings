@@ -1,0 +1,6 @@
+- Romila Thapar, *Asoka and the Decline of the Mauryas* (ch. on Chandragupta)
+- Upinder Singh, *A History of Ancient and Early Medieval India*
+- R.K. Mookerji, *Chandragupta Maurya and His Times*
+- Patrick Olivelle (trans.), *King, Governance, and Law in Ancient India: Kautilya's Arthashastra*
+- Justin, Strabo, Appian, Plutarch, Pliny — passages collected in McCrindle, *Ancient India as Described by Megasthenes and Arrian*
+- Thomas Trautmann, *Kautilya and the Arthashastra*

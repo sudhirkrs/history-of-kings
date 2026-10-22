@@ -1,0 +1,6 @@
+- Abu'l Fazl, *Akbarnama* & *Ain-i-Akbari* (Beveridge / Blochmann translations)
+- Abdul Qadir Badauni, *Muntakhab-ut-Tawarikh*
+- Satish Chandra, *Medieval India: From Sultanate to the Mughals Part II*
+- John F. Richards, *The Mughal Empire* (Cambridge)
+- Irfan Habib, *The Agrarian System of Mughal India*
+- Iqtidar Alam Khan on Akbar's polity; Ruby Lal, *Empress*
