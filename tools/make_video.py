@@ -10,7 +10,7 @@ styled caption card is drawn. Output: episodes/<ep>/out/video.mp4 + scenes.json 
 Voice: edge-tts (free neural voices, needs internet). `--tts silent` makes placeholder
 audio so the render can be tested offline.
 """
-import argparse, asyncio, json, re, subprocess, sys
+import argparse, asyncio, json, re, string, subprocess, sys
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
@@ -26,7 +26,8 @@ def parse(script):
         if line.startswith(("## Fact-check", "## Metadata")):
             break
         if line.startswith("## "):
-            heading = re.sub(r"^\d+\.\s*|\s*\(.*?\)\s*$", "", line[3:]).strip().title()
+            heading = re.sub(r"^\d+\.\s*|\s*\(.*?\)\s*$", "", line[3:]).strip()
+            heading = string.capwords(heading.lower())
             continue
         if not line or line.startswith(("#", "---", "**NARRATION", "Target:")) or line.startswith("- ["):
             continue
