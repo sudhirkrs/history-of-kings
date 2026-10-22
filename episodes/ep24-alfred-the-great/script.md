@@ -1,5 +1,5 @@
 # Ep 24 — Alfred the Great: The King Who Saved England
-Target: ~9 min (1323 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~9 min (1344 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

@@ -1,5 +1,5 @@
 # Ep 28 — Qin Shi Huang: The First Emperor of China
-Target: ~10 min (1449 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~10 min (1482 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**
@@ -48,12 +48,12 @@ The cost was huge. Hundreds of thousands of conscripts were sent to build the wa
 Now the most notorious part. In 213 BCE, at a banquet, scholars criticised the emperor for not restoring the old feudal system. Li Si replied that scholars used the past to criticise the present. He proposed that books of history, poetry and philosophy kept outside the imperial library be burned, with exceptions for books on medicine, divination and agriculture. Those who discussed the Classics in public would be executed.
 [VISUAL: burning scrolls]
 The next year, 212 BCE, two alchemists who had been seeking elixirs for the emperor fled, and criticised him. Furious, he investigated, and 460 scholars, according to Sima Qian, were buried alive.
-Historians debate the story. The book burning is confirmed in outline, but many works survived in the imperial library until it was destroyed in the fall of the dynasty. As for the burial of scholars, some historians think the number is a Han exaggeration, and that those killed were mostly alchemists and magicians, not Confucian scholars. But the event, whatever its size, became the emperor's evil reputation.
+Historians debate the story. The live burial first appears in Sima Qian, more than a century later, and some modern historians doubt it. The book burning is confirmed in outline, but many works survived in the imperial library until it was destroyed in the fall of the dynasty. As for the burial of scholars, some historians think the number is a Han exaggeration, and that those killed were mostly alchemists and magicians, not Confucian scholars. But the event, whatever its size, became the emperor's evil reputation.
 [VISUAL: question mark over the buried scholars]
 
 ## 7. THE TOMB AND THE QUEST FOR IMMORTALITY (14:00–16:30)
 **NARRATION**
-The emperor feared death. He sent expeditions to find the islands of the immortals. One of them was led by Xu Fu, who sailed with thousands of young boys and girls and never came back. He took medicines made with mercury, which probably hastened his death.
+The emperor feared death. He sent expeditions to find the islands of the immortals. One of them was led by Xu Fu, who sailed east, in some accounts with thousands of young boys and girls, and never came back. The numbers come from late sources. He took medicines made with mercury, which probably hastened his death.
 [VISUAL: Xu Fu's ships, mercury pills]
 He began building his tomb when he was thirteen. According to Sima Qian, 700,000 workers laboured on it. Inside the burial chamber were rivers of mercury, a map of the heavens on the ceiling, and crossbows set to shoot intruders. Modern soil tests near the mound found elevated levels of mercury, supporting the account. The tomb itself has not been opened.
 [VISUAL: tomb mound cutaway, mercury rivers]
@@ -62,7 +62,7 @@ The terracotta army, discovered in 1974, is a small part of the complex. Archaeo
 
 ## 8. DEATH AND COLLAPSE (16:30–18:30)
 **NARRATION**
-In 210 BCE, during a tour of the eastern provinces, the emperor fell ill and died at Shaqiu, aged 49. The chief eunuch Zhao Gao and Li Si hid his death, travelling back with the carriage, and put rotten fish in the wagon to hide the smell of the body in the summer heat. They forged an edict ordering the heir, Fusu, to commit suicide, and put the younger son, Huhai, on the throne as the Second Emperor.
+In 210 BCE, during a tour of the eastern provinces, the emperor fell ill and died at Shaqiu, aged 49. The chief eunuch Zhao Gao and Li Si hid his death, travelling back with the carriage, and put rotten fish in the wagon, according to Sima Qian, to hide the smell of the body in the summer heat. They forged an edict ordering the heir, Fusu, to commit suicide, and put the younger son, Huhai, on the throne as the Second Emperor.
 [VISUAL: carriage on the road, forged edict]
 It was a disaster. Zhao Gao murdered Li Si and then forced the Second Emperor to suicide. In 209 BCE, two conscripts, Chen Sheng and Wu Guang, delayed by rain and facing execution for lateness, started a rebellion. Within a few years, the empire collapsed. In 206 BCE the last Qin ruler surrendered to the rebel Liu Bang, who founded the Han dynasty in 202.
 [VISUAL: Chen Sheng and Wu Guang, Liu Bang]

@@ -1,5 +1,5 @@
 # Ep 3 — Akbar: The Boy Emperor Who Built the Mughal Empire
-Target: ~13 min (1885 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~13 min (1928 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

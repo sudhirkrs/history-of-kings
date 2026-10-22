@@ -1,5 +1,5 @@
 # Ep 6 — Samudragupta: The Conqueror Who Played the Veena
-Target: ~11 min (1597 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~11 min (1616 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

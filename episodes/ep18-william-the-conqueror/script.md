@@ -1,5 +1,5 @@
 # Ep 18 — William the Conqueror: The Bastard Who Became King of England
-Target: ~11 min (1578 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~11 min (1636 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

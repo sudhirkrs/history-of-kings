@@ -1,5 +1,5 @@
 # Ep 23 — Alexander II: The Tsar Who Freed the Serfs
-Target: ~9 min (1330 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~9 min (1364 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

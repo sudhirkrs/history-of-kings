@@ -1,5 +1,5 @@
 # Ep 4 — Shivaji: The Rebel Who Built a Kingdom
-Target: ~13 min (1900 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~14 min (2007 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:55)
 **NARRATION**

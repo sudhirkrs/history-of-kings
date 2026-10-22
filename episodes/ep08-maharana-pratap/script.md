@@ -1,5 +1,5 @@
 # Ep 8 — Maharana Pratap: The King Who Never Bowed
-Target: ~9 min (1287 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~9 min (1349 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

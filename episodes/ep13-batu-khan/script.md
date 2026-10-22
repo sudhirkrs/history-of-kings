@@ -1,5 +1,5 @@
 # Ep 13 — Batu Khan: The Mongols Arrive in Russia
-Target: ~9 min (1307 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~9 min (1360 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

@@ -1,5 +1,5 @@
 # Ep 22 — Catherine the Great: The German Princess Who Ruled Russia
-Target: ~9 min (1374 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~10 min (1404 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

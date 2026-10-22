@@ -1,5 +1,5 @@
 # Ep 11 — Ogedei Khan: The Generous Emperor Who Sent Armies to Europe
-Target: ~8 min (1212 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~9 min (1280 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

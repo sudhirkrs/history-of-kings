@@ -1,4 +1,4 @@
-# Episode Roadmap (first 27 episodes — all scripted as drafts)
+# Episode Roadmap (first 32 episodes — all scripted as drafts)
 
 Order follows the plan: Indian kings first (reach), then Genghis Khan and his descendants, then Russia, then Europe. Episodes 21–27 add more Russia and Europe; they can be published interleaved with the earlier blocks (e.g. one Europe, one Russia, one India per cycle).
 Each script is in `episodes/epNN-name/script.md` with metadata and sources at the bottom.
@@ -32,11 +32,16 @@ Each script is in `episodes/epNN-name/script.md` with metadata and sources at th
 | 25 | Richard the Lionheart | Europe | How did a king who barely saw England become a legend? |
 | 26 | Elizabeth I | Europe | How did the Virgin Queen survive and win? |
 | 27 | Frederick the Great | Europe | How did a flute-playing king make Prussia a great power? |
+| 28 | Qin Shi Huang | China | How did the First Emperor unify China, and what is legend? |
+| 29 | Emperor Wu of Han | China | How did one emperor open the Silk Road and fight the Xiongnu? |
+| 30 | Tang Taizong | China | Why is a king who killed his brothers remembered as a model ruler? |
+| 31 | Wu Zetian | China | How did a concubine become China's only woman emperor? |
+| 32 | Kangxi | China | How did a Manchu boy-emperor make the Qing legitimate? |
 
 ## Suggested publishing order
 Launch week: Ep 1, 2, 3 (so new viewers can binge). Then one per week in the table order, mixing in Shorts.
 Consider releasing Ep 9 + 10 back-to-back as a two-parter.
 
 ## Next seasons (not scripted yet)
-China (Qin Shi Huang, Han Wudi, Tang Taizong, Wu Zetian, Kangxi) · Timur & Babur · Ottomans (Mehmed II, Suleiman) · Persia (Cyrus, Darius, Shah Abbas) ·
+China (Kublai is Ep 12; next: Zhu Yuanzhang, Yongle, Qianlong) · Timur & Babur · Ottomans (Mehmed II, Suleiman) · Persia (Cyrus, Darius, Shah Abbas) ·
 More India (Prithviraj Chauhan, Ranjit Singh, Lachit Borphukan, Tipu Sultan, Harsha, Kanishka) · Russia (Yaroslav the Wise, Dmitri Donskoi, Boris Godunov, Nicholas II) · Europe (Henry VIII, Charles V, Gustavus Adolphus, Maria Theresa, Otto von Bismarck)

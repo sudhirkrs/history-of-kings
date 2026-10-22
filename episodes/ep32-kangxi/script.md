@@ -1,5 +1,5 @@
 # Ep 32 — Kangxi: The Emperor Who Ruled China for 61 Years
-Target: ~10 min (1398 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~10 min (1433 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**
@@ -35,7 +35,7 @@ Wu Sangui declared himself emperor of a new Zhou dynasty in 1678 and died a few 
 **NARRATION**
 Next came Taiwan. Since 1662, the island had been held by the family of Zheng Chenggong, known in the West as Koxinga, who had driven the Dutch out. Zheng's descendants were loyal to the Ming and a danger to the Qing coast. In 1683, a fleet under Admiral Shi Lang, a former Zheng follower, defeated them in the Penghu islands, and the Zheng ruler surrendered. Taiwan became a prefecture of Fujian province, for the first time part of a Chinese empire. Kangxi also lifted the ban on sea trade, in 1684.
 [VISUAL: Shi Lang's fleet, Penghu, Taiwan]
-In the north, Russian Cossacks had moved into the Amur river valley, building forts such as Albazin. Kangxi sent an army to drive them out, and besieged Albazin in 1685 and 1686. Then, in 1689, the Treaty of Nerchinsk was signed between the Qing and Russia. It fixed the border on the Amur. It was written in Latin, Manchu and Russian, and Jesuit priests, Jean-Francois Gerbillon and Thomas Pereira, served as interpreters. It was the first treaty between China and a European power, signed on terms of equality.
+In the north, Russian Cossacks had moved into the Amur river valley, building forts such as Albazin. Kangxi sent an army to drive them out, and besieged Albazin in 1685 and 1686. Then, in 1689, the Treaty of Nerchinsk was signed between the Qing and Russia. It fixed the border on the Amur. It was written in Latin, Manchu and Russian, and Jesuit priests, Jean-Francois Gerbillon and Thomas Pereira, served as interpreters. It was the first treaty between China and a European power, signed on terms of rough equality, with the Latin text as the official version. The treaty is dated 27 August or 7 September 1689, depending on the calendar.
 [VISUAL: Albazin siege, Nerchinsk negotiations, Jesuit interpreters]
 
 ## 6. THE MONGOLS AND TIBET (11:00–12:30)
@@ -47,7 +47,7 @@ The last major threat was the Dzungars, a western Mongol people led by Galdan, w
 **NARRATION**
 Kangxi was one of the most learned of Chinese emperors. He studied the Confucian classics, wrote poetry, practised calligraphy, and took an interest in Western science. He brought Jesuit priests to court, including Ferdinand Verbiest, who taught him geometry, astronomy and mathematics. Verbiest cast cannon for the Qing army and was head of the Imperial Board of Astronomy. Kangxi once tested the Jesuits against Chinese and Muslim astronomers in predicting the length of a shadow, and the Jesuits won.
 [VISUAL: Kangxi with Verbiest, astronomical instruments]
-When Kangxi had malaria, the Jesuits cured him with quinine. He was sympathetic to Christianity at first, and in 1692 issued an edict of toleration. But the Rites Controversy changed that. The Pope ruled in 1715 that Chinese converts could not take part in rites for ancestors and Confucius. Kangxi was angry, and in 1721 banned Christian missions that did not accept the rites.
+When Kangxi had malaria, the Jesuits cured him with quinine. He was sympathetic to Christianity at first, and in 1692 issued an edict of toleration. But the Rites Controversy changed that. The Pope's ruling, first in 1704 and again in 1715, said that Chinese converts could not take part in rites for ancestors and Confucius. Kangxi was angry, and in 1721 banned Christian missions that did not accept the rites.
 [VISUAL: quinine, edict of toleration, the Pope's ruling]
 He also sponsored huge scholarly works: the Kangxi Dictionary, completed in 1716, with over 47,000 characters, which remained the standard for centuries; the Complete Tang Poems, with almost 50,000 poems; and the Encyclopedia Gujin Tushu Jicheng, completed after his death.
 He took six tours of the south, to inspect river works on the Yellow River and the Grand Canal, and meet local people. He wanted to win the support of Chinese scholars. He had critics. His regime censored books and punished writers in several literary inquisitions, such as the Ming History case of 1661 to 1663, under the regents.
@@ -59,7 +59,7 @@ In 1712, Kangxi announced that the poll tax would be fixed at the level of the p
 [VISUAL: banquet of the elderly, population growth]
 His greatest failure was the succession. He had around 35 sons. His second son, Yinreng, was made heir at the age of one. He was educated with great care. But as he grew up, Yinreng became arrogant, and was accused of misconduct. In 1708, Kangxi deposed him, restored him in 1709, and deposed him again in 1712. The princes then competed for the throne with plots and factions. Kangxi never named another heir.
 [VISUAL: Yinreng, rival princes]
-He died on 20 December 1722, at his villa in Beijing. The throne passed to his fourth son, Yinzhen, who became the Yongzheng emperor. Rumours spread that Yongzheng had forged the will, changing the character for fourteenth to fourth. Historians have examined this and consider it unlikely, but the question remains debated.
+He died on 20 December 1722, at his villa in Beijing. The throne passed to his fourth son, Yinzhen, who became the Yongzheng emperor. Rumours spread that Yongzheng had forged the will, changing the character for fourteenth to fourth. Many historians consider the forgery story unlikely, but the question of how Yongzheng won the succession is still debated.
 [VISUAL: Kangxi's deathbed, the will, the characters]
 
 ## 9. LEGACY AND DEBATE (18:00–19:30)

@@ -1,5 +1,5 @@
 # Ep 25 — Richard the Lionheart: The Crusader King Who Barely Saw England
-Target: ~11 min (1599 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~11 min (1625 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

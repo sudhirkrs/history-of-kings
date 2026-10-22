@@ -1,5 +1,5 @@
 # Ep 30 — Tang Taizong: The Emperor Who Listened to His Critics
-Target: ~10 min (1464 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~10 min (1495 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**
@@ -36,7 +36,7 @@ The government was organised into three departments: one to draft decrees, one t
 [VISUAL: three departments diagram, Tang Code]
 Taizong also reformed the exam system. He expanded the schools in the capital and, by recruiting men for their ability, reduced the grip of the aristocratic families. The examinations remained a small route to office under Taizong, but they grew.
 He lowered taxes, and reduced punishments. He was careful about executions: he insisted on a review of all death sentences by five officials.
-In 630 he allowed condemned prisoners to go home to be with their families and return to be executed. The story says all 390 returned, so he pardoned them. Most historians treat this as a legend.
+In 631, the story says, he allowed condemned prisoners to go home to be with their families and return to be executed. The story says all 390 returned, so he pardoned them. Most historians treat this as a legend.
 
 ## 5. THE HEAVENLY KHAN (10:00–13:00)
 **NARRATION**
@@ -44,7 +44,7 @@ Taizong's foreign policy was just as bold. China's northern neighbours, the East
 [VISUAL: Turkish cavalry at the Wei river]
 In 629 to 630 a harsh winter and internal quarrels weakened the Eastern Turks. Tang armies under Li Jing and Li Ji attacked and captured their ruler Illig Qaghan in 630. The Eastern Turkish state fell. The Turkish chiefs of the steppe offered Taizong the title of Heavenly Qaghan, Tian Kehan, in addition to Emperor. He accepted. It made him the ruler of both settled China and the steppe. He settled thousands of Turks inside the Chinese borders, and employed many in the Tang army.
 [VISUAL: capture of the qaghan, the title Heavenly Qaghan]
-In the next years, Tang armies conquered the oasis states of the Tarim basin, including Gaochang in 640 and Kucha in 648, and secured the route of the Silk Road. Chang'an grew to be the largest city in the world, with perhaps a million people, with merchants, monks and envoys from Persia, Central Asia, Japan, Korea and India.
+In the next years, Tang armies conquered the oasis states of the Tarim basin, including Gaochang in 640 and Kucha in 648, and secured the route of the Silk Road. Chang'an grew to be the largest city in the world, with, by most estimates, between 800,000 and a million people, with merchants, monks and envoys from Persia, Central Asia, Japan, Korea and India.
 [VISUAL: Silk Road oasis cities, Chang'an street scene]
 Relations with Tibet were handled by marriage. In 641, Princess Wencheng married the Tibetan king Songtsen Gampo. She is credited with bringing Buddhism and Chinese culture to Tibet.
 Taizong supported religious tolerance. The monk Xuanzang, who left China in 629 without permission to travel to India to study Buddhism, returned in 645 after sixteen years, with over 600 Buddhist texts. Taizong welcomed him, and asked him to write an account of his travels. The Journey to the West, the novel of the Monkey King, written 900 years later, is based on his journey. Taizong also welcomed the Nestorian Christian missionary Aluopen in 635.
@@ -52,7 +52,7 @@ Taizong supported religious tolerance. The monk Xuanzang, who left China in 629 
 
 ## 6. THE FAILURE IN KOREA (13:00–14:30)
 **NARRATION**
-But Taizong was not infallible. In 645, he led an army of about 100,000 against Goguryeo, the northern Korean kingdom, which had defeated the Sui. His forces took a number of cities, but at Ansi, the garrison resisted for months. As winter came, Taizong had to retreat, with heavy losses. According to Korean sources, the Goguryeo commander at Ansi shot out Taizong's eye, but the Tang sources do not report this. He is said to have regretted the campaign and wished that Wei Zheng were alive to stop him.
+But Taizong was not infallible. In 645, he led an army of about 100,000 against Goguryeo, the northern Korean kingdom, which had defeated the Sui. His forces took a number of cities, but at Ansi, the garrison resisted for months. As winter came, Taizong had to retreat, with heavy losses. A later Korean legend says that the Goguryeo commander at Ansi shot out Taizong's eye, but the Tang and early Korean sources do not report this. What the sources do report is that a Tang siege rampart collapsed, supplies ran short, and winter approached. He is said to have regretted the campaign and wished that Wei Zheng were alive to stop him.
 [VISUAL: siege of Ansi, retreat in snow]
 
 ## 7. THE LAST YEARS (14:30–17:00)

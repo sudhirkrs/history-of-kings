@@ -1,5 +1,5 @@
 # Ep 31 — Wu Zetian: The Only Woman Emperor of China
-Target: ~9 min (1307 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~9 min (1311 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**
@@ -49,7 +49,7 @@ She was strict and energetic. She appointed excellent ministers, like Di Renjie,
 **NARRATION**
 Wu was getting old. She took two young men, the Zhang brothers, Zhang Yizhi and Zhang Changzong, as her companions. Officials were angry at their power. In 698, Wu recalled her exiled son, Zhongzong, to be heir, after a period in which her nephews had hoped to succeed. A famous minister argued that a nephew would never sacrifice to an aunt, but a son would sacrifice to his mother.
 [VISUAL: the Zhang brothers, Zhongzong recalled]
-In January 705, Wu fell ill. Officials led by Zhang Jianzhi staged a coup. They killed the Zhang brothers and surrounded the palace. Wu was forced to abdicate in favour of Zhongzong. The Tang dynasty was restored. She died on 16 December 705, aged about 81, and was buried at Qianling, the tomb that she shared with her husband Gaozong. Her last request was to be buried as Gaozong's wife, and to have her name changed from Emperor to Empress.
+In early 705, Wu fell ill. Officials led by Zhang Jianzhi staged a coup on about 20 February. They killed the Zhang brothers and surrounded the palace. Wu was forced to abdicate in favour of Zhongzong. The Tang dynasty was restored. She died on 16 December 705, aged about 81, and was buried at Qianling, the tomb that she shared with her husband Gaozong. Her last request was to be buried as Gaozong's wife, and to have her name changed from Emperor to Empress.
 [VISUAL: coup at the palace, Qianling mausoleum]
 At Qianling, there is a huge stone stele with no inscription. Some say she ordered it left blank so that history would judge her. Others say that the inscription was never completed, or erased later. Historians do not know.
 [VISUAL: the blank stele]
@@ -71,7 +71,7 @@ Next, we reach the last great dynasty. A Manchu emperor who was crowned at seven
 - [ ] Heavenly Emperor/Empress titles 674; Gaozong d. Dec 683; Zhongzong deposed Feb 684; Li Jingye 684.
 - [ ] Bronze box; Lai Junchen executed 697; Zhou dynasty 690; Great Cloud Sutra.
 - [ ] Mingtang 688; Longmen Vairocana (672–75); Di Renjie.
-- [ ] Zhongzong recalled 698; coup Feb 705; death 16 Dec 705; blank stele.
+- [ ] Zhongzong recalled 698; coup 20 Feb 705 (verified); death 16 Dec 705; blank stele (not verified).
 - [ ] Baekje 660, Goguryeo 668, Silla; Tibet defeat at Dafeichuan 670.
 - [ ] Palace exam 690 (claim); twelve proposals (674).
 

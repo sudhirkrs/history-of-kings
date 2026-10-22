@@ -1,5 +1,5 @@
 # Ep 21 — Vladimir the Great: The Prince Who Chose a Faith for Russia
-Target: ~11 min (1561 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~11 min (1601 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

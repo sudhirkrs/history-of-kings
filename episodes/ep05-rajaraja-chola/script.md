@@ -1,5 +1,5 @@
 # Ep 5 — Rajaraja Chola: The Emperor Who Ruled the Waves
-Target: ~10 min (1507 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~11 min (1569 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

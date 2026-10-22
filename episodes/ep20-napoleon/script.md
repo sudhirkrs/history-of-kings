@@ -1,5 +1,5 @@
 # Ep 20 — Napoleon: From Corsican Officer to Emperor of the French
-Target: ~11 min (1531 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~11 min (1567 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

@@ -1,5 +1,5 @@
 # Ep 27 — Frederick the Great: The Flute-Playing King Who Made Prussia a Great Power
-Target: ~10 min (1416 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~10 min (1412 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

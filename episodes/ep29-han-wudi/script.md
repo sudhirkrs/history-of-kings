@@ -1,9 +1,9 @@
 # Ep 29 — Emperor Wu of Han: The Emperor Who Opened the Silk Road
-Target: ~10 min (1453 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~10 min (1479 words) · Status: DRAFT, fact-checked by web search (see factcheck/); still needs a human check against the cited books
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**
-In 138 BCE, an officer named Zhang Qian left the Han capital with about a hundred men. His mission was to find an unknown people in the far west and persuade them to join a war against the Xiongnu, the steppe nomads who threatened China. He was captured by the Xiongnu, held for ten years, married a Xiongnu wife, and then escaped, still carrying his emperor's staff. He travelled on to Central Asia. When he returned, thirteen years after leaving, only one companion was still with him.
+In 139 or 138 BCE, an officer named Zhang Qian left the Han capital with about a hundred men. His mission was to find an unknown people in the far west and persuade them to join a war against the Xiongnu, the steppe nomads who threatened China. He was captured by the Xiongnu, held for about ten years, or thirteen in some sources, married a Xiongnu wife, and then escaped, still carrying his emperor's staff. He travelled on to Central Asia. When he returned, thirteen years after leaving, only one companion was still with him.
 [VISUAL: a lone envoy with a staff crossing a desert]
 The emperor who sent him was Wu of Han, who ruled for 54 years. His wars, his taxes and his officials made Han China a great power. His reign also opened the routes we call the Silk Road, and brought Confucianism to the centre of the state. Yet he ended his life with a public apology for his mistakes.
 [VISUAL: Emperor Wu, Han empire map]
@@ -34,7 +34,7 @@ Zhang Qian's second mission, in 119 BCE, took him to the Wusun people, and his d
 [VISUAL: Zhang Qian's routes on a map, grapes and alfalfa]
 Wu wanted these Heavenly Horses, which sweated blood, according to the legend. When the king of Dayuan, or Ferghana, refused to hand them over and killed an envoy, Wu sent an army under Li Guangli. The first expedition in 104 BCE failed. The second, in 102 to 101 BCE, with some 60,000 men, besieged the capital and forced Ferghana to give thousands of horses. Only about a third of the army returned.
 [VISUAL: Ferghana horses, Li Guangli's army]
-Trade followed. Silk went west and glass, grapes, and horses came east. The Silk Road was not one road but a network. It started in Han times. The name is modern, coined by the German geographer Ferdinand von Richthofen in 1877.
+Trade followed. Silk went west and glass, grapes, and horses came east. The Silk Road was not one road but a network. It started in Han times. The name is modern, and is usually credited to the German geographer Ferdinand von Richthofen, in 1877, though some scholars say others used it earlier.
 
 ## 5. GOVERNMENT AND CONFUCIANISM (9:30–12:00)
 **NARRATION**
@@ -64,7 +64,7 @@ Wu's last decades were dark. Costs of war had left the treasury empty, people we
 [VISUAL: Wu with magicians, empty granaries]
 In 91 BCE, a court scandal known as the witchcraft affair broke out. Wu was ill and suspected that someone was cursing him with witchcraft. Officials, especially a man named Jiang Chong, accused the crown prince Liu Ju and Empress Wei. Liu Ju, in fear, rose in revolt and was defeated. He and Empress Wei killed themselves. Tens of thousands of people died in the purge. Later, Wu realised that the charges were false, executed Jiang Chong's family, and built a Palace of Longing for Son.
 [VISUAL: the witchcraft affair, the Palace of Longing]
-In 89 BCE, he issued an edict, the Edict of Luntai, in which he expressed regret for his wars, and announced an end to expansion and a focus on agriculture. Historians debate whether this is genuine, or a later creation, but it fits what followed. He chose an eight-year-old son, Liu Fuling, as heir, and appointed regents, led by Huo Guang. Wu died on 29 March 87 BCE.
+In 89 BCE, he issued an edict, the Edict of Luntai, in which he expressed regret for his wars, and announced an end to expansion and a focus on agriculture. Historians debate whether this is genuine, or a later creation, but it fits what followed. He chose an eight-year-old son, Liu Fuling, as heir, and appointed regents, led by Huo Guang. Wu died on 29 March 87 BCE, though some modern sources give 86 BCE.
 [VISUAL: the edict, young heir, Huo Guang]
 
 ## 9. LEGACY AND DEBATE (17:30–19:00)
