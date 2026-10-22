@@ -20,21 +20,23 @@ BG, FG, ACCENT = (24, 20, 16), (244, 236, 220), (201, 150, 60)
 
 def parse(script):
     """Return [{narration, caption}] scenes."""
-    scenes, buf = [], []
+    scenes, buf, heading = [], [], None
     for raw in script.read_text().splitlines():
         line = raw.strip()
-        if not line or line.startswith(("#", "---", "**NARRATION", "Target:")) or line.startswith("- ["):
-            if line.startswith("---") and "Fact-check" in line:
-                break
-            continue
-        if line.startswith("## Fact-check"):
+        if line.startswith(("## Fact-check", "## Metadata")):
             break
+        if line.startswith("## "):
+            heading = re.sub(r"^\d+\.\s*|\s*\(.*?\)\s*$", "", line[3:]).strip().title()
+            continue
+        if not line or line.startswith(("#", "---", "**NARRATION", "Target:")) or line.startswith("- ["):
+            continue
         cues = re.findall(r"\[VISUAL:\s*(.*?)\]", line)
         text = re.sub(r"\[(VISUAL|SOURCE):.*?\]", "", line).replace("**", "").replace("*", "").strip()
         if text:
             buf.append(text)
         for cue in cues:
-            scenes.append({"narration": " ".join(buf), "caption": cue})
+            scenes.append({"narration": " ".join(buf), "caption": cue, "chapter": heading})
+            heading = None
             buf = []
     if buf:
         scenes.append({"narration": " ".join(buf), "caption": scenes[-1]["caption"] if scenes else ""})
@@ -124,13 +126,17 @@ def main():
         image = imgs[0] if imgs else card(n, s["caption"], title.split("—")[0], out)
         seg, secs = render_scene(n, image, audio, out)
         segs.append(seg)
-        timing.append({"scene": n, "start": round(t, 1), "caption": s["caption"]})
+        timing.append({"scene": n, "start": round(t, 1), "caption": s["caption"], "chapter": s.get("chapter")})
         t += secs
         print(f"scene {n}/{len(scenes)} {secs:.0f}s", file=sys.stderr)
     lst = out / "list.txt"
     lst.write_text("".join(f"file '{p.name}'\n" for p in segs))
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "concat", "-i", str(lst), "-c", "copy",
                     str(out / "video.mp4")], check=True)
+    ch = [f"{int(x['start'])//60}:{int(x['start'])%60:02d} {x['chapter']}" for x in timing if x["chapter"]]
+    if ch:
+        ch[0] = "0:00 " + ch[0].split(" ", 1)[1]
+    (out / "chapters.txt").write_text("\n".join(ch) + "\n")
     (out / "scenes.json").write_text(json.dumps(timing, indent=1))
     print(f"Done: {out/'video.mp4'} ({t/60:.1f} min)")
 
