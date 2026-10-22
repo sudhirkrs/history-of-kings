@@ -1,4 +1,4 @@
-# Episode Roadmap (first 32 episodes — all scripted as drafts)
+# Episode Roadmap (first 40 episodes — all scripted as drafts)
 
 Order follows the plan: Indian kings first (reach), then Genghis Khan and his descendants, then Russia, then Europe. Episodes 21–27 add more Russia and Europe; they can be published interleaved with the earlier blocks (e.g. one Europe, one Russia, one India per cycle).
 Each script is in `episodes/epNN-name/script.md` with metadata and sources at the bottom.
@@ -37,6 +37,14 @@ Each script is in `episodes/epNN-name/script.md` with metadata and sources at th
 | 30 | Tang Taizong | China | Why is a king who killed his brothers remembered as a model ruler? |
 | 31 | Wu Zetian | China | How did a concubine become China's only woman emperor? |
 | 32 | Kangxi | China | How did a Manchu boy-emperor make the Qing legitimate? |
+| 33 | Babur | India | How did an exile found the Mughal Empire? |
+| 34 | Ranjit Singh | India | How did a one-eyed teenager build the Sikh Empire? |
+| 35 | Timur | Central Asia | Builder or destroyer? |
+| 36 | Henry VIII | Europe | How did a search for an heir break England from Rome? |
+| 37 | Maria Theresa | Europe | How did a 23-year-old save the Habsburg realm? |
+| 38 | Yaroslav the Wise | Russia | What did Kiev's golden age look like? |
+| 39 | Mehmed II | Ottomans | How did a 21-year-old take Constantinople? |
+| 40 | Zhu Yuanzhang | China | How did a beggar become an emperor? |
 
 ## Suggested publishing order
 Launch week: Ep 1, 2, 3 (so new viewers can binge). Then one per week in the table order, mixing in Shorts.
