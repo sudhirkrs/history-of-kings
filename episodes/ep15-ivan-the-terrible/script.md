@@ -1,5 +1,5 @@
 # Ep 15 — Ivan the Terrible: Russia's First Tsar
-Target: placeholder · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~9 min (1328 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

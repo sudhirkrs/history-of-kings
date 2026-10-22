@@ -1,5 +1,5 @@
 # Ep 2 — Chandragupta Maurya: The Man Who Built India's First Empire
-Target: ~17 min · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~14 min (2032 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
 
 ## 1. HOOK (0:00–0:55)
 **NARRATION**

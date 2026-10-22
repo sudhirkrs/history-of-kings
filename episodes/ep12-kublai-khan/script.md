@@ -1,5 +1,5 @@
 # Ep 12 — Kublai Khan: The Mongol Who Became Emperor of China
-Target: placeholder · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~9 min (1361 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

@@ -1,5 +1,5 @@
 # Ep 14 — Ivan III: The Man Who Made Russia
-Target: placeholder · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~10 min (1396 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

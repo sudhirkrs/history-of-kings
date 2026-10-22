@@ -1,5 +1,5 @@
 # Ep 9 — Genghis Khan, Part 1: The Boy Who Was Left to Die
-Target: placeholder · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~10 min (1488 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
 
 ## 1. HOOK (0:00–0:55)
 **NARRATION**

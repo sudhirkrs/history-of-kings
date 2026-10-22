@@ -1,5 +1,5 @@
 # Ep 1 — Ashoka: The King Who Gave Up War
-Target: ~19 min · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~14 min (2040 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

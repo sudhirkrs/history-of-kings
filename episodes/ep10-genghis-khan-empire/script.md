@@ -1,5 +1,5 @@
 # Ep 10 — Genghis Khan, Part 2: The Conqueror of Asia
-Target: placeholder · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~9 min (1359 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**

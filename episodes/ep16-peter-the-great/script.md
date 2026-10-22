@@ -1,5 +1,5 @@
 # Ep 16 — Peter the Great: The Tsar Who Dragged Russia into Europe
-Target: placeholder · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~9 min (1355 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**
