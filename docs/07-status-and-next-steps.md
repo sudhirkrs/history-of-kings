@@ -1,7 +1,7 @@
 # Status & Next Steps
 
 ## What exists
-- 20 draft scripts (≈30,500 words, ≈3.5 hours of narration), each with chapter headings, `[VISUAL]` cues, a fact-check list, metadata and sources.
+- 27 draft scripts (≈40,600 words, ≈4.7 hours of narration), each with chapter headings, `[VISUAL]` cues, a fact-check list, metadata and sources.
 - `tools/make_video.py` (script → narrated MP4 with caption cards), `tools/build_meta.py` (script → metadata.json incl. chapters), `tools/upload.py` (upload to YouTube).
 
 ## Not done — needs a human

@@ -1,5 +1,5 @@
 # Ep 19 — Louis XIV: The Sun King
-Target: ~10 min (1515 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
+Target: ~10 min (1501 words) · Status: DRAFT — must pass fact-check (docs/04) before voiceover
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**
