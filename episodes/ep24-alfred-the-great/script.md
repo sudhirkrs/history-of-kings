@@ -28,14 +28,14 @@ His three oldest brothers reigned in turn: Aethelbald, Aethelberht and Aethelred
 **NARRATION**
 For the next seven years Alfred bought peace, paying the Danes to leave. Then in January 878 the Danes, under their leader Guthrum, struck at Chippenham during Christmas. Wessex was overrun. Many nobles fled or submitted. The Chronicle says that Alfred with a small force made his way through woods and fens.
 [VISUAL: Danes at Chippenham, Alfred in the woods]
-He hid on the island of Athelney in the marshes of Somerset, and built a small fort. From there he waged a guerrilla war. A famous story tells that Alfred, sheltering in a peasant woman's house, was asked to watch cakes cooking by the fire. Absorbed in his worries, he let them burn, and was scolded. The story first appears in a text from the early eleventh century, long after his death. It is probably a legend. It does show how people remembered him: a king who stooped to learn from the humble.
+He hid on the island of Athelney in the marshes of Somerset, and built a small fort. From there he waged a guerrilla war. A famous story tells that Alfred, sheltering in a peasant woman's house, was asked to watch cakes cooking by the fire. Absorbed in his worries, he let them burn, and was scolded. The story first appears in the Life of St Neot, written in the late tenth century, some ninety years after his death. It is probably a legend. It does show how people remembered him: a king who stooped to learn from the humble.
 [VISUAL: Athelney, burnt cakes with a note: later legend]
 In May 878, he called the men of Somerset, Wiltshire and Hampshire to meet at a place called Egbert's Stone. Asser says they were delighted to see him alive. A few days later, they marched on Guthrum's army at Edington, also called Ethandun. After a hard fight, the Danes were beaten, and fled to their fort. After two weeks of siege, they surrendered.
 [VISUAL: gathering at Egbert's Stone, the battle of Edington]
 
 ## 5. THE PEACE WITH GUTHRUM (8:00–9:30)
 **NARRATION**
-Alfred did not kill Guthrum. Instead, he made him a deal. Guthrum agreed to be baptised, with Alfred as godfather, and to leave Wessex. Later, a treaty between Alfred and Guthrum set a boundary running roughly along the old Roman road of Watling Street, and the River Lea. East and north of the line was Danish law, the Danelaw. West and south was English.
+Alfred did not kill Guthrum. Instead, he made him a deal. Guthrum agreed to be baptised, with Alfred as godfather and with the Christian name Athelstan, and to leave Wessex. Later, a treaty between Alfred and Guthrum, dated sometime between the late 870s and about 890, set a boundary running roughly along the old Roman road of Watling Street, and the River Lea. East and north of the line was Danish law, the Danelaw. West and south was English.
 [VISUAL: baptism of Guthrum, boundary map: Danelaw]
 This was a compromise. Alfred could not drive the Danes out, but he stopped them going further. Historians see the treaty as a founding document for the later kingdom of England.
 

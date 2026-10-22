@@ -47,8 +47,8 @@ In the Babington plot, Walsingham's agents intercepted letters in which Mary app
 **NARRATION**
 Mary's death gave Philip II of Spain the excuse he needed. The most powerful monarch in Europe, he had been Elizabeth's brother-in-law and suitor. Now he saw her as a heretic and a pirate. English privateers, such as Francis Drake and John Hawkins, had been raiding Spanish ships and ports. In 1587, Drake attacked Cadiz and burnt dozens of ships, which he called singeing the King of Spain's beard.
 [VISUAL: Philip II, Drake at Cadiz]
-In May 1588, the Spanish Armada set out from Lisbon: about 130 ships and 30,000 men. The plan was to sail up the Channel, link up with the Duke of Parma's army in the Netherlands, and ferry it across to England.
-The English fleet, under Lord Howard of Effingham, with Drake and Hawkins, met the Armada off Plymouth in July. Spanish ships were bigger but the English had longer-range guns and faster ships. After a week of fighting, the Armada anchored at Calais. On the night of 7 August, the English sent eight fire ships into the anchored fleet. The Spaniards panicked, cut their cables, and scattered. At the Battle of Gravelines the next day, the English attacked the disordered Spanish ships.
+In May 1588, the Spanish Armada set out from Lisbon: about 130 ships, with around 26,000 sailors and soldiers aboard. A separate Spanish army of about 30,000 waited in the Netherlands. The plan was to sail up the Channel, link up with the Duke of Parma's army in the Netherlands, and ferry it across to England.
+The English fleet, under Lord Howard of Effingham, with Drake and Hawkins, met the Armada off Plymouth in July. Spanish ships were bigger but the English had longer-range guns and faster ships. After a week of fighting, the Armada anchored at Calais. On the night of 7 to 8 August, by the Spanish and modern calendar, which was 28 July in England's old calendar, the English sent eight fire ships into the anchored fleet. The Spaniards panicked, cut their cables, and scattered. At the Battle of Gravelines the next day, the English attacked the disordered Spanish ships.
 [VISUAL: Armada map, fire ships at Calais, Gravelines]
 A wind drove the Armada north. The Spanish had to sail around Scotland and Ireland, where storms wrecked many ships. Perhaps 50 ships and some 20,000 men were lost.
 At Tilbury, Elizabeth gave her famous speech. The exact words come from a letter by Leonel Sharp, written years later, so they may not be exact. But the spirit is clear.
@@ -82,7 +82,7 @@ Next, a very different king, who made Prussia a great power with a drilled army 
 - [ ] Acts of Supremacy and Uniformity 1559; "Supreme Governor".
 - [ ] Amy Robsart d. 1560.
 - [ ] Mary arrived 1568; excommunication 1570; Babington 1586; executed 8 Feb 1587.
-- [ ] Drake at Cadiz April 1587 ("singeing"); Armada May–Aug 1588: ~130 ships, 30,000 men; fire ships 7–8 Aug; Gravelines 8 Aug.
+- [ ] Drake at Cadiz April 1587 ("singeing": unverified); Armada ~130 ships, ~26,000 aboard + Parma's 30,000; fire ships 7–8 Aug (N.S.); Gravelines 8 Aug.
 - [ ] Tilbury speech 9 Aug 1588 (Leonel Sharp's version, c. 1623–24).
 - [ ] East India Company charter 31 Dec 1600; Poor Law 1601; Essex 1601; Roanoke 1585–90.
 - [ ] Number of Catholics executed (about 180); death 24 Mar 1603.

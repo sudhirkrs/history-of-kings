@@ -23,7 +23,7 @@ Vladimir was born around 958, the youngest son of Sviatoslav. His mother, Malush
 When Sviatoslav died, his three sons fought for power. Yaropolk got Kiev. Oleg got the land of the Drevlyans. Vladimir was sent to Novgorod. In 977, Yaropolk's men killed Oleg. Vladimir fled to Scandinavia, to his relatives, and raised an army of Varangians.
 In 978, he came back and attacked. On the way he took the city of Polotsk, whose prince Rogvolod refused to give his daughter Rogneda in marriage to the son of a slave. Vladimir killed Rogvolod and his sons and took Rogneda by force. Then he marched on Kiev, besieged Yaropolk, tricked him into negotiating, and had him murdered. He became the ruler of all the Rus' lands.
 [VISUAL: Vladimir's return, Polotsk, siege of Kiev]
-This is the young Vladimir of the chronicles: brutal, ambitious and lustful. The Primary Chronicle says he had 800 concubines. The numbers are probably an exaggeration, a way for the writer to show the contrast with Christian Vladimir.
+This is the young Vladimir of the chronicles: brutal, ambitious and lustful. The Primary Chronicle says he had several wives and some 800 concubines. The numbers are probably an exaggeration, a way for the writer to show the contrast with Christian Vladimir. Other sources count about seven wives.
 
 ## 4. THE PAGAN PRINCE (5:30–7:30)
 **NARRATION**
@@ -37,7 +37,7 @@ Vladimir was building a state. But paganism, with local gods, did not unite a gr
 **NARRATION**
 Now the famous story from the Primary Chronicle, compiled about 1113, a century after the events.
 [VISUAL: chronicle manuscript]
-In 986, according to the chronicle, envoys came to Vladimir from different religions. The Muslim Bulgars of the Volga came first. Vladimir liked the idea of many wives, but he rejected the ban on pork and wine. According to the story, he said: drinking is the joy of the Rus'; we cannot exist without that pleasure.
+In 986 or 987, according to the chronicle, envoys came to Vladimir from different religions. The Muslim Bulgars of the Volga came first. Vladimir liked the idea of many wives, but he rejected the ban on pork and wine. According to the story, he said: drinking is the joy of the Rus'; we cannot exist without that pleasure.
 Next came Jewish Khazars. He asked where their homeland was, and when told that God had scattered them in punishment for their sins, he said: how can you teach others, when you yourselves are cast out?
 Then came the Germans, representing Latin Christianity. Vladimir sent them away, saying that his ancestors had not accepted that faith.
 Finally, a Greek philosopher explained the Orthodox faith. Vladimir sent ten wise men to see for themselves. Among the Bulgars they saw no joy; among the Germans no beauty. But in Constantinople, they were taken to a service at Hagia Sophia, and returned with the famous words: we did not know whether we were in heaven or on earth.
@@ -51,7 +51,7 @@ The real events were driven by war. In 987, the Byzantine Emperor Basil II faced
 Basil asked Vladimir for military help. Vladimir offered about 6,000 Varangian warriors, on one condition: he would marry the emperor's sister, Anna. This was extraordinary. Byzantine princesses born in the purple were not given to foreign rulers, least of all pagan barbarians. Basil agreed, but only if Vladimir was baptised.
 Vladimir accepted. The Varangian troops arrived in Constantinople in 988, and fought Phokas. Phokas died in 989, perhaps of a stroke, and the revolt collapsed. The Varangians stayed on to form the Emperor's famous Varangian Guard.
 [VISUAL: Varangians arriving, the Varangian Guard]
-But then Basil delayed sending Anna. Vladimir attacked the Byzantine city of Cherson in Crimea, which fell after a siege. Now Basil had to give in. Anna came, and Vladimir was baptised, either in Cherson or Kiev, probably in 988 or 989. The exact date is debated by historians. Traditional dating is 988.
+But then Basil delayed sending Anna. Vladimir attacked the Byzantine city of Cherson in Crimea, which fell after a siege. Now Basil had to give in. Anna came, and Vladimir was baptised, either in Cherson or in Kiev or on his estate near it, in 987, 988 or 989, depending on the source. Traditional dating is 988. Some scholars even treat the Cherson story as a legend.
 [VISUAL: siege of Cherson, baptism, Anna arriving]
 It was a masterpiece of diplomacy. Vladimir became the brother-in-law of the emperor, and gained a Christian crown, while Byzantium gained an ally, and a vast new Christian land.
 
@@ -69,7 +69,7 @@ He also minted coins with his image and a trident, the symbol of his dynasty, wh
 **NARRATION**
 Vladimir governed through his sons, placing them in major cities. Yaroslav in Novgorod, Boris in Rostov, Gleb in Murom, Sviatopolk in Turov. In his last years, there was a tension. Yaroslav of Novgorod refused to pay tribute, and Vladimir was preparing war against his own son when he died, on 15 July 1015, at Berestovo, near Kiev.
 [VISUAL: sons in cities, Vladimir's death]
-A terrible struggle followed. Sviatopolk, who is said to have been the son of Yaropolk's widow, seized Kiev and killed his half-brothers Boris and Gleb. They became the first Russian saints, honoured for accepting death without fighting. Yaroslav defeated Sviatopolk in 1019 and became Yaroslav the Wise.
+A terrible struggle followed. Sviatopolk, who is said to have been the son of Yaropolk's widow, seized Kiev and killed his half-brothers Boris and Gleb. They became the first Russian saints, honoured for accepting death without fighting. Yaroslav defeated Sviatopolk at Lyubech in 1016 and in a final battle in 1019, and went on to rule Kiev as Yaroslav the Wise.
 [VISUAL: Boris and Gleb icon, Yaroslav's victory]
 
 ## 9. LEGACY AND DEBATE (17:30–19:00)

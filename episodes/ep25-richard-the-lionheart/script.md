@@ -33,7 +33,7 @@ The journey was eventful. The two kings wintered in Sicily, where Richard fell o
 In May 1191, Richard's fleet was scattered in a storm, and some of his ships ran aground at Cyprus. The ruler of Cyprus, Isaac Komnenos, treated the shipwrecked men badly and refused help. Richard conquered the island in a few weeks. He married Berengaria at Limassol. Cyprus gave the Crusaders a useful base, and Richard sold it to the Knights Templar, later to Guy of Lusignan, who stayed on as king.
 [VISUAL: Cyprus conquest, wedding at Limassol]
 Richard arrived at Acre on 8 June 1191. The Crusaders had been besieging the city for almost two years. Richard brought fresh troops, siege engines and energy. On 12 July, the city surrendered. Philip II, ill and quarrelling with Richard, left for France in August, leaving a force behind.
-The terms of surrender included a ransom for the garrison, and the return of the True Cross. Saladin was slow in paying. On 20 August 1191, Richard had about 2,700 Muslim prisoners taken outside the walls, in view of Saladin's army, and executed them. It was a brutal act. Medieval chroniclers on both sides recorded it. Some Christian writers accepted it as a military necessity. Muslim writers condemned it.
+The terms of surrender included a ransom for the garrison, and the return of the True Cross. Saladin was slow in paying. On 20 August 1191, Richard had about 2,700 Muslim prisoners taken outside the walls (sources give from 2,600 to 3,000), in view of Saladin's army, and executed them. It was a brutal act. Medieval chroniclers on both sides recorded it. Some Christian writers accepted it as a military necessity. Muslim writers condemned it.
 [VISUAL: siege of Acre, prisoners outside the walls, solemn]
 
 ## 5. ARSUF AND THE ROAD TO JERUSALEM (8:30–11:30)
@@ -62,7 +62,7 @@ He spent his last years fighting Philip II in France. He built Chateau Gaillard 
 [VISUAL: Chateau Gaillard, battles in Normandy]
 In March 1199, Richard was besieging a small castle at Chalus-Chabrol in the Limousin, in central France, because a local lord had found treasure and refused to hand it over. Richard went out to look at the defences without armour. A crossbowman shot him in the shoulder. The wound turned gangrenous. He died on 6 April 1199, aged forty-one, in the arms of his mother Eleanor.
 [VISUAL: siege of Chalus, crossbow bolt, deathbed]
-He forgave the crossbowman, according to a chronicler, though he was reportedly flayed alive after Richard's death, by one of his captains. The story varies. His heart was buried in Rouen, his body at Fontevraud, near his father and mother.
+He forgave the crossbowman, according to a chronicler, though in some versions the man was flayed alive after Richard's death, by one of his captains. The story varies, and so does the shooter's name: legend says Bertrand de Gourdon, and one chronicle says Peter Basil. His heart was buried in Rouen, his body at Fontevraud, near his father and mother.
 He had no children. John became king.
 
 ## 8. LEGACY AND DEBATE (16:00–18:00)

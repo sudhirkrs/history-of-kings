@@ -3,9 +3,9 @@ Target: ~9 min (1330 words) · Status: DRAFT — must pass fact-check (docs/04) 
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**
-On the morning of 13 March 1881, the Tsar of Russia rode through the streets of St Petersburg in an armoured carriage, a gift from Napoleon III. That day he had signed a plan that could have given Russia its first national assembly. A bomb thrown by a young revolutionary exploded beside the carriage. The Tsar survived, got out to help the wounded, and a second bomb was thrown at his feet. He died a few hours later.
+On the morning of 13 March 1881, the Tsar of Russia rode through the streets of St Petersburg in a closed carriage, reportedly a gift from Napoleon III. That day he had signed a plan that could have given Russia its first national assembly. A bomb thrown by a young revolutionary exploded beside the carriage. The Tsar survived, got out to help the wounded, and a second bomb was thrown at his feet. He died a few hours later.
 [VISUAL: St Petersburg canal, armoured carriage, explosion]
-The man was Alexander II. Twenty years before, he had freed about twenty million serfs, the biggest social reform in the history of Russia. Yet he was killed by people who said he had not done enough. This is the story of the Tsar Liberator.
+The man was Alexander II. Twenty years before, he had freed more than twenty million serfs, the biggest social reform in the history of Russia. Yet he was killed by people who said he had not done enough. This is the story of the Tsar Liberator.
 [VISUAL: Alexander II portrait, manifesto of emancipation]
 
 ## 2. THE SON OF NICHOLAS I (0:50–3:00)
@@ -14,7 +14,7 @@ Alexander was born on 29 April 1818, in Moscow. His father was the future Tsar N
 [VISUAL: young Alexander, Zhukovsky, Nicholas I]
 In 1855, during the Crimean War, Nicholas died. Russia was fighting Britain, France and the Ottomans, and was losing. The siege of Sevastopol ended in September 1855 with Russian defeat. In March 1856 the Treaty of Paris forced Russia to give up the Black Sea fleet.
 [VISUAL: siege of Sevastopol, Treaty of Paris]
-Alexander, 36, became Tsar in the middle of a national humiliation. The war showed that Russia was backward: no railways to the front, old weapons and a serf army. He concluded that reform was necessary. In a speech in 1856 to nobles in Moscow, he said: it is better to abolish serfdom from above than to wait until it begins to abolish itself from below.
+Alexander, 36, became Tsar in the middle of a national humiliation. The war showed that Russia was backward: no railways to the front, old weapons and a serf army. He concluded that reform was necessary. In a speech in 1856 to nobles in Moscow, he is reported to have said that it is better to abolish serfdom from above than to wait until it begins to abolish itself from below. The exact words vary in the sources.
 
 ## 3. WHAT WAS SERFDOM? (3:00–5:00)
 **NARRATION**
@@ -29,8 +29,8 @@ Alexander set up a secret committee in 1857, which became a public effort, with 
 The Emancipation Manifesto was signed on 19 February 1861, according to the Russian calendar, 3 March in the new one. It declared that serfs were free. They had personal freedom: they could marry, own property, and go to court without the landlord's consent.
 But the land was the key question. The peasants did not get the land for free. They were to receive a plot, the size depending on the region, but they had to pay for it. The state paid the landowner at once, and the peasants repaid the state over 49 years in redemption payments, with interest. In practice, the peasant communes, the mir, held the land collectively and were responsible for the payments.
 [VISUAL: manifesto read in a village, land plots on a map]
-The result disappointed everyone. Many peasants got less land than they had farmed before, and felt cheated. Peasant riots broke out in spring 1861, and in some places troops opened fire; in the village of Bezdna more than fifty were killed. Many nobles were unhappy too, though they were paid.
-Most historians say that the reform was a start but incomplete. It ended legal serfdom, but left peasants poor, indebted and tied to the commune. The redemption payments were cancelled in 1906, after the Revolution of 1905.
+The result disappointed everyone. Many peasants got less land than they had farmed before, and felt cheated. Peasant riots broke out in spring 1861, and in some places troops opened fire; in the village of Bezdna dozens of peasants were killed, about fifty by the official count and perhaps more. Many nobles were unhappy too, though they were paid.
+Most historians say that the reform was a start but incomplete. It ended legal serfdom, but left peasants poor, indebted and tied to the commune. The redemption payments were finally ended in 1907, after the Revolution of 1905.
 [VISUAL: peasant unrest, Bezdna]
 
 ## 5. THE GREAT REFORMS (8:30–11:30)
@@ -56,7 +56,7 @@ In 1863, a Polish uprising was crushed with harsh measures, ending hope for a mo
 **NARRATION**
 Reform created hope, and the hope created impatience. In the 1860s and 1870s, young Russians known as the Populists went to the villages to educate the peasants. The authorities arrested hundreds. Some turned to terror.
 [VISUAL: students going to the villages, arrests]
-In 1866, a student named Dmitry Karakozov tried to shoot the Tsar. In 1879, Alexander Solovyov fired five shots at him in the street, and missed. The same year, a group called Narodnaya Volya, the People's Will, decided to kill the Tsar. They tried to blow up his train in December 1879. In February 1880, one of them, Stepan Khalturin, who worked as a carpenter in the Winter Palace, set off a bomb in the palace dining room, killing eleven people. The Tsar was late for dinner and survived.
+In 1866, a student named Dmitry Karakozov tried to shoot the Tsar. In 1879, Alexander Solovyov fired five shots at him in the street, and missed. The same year, a group called Narodnaya Volya, the People's Will, decided to kill the Tsar. They tried to blow up his train in December 1879. In February 1880, one of them, Stepan Khalturin, who worked as a carpenter in the Winter Palace, set off a bomb in the palace dining room, killing or wounding dozens, with eleven or twelve killed, depending on the source. The Tsar was late for dinner and survived.
 [VISUAL: attempts on the Tsar, Winter Palace explosion]
 Alexander appointed a general with liberal views, Mikhail Loris-Melikov, to restore order and plan reforms. In early 1881, Loris-Melikov proposed to include elected representatives in a commission to consider laws. On the morning of 1 March (old calendar), Alexander approved it for publication. Some historians call it a draft constitution, others say it was much more limited. The truth is debated.
 [VISUAL: Loris-Melikov, the document]

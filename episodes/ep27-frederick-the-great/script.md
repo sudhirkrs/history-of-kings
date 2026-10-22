@@ -3,7 +3,7 @@ Target: ~10 min (1416 words) · Status: DRAFT — must pass fact-check (docs/04)
 
 ## 1. HOOK (0:00–0:50)
 **NARRATION**
-In August 1759, at the Battle of Kunersdorf, the King of Prussia watched his army destroyed. Two horses were shot under him. A bullet struck a gold snuffbox in his pocket and saved his life. That night he wrote to a friend: I have no resources left, and, to tell the truth, I believe all is lost.
+In August 1759, at the Battle of Kunersdorf, the King of Prussia watched his army destroyed. Two horses were shot under him. According to a famous story, a bullet struck a gold case in his pocket and saved his life. That night he wrote to a friend that all was lost.
 [VISUAL: battle of Kunersdorf, snuffbox with a bullet dent]
 Frederick II of Prussia was a man who wrote poetry in French, composed flute concertos, corresponded with Voltaire, and called himself the first servant of the state. He also began wars that killed hundreds of thousands, and turned a small, poor kingdom into one of the great powers of Europe. This is the story of Frederick the Great.
 [VISUAL: Frederick portrait, map of Prussia]
@@ -22,7 +22,7 @@ In 1736 he moved to Rheinsberg Castle, where he spent happy years reading, writi
 **NARRATION**
 Frederick became king on 31 May 1740, when his father died. Within a few months, an opportunity arose. In October 1740, the Habsburg Emperor Charles VI died, and his twenty-three-year-old daughter Maria Theresa inherited the Austrian lands. Charles had arranged for this by a treaty, the Pragmatic Sanction, which the powers had agreed to respect. Frederick did not.
 [VISUAL: Charles VI's death, Maria Theresa]
-In December 1740, without declaring war, Frederick invaded Silesia, a rich province of Austria. He had an old claim on parts of it, but the real reason was power. He wrote later: ambition, interest, the desire to make people talk about me, carried the day, and I decided for war.
+In December 1740, without declaring war, Frederick invaded Silesia, a rich province of Austria. He had an old claim on parts of it, but the real reason was power. He later admitted, in his memoirs, that ambition and the desire for fame played a part in his decision.
 He won at Mollwitz in April 1741, though the king himself fled the field early, and his generals won the day. After two wars, in 1740 to 1742 and 1744 to 1745, Prussia kept Silesia. It grew by a third in population and by a larger share in wealth.
 [VISUAL: Prussian invasion of Silesia, Mollwitz]
 The Silesian Wars made Frederick a European figure, and Maria Theresa an enemy for life.
@@ -33,7 +33,7 @@ In the following years of peace, 1745 to 1756, Frederick turned to governing. He
 [VISUAL: Frederick at his desk, annotations]
 He built the palace of Sanssouci at Potsdam, meaning without worries, from 1745 to 1747. He invited philosophers and artists to his court. In 1750 Voltaire came, and stayed for nearly three years. The friendship ended in a bitter quarrel, and Voltaire left Prussia in 1753.
 [VISUAL: Sanssouci, Voltaire at dinner]
-Frederick's government was a mix of enlightenment and discipline. He abolished torture in most cases, in 1740. He declared that everyone in his kingdom could be saved in his own way; he granted religious tolerance to Catholics, Jews, and Protestants. He encouraged schools, though in practice many villages had no teacher. He promoted the potato, ordering farmers to plant it, and the story goes that he posted soldiers to guard the fields in order to make peasants think it was valuable, so they would steal it.
+Frederick's government was a mix of enlightenment and discipline. He abolished torture in most cases, in 1740. He declared that everyone in his kingdom could be saved in his own way; he granted religious tolerance to Catholics, Jews, and Protestants. He encouraged schools, though in practice many villages had no teacher. He promoted the potato, ordering farmers to plant it, and a popular story, which historians doubt, goes that he posted soldiers to guard the fields in order to make peasants think it was valuable, so they would steal it.
 [VISUAL: potato fields, soldiers guarding]
 But he also kept society as it was. Nobles were given the officer posts. Serfdom remained in the east. Jews were taxed heavily and limited in occupation. Frederick himself despised the German language and wrote in French.
 
