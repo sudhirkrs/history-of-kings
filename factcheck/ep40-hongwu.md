@@ -12,3 +12,12 @@
 | Lan Yu purge 1393, ~15,000 | Verified (one source) | |
 | 26 sons; Zhu Di Prince of Yan 1370; Beijing 1380; Zhu Biao d. 1392 | Verified | Hongwu's death date: not verified |
 | Zhu Di rebelled 1399, took Nanjing 1402 | Verified | Jianwen's fate: legend |
+
+## Extension pass (added: Money, Trade and the Sea; Nanjing wall; army; code)
+| Claim | Verdict | Notes |
+|---|---|---|
+| Nanjing wall about 48 km | Verified (search) | |
+| Standing army of a million or more | Verified, hedged "one estimate" | |
+| Paper money baochao; coinage stopped 1393 | Verified (search) | Currency lost value: standard, check |
+| Sea ban (haijin) around 1371; tribute-only trade; 1394 cut ties with most states; in Ancestral Injunctions | Verified (search) | Motives debated |
+| Great Ming Code (Da Ming lü) | Name verified; date/contents NOT | Final form is often dated 1397; check |

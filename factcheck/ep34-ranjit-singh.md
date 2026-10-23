@@ -12,3 +12,12 @@
 | Koh-i-Noor from Shah Shuja 1813 | Not verified; one source claims a bequest to Puri temple (rejected) | |
 | Fakir Azizuddin, Dina Nath as ministers | NOT verified | Standard |
 | Died 27 June 1839 aged 58; Kharak Singh overthrown Oct 1839, d. Nov 1840; Sher Singh Jan 1841; annexed 29 Mar 1849 | Verified | Army 29,000 to 80,000+ |
+
+## Extension pass (added: Lahore and Amritsar; The Khyber Frontier and Jamrud)
+| Claim | Verdict | Notes |
+|---|---|---|
+| Jamrud taken late 1836; battle 30 Apr 1837 vs Akbar Khan; Hari Singh Nalwa killed | Verified (search) | Outcome disputed; script says so. One Dawn article misdates it to Oct 1837 |
+| Reinforcements slow, troops recalled for Nau Nihal Singh's wedding | Hedged ("some sources") | Accounts differ |
+| Amritsar taken 1802 with the Zamzama | Hedged | One source dates the Bhangi surrender 1805; gun's capture date (1762 vs 1773) disputed; script avoids dates |
+| Hazuri Bagh beside the fort and Badshahi Mosque, court held there | Verified (search) | Baradari date disputed (1813 vs 1818); not stated |
+| Land revenue main income, a third to a half; kardars; shift to cash assessment | Verified, one estimate | Check a specialist source |

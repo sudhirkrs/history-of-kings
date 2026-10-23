@@ -13,3 +13,13 @@
 | Otrar/death Feb 1405 | NOT verified | Standard |
 | Gur-e-Amir opened 20 June 1941 (Gerasimov); curse = legend | Verified | Reburial late 1942 |
 | Ulugh Beg observatory; Bibi-Khanym mosque; Nicopolis 1396 | NOT verified | Standard |
+
+## Extension pass (added: War with Tokhtamysh; Syria and the Historian)
+| Claim | Verdict | Notes |
+|---|---|---|
+| Timur helped Tokhtamysh to the White Horde throne 1378; war 1386–1395 | Verified (search) | |
+| Kondurcha, 18 June 1391 | Verified (search) | One fandom site says 14 April; ignored |
+| Terek 1395; Sarai and Astrakhan destroyed | Verified (search) | |
+| Aleppo Nov 1400; Faraj retreated Jan 1401; Ibn Khaldun in camp about a month, declined to serve | Verified (search) | Length of stay 35 days vs a month |
+| Damascus plundered, Umayyad Mosque damaged, Timur left mid-March 1401 | Verified (search) | Death tolls vary; not stated |
+| Earlier claim "Terek ... helped Moscow" removed | Removed | Unsupported inference |

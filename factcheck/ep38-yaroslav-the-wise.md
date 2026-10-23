@@ -14,3 +14,12 @@
 | Daughters: Elizabeth–Harald; Anna–Henry I; Anastasia–Andrew I | Verified | Anna signing in Cyrillic: not verified |
 | 1043 Constantinople raid failed; treaty; Vsevolod married | Verified | |
 | Testament: five sons, obey Izyaslav; civil war | Verified | "Lame" per sagas; examination secondary |
+
+## Extension pass (added: A Family of Kings)
+| Claim | Verdict | Notes |
+|---|---|---|
+| Mother Rogneda of Polotsk | Verified (search) | |
+| Ingegerd married 1019; Staraya Ladoga as wedding gift | Verified (search) | |
+| Elisiv m. Harald Hardrada (won her via Byzantine service); Anastasia m. Andrew I; Anna m. Henry I | Verified (search) | |
+| Anna–Henry wedding at Reims, 19 May 1051 | Verified (one source) | Anna's birth year disputed (1024/5, 1032, 1036); not stated |
+| Anna bore Henry sons | NOT verified in this pass | Standard (Philip I); check |
