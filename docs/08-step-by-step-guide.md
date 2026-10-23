@@ -152,3 +152,16 @@ A browser window opens the first time; click Allow. It prints the video link. (I
 - Upload says "quota" or video is Private → normal for an unaudited API project; finish in Studio.
 - "Custom thumbnail" not allowed → verify your phone number on the channel.
 - Voice mispronounces a name → respell it phonetically in `script.md` and re-run.
+
+
+## Part D — Run it all automatically
+
+Once Part A is done (including one manual `python tools/upload.py ...` so `token.json` exists):
+
+1. **Sign off an episode.** After checking its "Fact-check flags" against books, create an empty file `episodes/epNN-name/APPROVED`. The pipeline never builds or uploads an episode without it (override with `--no-gate`).
+2. **Set the plan** in `schedule/config.json`: `first_publish` (UTC), `interval_days` (3.5 = twice a week, 7 = weekly), `voice`, `tts`.
+3. **Preview:** `python tools/pipeline.py plan` lists each episode, its publish date and whether it is approved.
+4. **Run by hand:** `python tools/pipeline.py run --count 2` makes the voice and video, metadata and thumbnail, then uploads each as a private video scheduled to go public at its slot. Add `--dry-run` to build without uploading.
+5. **Schedule it:** `python tools/install_scheduler.py` installs a weekly job (cron on Linux/macOS, Task Scheduler on Windows) that does step 4 every Sunday. Logs: `schedule/run.log`. Remove with `--remove`.
+
+Notes: progress is kept in `schedule/state.json`, so nothing is uploaded twice and failures are retried on the next run. A `thumbnail.png` in an episode folder is used if present; otherwise a plain title card is drawn. Drop licensed pictures into `episodes/epNN/images/001.jpg, 002.jpg...` before approving if you want real images. Until Google audits your API project, scheduled uploads may stay private and need a manual Publish in Studio.
