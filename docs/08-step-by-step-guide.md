@@ -156,6 +156,8 @@ A browser window opens the first time; click Allow. It prints the video link. (I
 
 ## Part D — Run it all automatically
 
+First run `python tools/setup_check.py` (add `--voice` to test the AI voice); it lists exactly what is still missing.
+
 Once Part A is done (including one manual `python tools/upload.py ...` so `token.json` exists):
 
 1. **Sign off an episode.** After checking its flags against books, run `python tools/approve.py ep04` (it lists what is still open and asks y/N; `-y` skips the question, `--list` shows status, `--revoke` undoes). The pipeline never builds or uploads an episode without it (override with `--no-gate`).
