@@ -158,7 +158,7 @@ A browser window opens the first time; click Allow. It prints the video link. (I
 
 Once Part A is done (including one manual `python tools/upload.py ...` so `token.json` exists):
 
-1. **Sign off an episode.** After checking its "Fact-check flags" against books, create an empty file `episodes/epNN-name/APPROVED`. The pipeline never builds or uploads an episode without it (override with `--no-gate`).
+1. **Sign off an episode.** After checking its flags against books, run `python tools/approve.py ep04` (it lists what is still open and asks y/N; `-y` skips the question, `--list` shows status, `--revoke` undoes). The pipeline never builds or uploads an episode without it (override with `--no-gate`).
 2. **Set the plan** in `schedule/config.json`: `first_publish` (UTC), `interval_days` (3.5 = twice a week, 7 = weekly), `voice`, `tts`.
 3. **Preview:** `python tools/pipeline.py plan` lists each episode, its publish date and whether it is approved.
 4. **Run by hand:** `python tools/pipeline.py run --count 2` makes the voice and video, metadata and thumbnail, then uploads each as a private video scheduled to go public at its slot. Add `--dry-run` to build without uploading.

@@ -8,7 +8,7 @@
 Settings live in schedule/config.json. Progress is recorded in schedule/state.json, so
 re-running never uploads an episode twice and a failed episode is retried next time.
 
-Safety gate: an episode is only built when episodes/<ep>/APPROVED exists (create it after
+Safety gate: an episode is only built when episodes/<ep>/APPROVED exists (run tools/approve.py after
 you have checked the 'Fact-check flags' against books). Pass --no-gate to skip this.
 """
 import argparse
