@@ -14,3 +14,16 @@
 | Cromwell executed 28 July 1540; Catherine Howard married 28 July 1540, beheaded 13 Feb 1542 | Howard verified; Cromwell date not stated in search | |
 | Anne of Cleves: unconsummated, annulled after ~6 months | Verified | |
 | 1536 jousting accident; Mary Rose 1545; death 28 Jan 1547 | NOT verified | Standard |
+
+## Extension pass (added sections: War, Glory and a Title; Wales, Scotland and France)
+| Claim | Verdict | Notes |
+|---|---|---|
+| Flodden 9 Sept 1513, English victory, James IV killed; Catherine regent | Verified (search) | |
+| Defender of the Faith from Leo X, Oct 1521, for the Assertio; More's help "some say" | Verified, hedged | More's role is disputed |
+| Title re-conferred by Parliament 1543 | Verified (search) | |
+| Act of Union with Wales 1536 | Verified (search) | Acts of 1535/1542 also relevant; kept to 1536 |
+| Six Articles 1539, transubstantiation | Verified (search) | |
+| Solway Moss 1542; Rough Wooing; Boulogne 1544 | Verified (search) | |
+| Debased coinage in the 1540s | NOT verified in this pass | Standard history (Great Debasement); check a book |
+| Mary Rose, July 1545, several hundred lost, cause debated, raised early 1980s | Verified, hedged | "Henry watched from shore" is traditional |
+| Navy/south-coast fortification line replacing "first royal dockyards" | NOT verified | Dockyard claim removed; fort claim is standard but check |
