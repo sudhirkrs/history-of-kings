@@ -34,12 +34,12 @@ def credentials():
     return creds
 
 
-def upload(episode_dir, video, thumb, publish_at=None):
+def upload(episode_dir, video, thumb, publish_at=None, privacy=None):
     """Upload and return the new video id."""
     meta = json.loads((Path(episode_dir) / "metadata.json").read_text())
     yt = build("youtube", "v3", credentials=credentials())
     status = {
-        "privacyStatus": "private" if publish_at else meta["privacyStatus"],
+        "privacyStatus": "private" if publish_at else (privacy or meta["privacyStatus"]),
         "selfDeclaredMadeForKids": meta["selfDeclaredMadeForKids"],
     }
     if publish_at:

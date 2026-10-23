@@ -4,6 +4,7 @@
     python tools/pipeline.py run --count 2             # build + upload the next 2 episodes
     python tools/pipeline.py run --ep ep04-shivaji     # one specific episode
     python tools/pipeline.py run --count 1 --dry-run   # build everything, skip the upload
+    python tools/pipeline.py run --ep ep01-ashoka --now   # upload and make public immediately
 
 Settings live in schedule/config.json. Progress is recorded in schedule/state.json, so
 re-running never uploads an episode twice and a failed episode is retried next time.
@@ -76,7 +77,7 @@ def run(cmd):
     subprocess.run([sys.executable, *cmd], cwd=ROOT, check=True)
 
 
-def process(name, conf, when, dry):
+def process(name, conf, when, dry, now=False):
     ep = ROOT / "episodes" / name
     run(["tools/make_video.py", str(ep), "--voice", conf["voice"], "--tts", conf["tts"]])
     run(["tools/build_meta.py", str(ep)])
@@ -85,6 +86,8 @@ def process(name, conf, when, dry):
         return None
     sys.path.insert(0, str(ROOT / "tools"))
     import upload
+    if now:
+        return upload.upload(ep, ep / "out" / "video.mp4", thumb, None, "public")
     return upload.upload(ep, ep / "out" / "video.mp4", thumb, when.strftime("%Y-%m-%dT%H:%M:%SZ"))
 
 
@@ -95,6 +98,7 @@ def main():
     ap.add_argument("--ep")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--no-gate", action="store_true")
+    ap.add_argument("--now", action="store_true", help="publish immediately instead of scheduling")
     a = ap.parse_args()
     conf = {**DEFAULTS, **load(CONF, {})}
     state = load(STATE, {})
@@ -119,7 +123,7 @@ def main():
         if when <= datetime.now(timezone.utc) + timedelta(minutes=20):
             when = datetime.now(timezone.utc) + timedelta(hours=1)
         try:
-            vid = process(n, conf, when, a.dry_run)
+            vid = process(n, conf, when, a.dry_run, a.now)
         except Exception as e:
             print(f"FAILED {n}: {e}", file=sys.stderr)
             state[n] = {"error": str(e)}
@@ -127,10 +131,10 @@ def main():
             STATE.write_text(json.dumps(state, indent=2))
             continue
         if vid:
-            state[n] = {"url": f"https://youtu.be/{vid}", "publish_at": when.isoformat()}
+            state[n] = {"url": f"https://youtu.be/{vid}", "publish_at": "now" if a.now else when.isoformat()}
             STATE.parent.mkdir(exist_ok=True)
             STATE.write_text(json.dumps(state, indent=2))
-            print(f"{n}: scheduled {when:%Y-%m-%d %H:%MZ} -> {state[n]['url']}")
+            print(f"{n}: {'published now' if a.now else 'scheduled ' + when.strftime('%Y-%m-%d %H:%MZ')} -> {state[n]['url']}")
         done += 1
 
 
