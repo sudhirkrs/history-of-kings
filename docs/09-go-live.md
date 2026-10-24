@@ -3,7 +3,7 @@
 Do these in order. Each step says what you should see.
 
 ## One time (about 30 minutes)
-1. **Get the files.** `git clone https://github.com/sudhirkrs/history-of-kings.git`, then `cd history-of-kings`, then `git checkout claude/admiring-knuth-7tos2n`.
+1. **Get the files.** `git clone https://github.com/sudhirkrs/history-of-kings.git`, then `cd history-of-kings`. You are on `main` already; later run `git pull` for updates.
 2. **Install.** Python 3.10+, ffmpeg, git, then `pip install edge-tts pillow google-api-python-client google-auth-oauthlib`.
 3. **Check.** `python tools/setup_check.py --voice`. Fix every `FIX` line it prints. Done when it says **Ready.**
 4. **YouTube access.** In Google Cloud: new project, enable "YouTube Data API v3", create an OAuth client of type Desktop app, save it as `client_secret.json` in the repo folder (details: `docs/08-step-by-step-guide.md`, Part A). Add your Google account as a test user.
