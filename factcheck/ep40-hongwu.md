@@ -21,3 +21,12 @@
 | Paper money baochao; coinage stopped 1393 | Verified (search) | Currency lost value: standard, check |
 | Sea ban (haijin) around 1371; tribute-only trade; 1394 cut ties with most states; in Ancestral Injunctions | Verified (search) | Motives debated |
 | Great Ming Code (Da Ming lü) | Name verified; date/contents NOT | Final form is often dated 1397; check |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Edward Dreyer, Early Ming China: A Political History 1355-1435
+- John Dardess, Ming China 1368-1644
+- Frederick Mote and Denis Twitchett (eds.), Cambridge History of China, Vol. 7: The Ming Dynasty 1368-1644
+- Timothy Brook, The Troubled Empire
+- Romeyn Taylor, The Hongwu Emperor

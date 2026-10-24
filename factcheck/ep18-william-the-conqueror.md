@@ -13,3 +13,12 @@
 | Harrying of the North: deaths | Verified as uncertain — FIXED | Orderic: up to 100,000 |
 | Domesday ordered 1085, completed 1086; name later (12th c.) | Verified | |
 | Death 9 Sept 1087 (some 10 Sept) Rouen; Mantes injury; coffin burst at Caen | Verified — FIXED | Saddle cause contested |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- David Bates, William the Conqueror
+- Marc Morris, The Norman Conquest
+- Orderic Vitalis, Ecclesiastical History
+- The Anglo-Saxon Chronicle
+- David Douglas, William the Conqueror

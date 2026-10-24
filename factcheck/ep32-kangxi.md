@@ -14,3 +14,12 @@
 | Yinreng deposed 1708, restored 1709, deposed again 1712 | Verified | |
 | Died 20 Dec 1722; Yongzheng; altered-will story | Death date not confirmed; will story = unresolved debate — FIXED | |
 | Population 150m to 300m | Not verified | Rough |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Jonathan Spence, Emperor of China: Self-Portrait of K'ang-hsi
+- Jonathan Spence, The Search for Modern China
+- Pamela Crossley, The Manchus
+- Mark Elliott, The Manchu Way
+- Willard Peterson (ed.), Cambridge History of China, Vol. 9

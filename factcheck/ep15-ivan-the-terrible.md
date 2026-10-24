@@ -16,3 +16,12 @@
 | Sudebnik 1550, Zemsky Sobor 1549, Stoglav 1551, streltsy 1549/1550 | Verified; streltsy date varies — FIXED | |
 | Chosen Council name given later by Kurbsky | Verified | |
 | Kurbsky 1564; Anastasia d. 1560; Devlet Giray 1571; Livonian War 1558–83; Yermak 1581–82 | Not verified in search | Standard dates |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Isabel de Madariaga, Ivan the Terrible: First Tsar of Russia
+- Ruslan Skrynnikov, Ivan the Terrible
+- Janet Martin, Medieval Russia 980-1584
+- Charles Halperin, Ivan the Terrible: Free to Reward and Free to Punish
+- Heinrich Staden, The Land and Government of Muscovy

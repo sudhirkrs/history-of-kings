@@ -14,3 +14,12 @@
 | Lithuanian wars 1487–94, 1500–03; Chernigov, Bryansk | Not verified in search | Standard |
 | Ivan the Young d. March 1490 (gout); Dmitry crowned 1498; Vasily co-ruler April 1502; Dmitry imprisoned, d. Feb 1509 | Verified — script expanded | |
 | Ivan III d. 27 Oct 1505 | Verified (Vasily's reign from 6 Nov) | |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Janet Martin, Medieval Russia 980-1584
+- John Fennell, Ivan the Great of Moscow
+- Donald Ostrowski, Muscovy and the Mongols
+- Charles Halperin, Russia and the Golden Horde
+- Nancy Shields Kollmann, The Russian Empire 1450-1801

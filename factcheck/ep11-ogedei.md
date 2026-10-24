@@ -16,3 +16,12 @@
 | Legnica 9 Apr 1241; Mohi 10/11 Apr 1241 | Verified — FIXED | Britannica gives 10 April |
 | Death saved Europe | Debated | |
 | Toregene regency, Guyuk 1246–48, Oghul Qaimish 1248–51, Mongke 1251 | Verified | |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- The Secret History of the Mongols, trans. de Rachewiltz
+- Juvaini, The History of the World-Conqueror
+- Timothy May, The Mongol Empire
+- Peter Jackson, The Mongols and the West
+- Thomas Allsen, Mongol Imperialism

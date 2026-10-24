@@ -12,3 +12,12 @@
 | Grass bread / Bhamashah | Legend | Tod, not contemporary |
 | Death 19 Jan 1597 Chavand | Verified | Another source: 29 Jan |
 | 1615 treaty with Jahangir (Khurram) | Verified — FIXED | Rana accepted suzerainty; exempt from attending; Chittor returned with no repairs; who attended varies |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Satish Chandra, Medieval India, Part II
+- Abu'l Fazl, Akbarnama; Badauni, Muntakhab-ut-Tawarikh
+- G.N. Sharma, Mewar and the Mughal Emperors
+- R.P. Tripathi / Ram Vallabh Somani, History of Mewar
+- James Tod, Annals and Antiquities of Rajasthan (as a later, romantic source)

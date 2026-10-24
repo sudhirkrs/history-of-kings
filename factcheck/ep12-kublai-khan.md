@@ -16,3 +16,12 @@
 | Zhenjin d. 1285 | FIXED | 5 Jan 1286 in most sources |
 | Ahmad Fanakati killed 1282; Sangha | Not verified | |
 | Marco Polo: Wood vs Haw/Jackson | Verified as debated | |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Morris Rossabi, Khubilai Khan: His Life and Times
+- Cambridge History of China, Vol. 6: Alien Regimes and Border States
+- Timothy May, The Mongol Empire
+- Frances Wood, Did Marco Polo Go to China?
+- Peter Jackson, The Mongols and the Islamic World

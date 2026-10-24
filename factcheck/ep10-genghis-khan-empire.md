@@ -12,3 +12,12 @@
 | Death 18 Aug 1227; causes (horse fall, illness/plague hypothesis, Marco Polo's arrow, Tangut princess) | Verified as DEBATED | Burial site unknown, Burkhan Khaldun is tradition |
 | 24 million km² | Not verified — FIXED | Applies to later empire |
 | 16 million men (Zerjal 2003) | Verified with caveats | Conditional estimate; criticism noted |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Juvaini, The History of the World-Conqueror
+- Paul Ratchnevsky, Genghis Khan: His Life and Legacy
+- Timothy May, The Mongol Art of War; The Mongol Conquests in World History
+- David Morgan, The Mongols
+- Li Chih-Ch'ang, The Travels of an Alchemist (Changchun)

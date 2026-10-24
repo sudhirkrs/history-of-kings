@@ -23,3 +23,12 @@
 | Elisiv m. Harald Hardrada (won her via Byzantine service); Anastasia m. Andrew I; Anna m. Henry I | Verified (search) | |
 | Anna–Henry wedding at Reims, 19 May 1051 | Verified (one source) | Anna's birth year disputed (1024/5, 1032, 1036); not stated |
 | Anna bore Henry sons | NOT verified in this pass | Standard (Philip I); check |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- The Russian Primary Chronicle, trans. Cross and Sherbowitz-Wetzor
+- Simon Franklin and Jonathan Shepard, The Emergence of Rus 750-1200
+- Janet Martin, Medieval Russia 980-1584
+- Serhii Plokhy, The Origins of the Slavic Nations
+- Martin Dimnik, The Dynasty of Chernigov

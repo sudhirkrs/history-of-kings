@@ -16,3 +16,12 @@
 | Bought Diderot's library | NOT verified | Standard story |
 | Death: stroke, 17 Nov 1796 (N.S.); horse story = myth | Verified | |
 | Zubov last favourite (from 1789); Radishchev 1790 exile | Zubov verified; Radishchev not | |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Isabel de Madariaga, Russia in the Age of Catherine the Great
+- John T. Alexander, Catherine the Great: Life and Legend
+- Simon Sebag Montefiore, Catherine the Great and Potemkin
+- Robert K. Massie, Catherine the Great: Portrait of a Woman
+- Catherine II, Memoirs

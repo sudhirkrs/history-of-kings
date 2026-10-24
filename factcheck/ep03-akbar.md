@@ -14,3 +14,12 @@
 | Razmnama translation; Hamzanama ~1,400 paintings over ~15 years | Razmnama verified; Hamzanama not verified | |
 | Abu'l Fazl murdered 1602 by Bir Singh Bundela | Not verified in search | Widely stated; confirm in Richards or Habib |
 | Din-i-Ilahi very few followers | Not verified numerically | Sources say short-lived and small |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Abu'l Fazl, Akbarnama and Ain-i-Akbari
+- Satish Chandra, Medieval India: From Sultanate to the Mughals, Part II
+- John F. Richards, The Mughal Empire
+- Irfan Habib, The Agrarian System of Mughal India
+- M. Athar Ali, The Mughal Nobility under Aurangzeb

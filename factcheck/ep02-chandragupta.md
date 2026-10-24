@@ -15,3 +15,12 @@
 | Jain tradition (Bhadrabahu, Shravanabelagola) | Verified as tradition | Trautmann: Jain version older than Buddhist; no contemporary proof |
 | Reign c. 321–297 BCE | Approximately | Wikipedia gives c. 324–297; use "around 321" |
 | Arthashastra final text 1st–3rd century CE (Olivelle) | Not verified in search | Re-check |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- R.K. Mookerji, Chandragupta Maurya and His Times
+- Romila Thapar, Asoka and the Decline of the Mauryas
+- Upinder Singh, A History of Ancient and Early Medieval India
+- Patrick Olivelle, King, Governance, and Law in Ancient India: Kautilya's Arthashastra
+- McCrindle, Ancient India as Described by Megasthenes and Arrian

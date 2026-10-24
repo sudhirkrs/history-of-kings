@@ -12,3 +12,12 @@
 | Tilbury speech 9 Aug; text from Leonel Sharp's later letter | Date verified; Sharp not verified | Script already says words may not be exact |
 | Drake singeing the King of Spain's beard (Cadiz 1587) | Not verified | |
 | Essex rebellion 7–8 Jan 1601, executed 25 Feb; Poor Law 1601 | Verified | |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- John Guy, Elizabeth: The Forgotten Years
+- Susan Doran, Elizabeth I and Foreign Policy
+- Christopher Haigh, Elizabeth I
+- Wallace MacCaffrey, Elizabeth I
+- Garrett Mattingly, The Armada

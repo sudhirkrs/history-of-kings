@@ -27,3 +27,12 @@
 | Debased coinage in the 1540s | NOT verified in this pass | Standard history (Great Debasement); check a book |
 | Mary Rose, July 1545, several hundred lost, cause debated, raised early 1980s | Verified, hedged | "Henry watched from shore" is traditional |
 | Navy/south-coast fortification line replacing "first royal dockyards" | NOT verified | Dockyard claim removed; fort claim is standard but check |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- J.J. Scarisbrick, Henry VIII
+- Lucy Wooding, Henry VIII
+- Eric Ives, The Life and Death of Anne Boleyn
+- G.W. Bernard, The King's Reformation
+- Diarmaid MacCulloch, Thomas Cromwell: A Life

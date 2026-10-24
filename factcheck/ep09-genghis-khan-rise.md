@@ -14,3 +14,12 @@
 | Subutai blacksmith's son; Jebe shot his horse; Muqali | NOT verified | Check |
 | Western Xia 1205–09/10; Uyghurs 1209; Jin 1211; Zhongdu June 1215 (Muqali) | Verified (Uyghurs not) | Eastern Xia split 1215 |
 | Secret History dated 1228/1240 (or 1252) | Verified as debated — FIXED | |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- The Secret History of the Mongols, trans. Igor de Rachewiltz / Urgunge Onon
+- Paul Ratchnevsky, Genghis Khan: His Life and Legacy
+- Timothy May, The Mongol Conquests in World History
+- Frank McLynn, Genghis Khan: His Conquests, His Empire, His Legacy
+- Juvaini, History of the World-Conqueror; Rashid al-Din, Jami al-tawarikh

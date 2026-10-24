@@ -12,3 +12,12 @@
 | Dutch War, Strasbourg 1681, Canal du Midi 1681 | Not verified in search | Standard |
 | "I have loved war too much" | Unverified wording — FIXED | |
 | "L'état, c'est moi" | Verified as apocryphal | First attributed in 1818 (Lémontey) |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- John Lynn, The Wars of Louis XIV
+- Peter Burke, The Fabrication of Louis XIV
+- Jeroen Duindam, Myths of Power; Versailles and Its Court
+- Olivier Bernier, Louis XIV: A Royal Life
+- Fanny Cosandey and Robert Descimon, L'absolutisme en France

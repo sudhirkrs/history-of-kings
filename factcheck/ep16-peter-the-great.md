@@ -17,3 +17,12 @@
 | Senate 1711, Synod 1721, St Petersburg 27 May 1703, capital 1712 | Not verified in this search | Standard |
 | Alexei died 26 June 1718 | Verified — FIXED wording | Timeline of torture shaky (Bushkovitch) |
 | Rescue of sailors, Nov 1724 | Legend | Script already says "famous story" |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Lindsey Hughes, Russia in the Age of Peter the Great
+- Robert K. Massie, Peter the Great: His Life and World
+- Paul Bushkovitch, Peter the Great: The Struggle for Power
+- Evgenii Anisimov, The Reforms of Peter the Great
+- James Cracraft, The Revolution of Peter the Great

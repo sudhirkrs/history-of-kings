@@ -14,3 +14,12 @@
 | Han founded 202 BCE; Baideng 200 BCE; heqin | Verified | 400,000 Xiongnu = traditional exaggeration |
 | "Silk Road" coined by von Richthofen, 1877 | Verified as the usual attribution — FIXED | A 2019 article disputes it |
 | Population halved | Not verified | Hedged in script |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Sima Qian, Records of the Grand Historian
+- Ban Gu, Book of Han
+- Michael Loewe, The Government of the Qin and Han Empires
+- Mark Edward Lewis, China's First Empires
+- Michael Loewe, The Men Who Governed Han China; Nicola Di Cosmo, Ancient China and Its Enemies
