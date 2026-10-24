@@ -17,3 +17,12 @@ Everything needed to take an episode from idea to published YouTube video.
 1. Pick topic from the roadmap → 2. Research (2–3 sources) → 3. Write script from template →
 4. Fact-check against checklist → 5. Voiceover → 6. Visuals + edit → 7. Thumbnail + metadata →
 8. Review → 9. Upload & schedule → 10. Check analytics after 48 h, note lessons.
+
+## Making a video (on your own machine)
+```
+pip install edge-tts pillow google-api-python-client google-auth-oauthlib   # + ffmpeg installed
+python tools/make_video.py episodes/ep01-ashoka            # AI voice (en-IN-PrabhatNeural) + captioned cards
+# optional: drop licensed images into episodes/ep01-ashoka/images/001.jpg, 002.jpg ... (one per scene) and re-run
+python tools/upload.py episodes/ep01-ashoka episodes/ep01-ashoka/out/video.mp4 thumbnail.png
+```
+Scene timings for chapters are written to `out/scenes.json`.

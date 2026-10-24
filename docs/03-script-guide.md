@@ -1,7 +1,7 @@
 # Script Guide
 
 ## Length maths
-Narration ≈ 140–150 words/min. 20 min ≈ 2,800–3,000 words. Target 2,400–2,800 (leaves room for pauses and visuals).
+Narration ≈ 145 words/min. 20 min ≈ 2,900 words (the maximum). The current drafts run 1,200–2,000 words = 8–14 min, which is fine: never pad. Each script's header shows its measured length (tools/make_video.py parses it).
 
 ## Template (copy for every episode)
 | Block | Time | Words | Job |
