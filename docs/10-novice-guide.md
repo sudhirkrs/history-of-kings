@@ -33,7 +33,7 @@ Take your time. Do one step, check the "You should see", then go on. If somethin
 
 ## PART 5 — Publish your first video
 18. **Fact-check.** Open `factcheck\ep01-ashoka.md` (Notepad is fine). Rows marked NOT verified: look them up in the books under "Sources" in `episodes\ep01-ashoka\script.md`. Edit the script text if a fact is wrong.
-19. **Pictures (best, optional).** Make folder `episodes\ep01-ashoka\images` and put pictures named `001.jpg`, `002.jpg`, ... one per scene. Use only public-domain or licensed images (Wikimedia Commons, museum open-access).
+19. **Pictures (best, optional).** Run `python tools/list_scenes.py ep01 --md` to see every scene, the file name to use and what the script suggests showing (it also writes `shotlist.md`). Make folder `episodes\ep01-ashoka\images` and put pictures named `001.jpg`, `002.jpg`, ... one per scene. Use only public-domain or licensed images (Wikimedia Commons, museum open-access).
 20. **Approve:** `python tools/approve.py ep01`. Type `y` when asked.
 21. **Test first, safely:** `python tools/pipeline.py run --ep ep01-ashoka --dry-run`. It builds the AI-voice video but does not upload. Open `episodes\ep01-ashoka\out\video.mp4` and watch it. (About 5–15 minutes.)
 22. **Publish:** `python tools/pipeline.py run --ep ep01-ashoka --now`. *You should see* a `https://youtu.be/...` link. (To schedule instead: `python tools/pipeline.py run --count 1`.)
