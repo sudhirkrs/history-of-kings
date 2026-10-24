@@ -33,19 +33,19 @@ Take your time. Do one step, check the "You should see", then go on. If somethin
 
 ## PART 5 — Publish your first video
 18. **Fact-check.** Open `factcheck\ep01-ashoka.md` (Notepad is fine). Rows marked NOT verified: look them up in the books under "Sources" in `episodes\ep01-ashoka\script.md`. Edit the script text if a fact is wrong.
-19. **Pictures (best, optional).** Run `python tools/list_scenes.py ep01 --md` to see every scene, the file name to use and what the script suggests showing (it also writes `shotlist.md`). Make folder `episodes\ep01-ashoka\images` and put pictures named `001.jpg`, `002.jpg`, ... one per scene. Use only public-domain or licensed images (Wikimedia Commons, museum open-access).
-20. **Approve:** `python tools/approve.py ep01`. Type `y` when asked.
-21. **Test first, safely:** `python tools/pipeline.py run --ep ep01-ashoka --dry-run`. It builds the AI-voice video but does not upload. Open `episodes\ep01-ashoka\out\video.mp4` and watch it. (About 5–15 minutes.)
-22. **Publish:** `python tools/pipeline.py run --ep ep01-ashoka --now`. *You should see* a `https://youtu.be/...` link. (To schedule instead: `python tools/pipeline.py run --count 1`.)
+19. **Approve the facts:** `python tools/approve.py ep01`. Type `y` when asked.
+20. **Build everything:** `python tools/pipeline.py prepare --ep ep01`. It downloads licensed pictures, makes the voice, the video, two thumbnails, captions and two Shorts. (About 10–20 minutes.)
+21. **Look at it.** Open `episodes\ep01-ashoka\out\video.mp4`, `images\review.html` (pictures and licences), `thumbnail_A.jpg`, `thumbnail_B.jpg`, and the `out\shorts` folder. Wrong picture for a scene? `python tools/fetch_images.py ep01 --redo 7`, then run step 20 again.
+22. **Release and publish:** `python tools/approve.py ep01 --release` then `python tools/pipeline.py publish --ep ep01 --now`. *You should see* a `https://youtu.be/...` link, plus lines saying playlist, captions and comment are ok.
 23. **Open the link** → click **Edit in Studio**. Set:
     - Audience: **No, it's not made for kids**
     - Altered content: **Yes** (the voice is AI)
     - If the video is Private: click **Visibility → Public → Save** (Google keeps new API projects private until audited)
-    - Add an end screen and pin a comment: "Which king next?"
+    - Pin the first comment (three dots → Pin) and add an end screen
 24. **After a day or two:** reply to comments; after 48 h check Analytics → click rate and average view duration.
 
 ## PART 6 — Make it automatic
-25. For each next episode just do steps 18, 20. Then run `python tools/install_scheduler.py` once: every Sunday the computer builds and schedules the next approved episodes. Keep the computer on at that time (default Sunday 9:00).
+25. For each next episode just do steps 18, 19, 20, 21, 22. Then run `python tools/install_scheduler.py` once: every Sunday the computer builds and schedules the next approved episodes. Keep the computer on at that time (default Sunday 9:00).
 26. Get future updates: `git pull` (always on `main`).
 
 ## If stuck
