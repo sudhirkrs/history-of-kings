@@ -14,3 +14,12 @@
 | Assassination 1 March (O.S.) = 13 March 1881; Rysakov then Hryniewiecki; Narodnaya Volya | Verified | Carriage was closed/"bulletproof"; Napoleon III gift not verified — FIXED |
 | Loris-Melikov plan signed that morning | NOT verified in search | Debated how far it was a "constitution" |
 | Church on Spilled Blood | Not verified in search | Standard |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- W. Bruce Lincoln, The Great Reforms: Autocracy, Bureaucracy and the Politics of Change
+- Edvard Radzinsky, Alexander II: The Last Great Tsar
+- Daniel Field, The End of Serfdom
+- Orlando Figes, A People's Tragedy (opening chapters)
+- Alexander Polunov, Russia in the Nineteenth Century

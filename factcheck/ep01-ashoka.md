@@ -15,3 +15,11 @@ Method: web searches (standard mode) against secondary summaries and primary-tex
 | 4-year gap before coronation | Verified as tradition | Mahavamsa; many historians accept gap |
 | Prinsep deciphered Brahmi 1837; link to Ashoka via Turnour/Ceylon texts; Maski edict 1915 confirmed name | Verified | Some sources say 1838 for public presentation |
 | Brihadratha killed by Pushyamitra c. 185 BCE | Not verified in search | Standard date (Puranas, Harshacharita); keep "around" |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Romila Thapar, Asoka and the Decline of the Mauryas
+- Upinder Singh, A History of Ancient and Early Medieval India
+- Patrick Olivelle, Ashoka: Portrait of a Philosopher King
+- Ashokan edicts, trans. Dhammika

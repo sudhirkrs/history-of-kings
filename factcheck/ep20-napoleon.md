@@ -12,3 +12,12 @@
 | Elba landing 1 Mar 1815, Paris 20 Mar; Waterloo 18 June; abdicated 22 June | Verified | |
 | Died 5 May 1821; stomach cancer (2021 study); arsenic theory rejected; remains returned Dec 1840 | Verified — FIXED | |
 | Napoleonic Wars deaths 3–6 million | NOT verified | Estimates vary |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Andrew Roberts, Napoleon: A Life
+- Philip Dwyer, Napoleon: The Path to Power; Citizen Emperor
+- Alan Forrest, Napoleon
+- David Chandler, The Campaigns of Napoleon
+- Michael Broers, Napoleon: Soldier of Destiny

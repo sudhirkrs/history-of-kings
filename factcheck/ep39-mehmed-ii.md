@@ -24,3 +24,12 @@
 | Rumeli Hisari spring 1452, ~4 months, opposite Bayezid I's fortress | Verified (search) | |
 | Kanunname, devshirme officials, power shifting to sultan's household | NOT verified in this pass | Standard; check |
 | Fratricide law; Bayezid vs Cem | Hedged | Check wording of the law in a book |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Halil Inalcik, The Ottoman Empire: The Classical Age
+- Franz Babinger, Mehmed the Conqueror and His Time
+- Roger Crowley, 1453: The Holy War for Constantinople
+- Caroline Finkel, Osman's Dream
+- Steven Runciman, The Fall of Constantinople 1453

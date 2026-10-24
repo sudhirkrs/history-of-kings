@@ -13,3 +13,12 @@
 | Sviatoslav killed by Pechenegs 972; skull cup | Killing verified; cup = legend | |
 | Boris and Gleb killed by Sviatopolk 1015 | Verified | |
 | Yaroslav won at Liubech 1016 and Alta 1019 | Verified — FIXED | |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- The Russian Primary Chronicle, trans. Cross and Sherbowitz-Wetzor
+- Simon Franklin and Jonathan Shepard, The Emergence of Rus 750-1200
+- Serhii Plokhy, The Origins of the Slavic Nations
+- Janet Martin, Medieval Russia 980-1584
+- Dimitri Obolensky, The Byzantine Commonwealth

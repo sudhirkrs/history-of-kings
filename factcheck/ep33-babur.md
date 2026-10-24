@@ -11,3 +11,12 @@
 | Baburnama in Chagatai Turkic; first autobiography in Islamic literature | Verified | His comments on India: not found in search |
 | Died 26 Dec 1530; Humayun legend; buried at Bagh-e Babur | NOT verified | Left as tradition |
 | "Carried two men along the ramparts" | NOT verified | From Baburnama; check |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Babur, The Baburnama, trans. Wheeler Thackston
+- Stephen Dale, The Garden of the Eight Paradises
+- Satish Chandra, Medieval India, Part II
+- John F. Richards, The Mughal Empire
+- Ruby Lal, Domesticity and Power in the Early Mughal World

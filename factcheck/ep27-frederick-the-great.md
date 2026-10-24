@@ -13,3 +13,12 @@
 | Sanssouci 1745–47; Voltaire 1750–53; torture abolished 1740; died 17 Aug 1786; reburied Sanssouci 17 Aug 1991 | NOT verified in search | Standard |
 | Seven Years' War deaths (Prussia ~180,000; Europe ~1 million) | Rough; Wikipedia table garbled | |
 | First Partition of Poland 1772 / West Prussia; Prussian Code 1794 | NOT verified in search | Standard |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Tim Blanning, Frederick the Great: King of Prussia
+- Christopher Clark, Iron Kingdom: The Rise and Downfall of Prussia
+- Dennis Showalter, The Wars of Frederick the Great
+- Frederick II, Histoire de mon temps
+- Robert Asprey, Frederick the Great: The Magnificent Enigma

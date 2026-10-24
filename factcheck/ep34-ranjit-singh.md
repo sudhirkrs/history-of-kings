@@ -21,3 +21,12 @@
 | Amritsar taken 1802 with the Zamzama | Hedged | One source dates the Bhangi surrender 1805; gun's capture date (1762 vs 1773) disputed; script avoids dates |
 | Hazuri Bagh beside the fort and Badshahi Mosque, court held there | Verified (search) | Baradari date disputed (1813 vs 1818); not stated |
 | Land revenue main income, a third to a half; kardars; shift to cash assessment | Verified, one estimate | Check a specialist source |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Jean-Marie Lafont, Maharaja Ranjit Singh: Lord of the Five Rivers
+- Khushwant Singh, Ranjit Singh: Maharaja of the Punjab
+- J.S. Grewal, The Sikhs of the Punjab (New Cambridge History of India)
+- Patwant Singh and Jyoti Rai, Empire of the Sikhs
+- Amarpal Sidhu, The First Anglo-Sikh War

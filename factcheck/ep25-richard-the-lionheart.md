@@ -13,3 +13,12 @@
 | Shot 26 March (or 25th) at Chalus; died 6 April 1199 | Verified | Shooter's name varies — FIXED |
 | About six months in England in 10 years | Verified | Gillingham |
 | Robin Hood set in Richard's reign | Not searched | Later tradition |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- John Gillingham, Richard I
+- Thomas Asbridge, The Crusades: The War for the Holy Land
+- Jonathan Phillips, Holy Warriors; The Life and Legend of the Sultan Saladin
+- Ralph of Diceto, Roger of Howden, Chronicles
+- Ibn Shaddad, The Rare and Excellent History of Saladin

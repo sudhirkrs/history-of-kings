@@ -12,3 +12,12 @@
 | Withdrawal 1242 due to Ogedei's death | Verified as one of several explanations | |
 | Alexander Nevsky: Neva 1240 (attested only in Rus' sources); Lake Peipus 5 April 1242 | Verified — FIXED | |
 | Census 1257; Berke Muslim by 1257; Ozbeg 1313 | Census/Berke verified; 1313 not | |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Charles Halperin, Russia and the Golden Horde
+- Janet Martin, Medieval Russia 980-1584
+- Donald Ostrowski, Muscovy and the Mongols
+- Peter Jackson, The Mongols and the West
+- The Chronicle of Novgorod; Plano Carpini, History of the Mongols

@@ -14,3 +14,12 @@
 | Anglo-Saxon Chronicle begun in Alfred's reign | Not verified in search | Standard |
 | Ships 896; Aethelflaed; Aethelstan 927 | Not verified in search | Standard |
 | Died 26 Oct 899 | Verified | Buried first at Winchester |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Asser, Life of King Alfred
+- The Anglo-Saxon Chronicle
+- Richard Abels, Alfred the Great: War, Kingship and Culture
+- Simon Keynes and Michael Lapidge, Alfred the Great: Asser's Life and Other Contemporary Sources
+- Justin Pollard, Alfred the Great: The Man Who Made England

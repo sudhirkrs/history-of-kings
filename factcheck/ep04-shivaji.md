@@ -15,3 +15,12 @@
 | Torna 1646; Javli 1656; Pratapgad built c.1656 | Verified | Chandrarao More not confirmed in search |
 | Sinhagad/Kondana night attack 4 Feb 1670, Tanaji killed | Verified | Script FIXED to say Kondana = Sinhagad |
 | Sindhudurg built from 1664 | Not verified in search | Check |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Jadunath Sarkar, Shivaji and His Times
+- Gajanan Mehendale, Shivaji: His Life and Times
+- Stewart Gordon, The Marathas 1600-1818 (New Cambridge History of India)
+- Satish Chandra, Medieval India, Part II
+- Jos Gommans, Mughal Warfare

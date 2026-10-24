@@ -13,3 +13,12 @@
 | Chandragupta II c. 375/380–415; defeated Shakas c. 395 | Verified | |
 | Aryabhata b. 476; Kalidasa dating uncertain | Verified | |
 | Hunas weakened empire; end c. 550 | Verified | |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- J.F. Fleet / D.C. Sircar, Select Inscriptions Bearing on Indian History and Civilization (Allahabad Pillar)
+- R.C. Majumdar and A.S. Altekar (eds.), The Vakataka-Gupta Age
+- Upinder Singh, A History of Ancient and Early Medieval India
+- Romila Thapar, Early India
+- Allan, Catalogue of the Coins of the Gupta Dynasties

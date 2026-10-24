@@ -15,3 +15,12 @@
 | Amuktamalyada; Ashtadiggajas incl. Allasani Peddana | Verified | List of eight varies |
 | Vijayanagara founded 1336 (Harihara, Bukka, Vidyaranya) | Verified | |
 | Talikota 1565 | Verified | |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Robert Sewell, A Forgotten Empire: Vijayanagar (Paes and Nuniz chronicles)
+- K.A. Nilakanta Sastri and N. Venkataramanayya, Further Sources of Vijayanagara History
+- Burton Stein, Vijayanagara (New Cambridge History of India)
+- Vasundhara Filliozat, Vijayanagar
+- Phillip Wagoner, Tidings of the King

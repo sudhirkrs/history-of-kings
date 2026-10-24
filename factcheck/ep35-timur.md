@@ -23,3 +23,12 @@
 | Aleppo Nov 1400; Faraj retreated Jan 1401; Ibn Khaldun in camp about a month, declined to serve | Verified (search) | Length of stay 35 days vs a month |
 | Damascus plundered, Umayyad Mosque damaged, Timur left mid-March 1401 | Verified (search) | Death tolls vary; not stated |
 | Earlier claim "Terek ... helped Moscow" removed | Removed | Unsupported inference |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Beatrice Forbes Manz, The Rise and Rule of Tamerlane
+- Justin Marozzi, Tamerlane: Sword of Islam, Conqueror of the World
+- Ibn Arabshah, Tamerlane or Timur the Great Amir
+- Ruy Gonzalez de Clavijo, Embassy to Tamerlane
+- Sharaf ad-Din Ali Yazdi, Zafarnama

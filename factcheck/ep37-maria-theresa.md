@@ -27,3 +27,12 @@
 | "Changed her view of inoculation" | Hedged ("is said to") | Check a biography |
 | Treaty of Teschen 13 May 1779; secret peace overtures behind Joseph | Verified / hedged | Overtures widely reported |
 | Death date 29 Nov 1780 | FLAG | One source gives 28 Nov; most give 29 Nov. Check |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Barbara Stollberg-Rilinger, Maria Theresa: The Habsburg Empress in Her Time
+- Edward Crankshaw, Maria Theresa
+- Derek Beales, Joseph II (vol. 1)
+- Karl Vocelka, Habsburgs
+- P.G.M. Dickson, Finance and Government under Maria Theresia

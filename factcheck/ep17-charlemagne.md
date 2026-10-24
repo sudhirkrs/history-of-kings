@@ -18,3 +18,12 @@
 | Canonised 1165 by antipope Paschal III under Barbarossa; never ratified | Verified | |
 | Wives/children: 4 official wives; 18–20 children | Verified — FIXED | Himiltrude's status disputed |
 | Died 28 Jan 814; Verdun 843 | Anniversary verified; Verdun not verified | |
+
+## Sources
+Books to check the flagged claims against (same list as the script and the video description):
+
+- Einhard, Life of Charlemagne
+- Royal Frankish Annals
+- Rosamond McKitterick, Charlemagne: The Formation of a European Identity
+- Janet Nelson, King and Emperor: A New Life of Charlemagne
+- Pierre Riché, The Carolingians
