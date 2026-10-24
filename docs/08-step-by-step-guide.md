@@ -155,14 +155,15 @@ A browser window opens the first time; click Allow. It prints the video link. (I
 
 ## Part D — Run it all automatically
 
-First run `python tools/setup_check.py` (add `--voice` to test the AI voice); it lists exactly what is still missing.
+First run `python tools/setup_check.py` (add `--voice` to test the AI voice). If you signed in before this update, delete `token.json` and run `python tools/upload.py` once to sign in again (new permissions: playlists, captions, comments).
 
-Once Part A is done (including one manual `python tools/upload.py ...` so `token.json` exists):
+Two sign-offs are yours, everything else is automatic:
 
-1. **Sign off an episode.** After checking its flags against books, run `python tools/approve.py ep04` (it lists what is still open and asks y/N; `-y` skips the question, `--list` shows status, `--revoke` undoes). The pipeline never builds or uploads an episode without it (override with `--no-gate`).
-2. **Set the plan** in `schedule/config.json`: `first_publish` (UTC), `interval_days` (3.5 = twice a week, 7 = weekly), `voice`, `tts`.
-3. **Preview:** `python tools/pipeline.py plan` lists each episode, its publish date and whether it is approved.
-4. **Run by hand:** `python tools/pipeline.py run --count 2` makes the voice and video, metadata and thumbnail, then uploads each as a private video scheduled to go public at its slot. Add `--dry-run` to build without uploading.
-5. **Schedule it:** `python tools/install_scheduler.py` installs a weekly job (cron on Linux/macOS, Task Scheduler on Windows) that does step 4 every Sunday. Logs: `schedule/run.log`. Remove with `--remove`.
+1. **Facts.** After checking the flags against books: `python tools/approve.py ep01` (creates `APPROVED`).
+2. **Prepare.** `python tools/pipeline.py prepare --ep ep01` fetches licensed pictures from Wikimedia Commons (credits written to `credits.md`), makes the AI voice and video, metadata, two thumbnails (A and B), captions (`.srt`) and 2 Shorts.
+3. **Review.** Open `images/review.html` (every picture and its licence; re-pick a scene with `python tools/fetch_images.py ep01 --redo 7`), watch `out/video.mp4`, look at `thumbnail_A.jpg` / `thumbnail_B.jpg` and `out/shorts/`.
+4. **Release.** `python tools/approve.py ep01 --release`.
+5. **Publish.** `python tools/pipeline.py publish --ep ep01` (or `--now`) uploads the video (AI-voice disclosure set), thumbnail, adds it to its playlist, uploads captions, posts the first comment (credits + "Which king next?") and schedules the Shorts, one per day after the episode.
+6. `python tools/pipeline.py plan` shows every episode's status. `python tools/pipeline.py run --count 2` does prepare, and publish for any already released episode. `python tools/install_scheduler.py` runs `run` weekly.
 
-Notes: progress is kept in `schedule/state.json`, so nothing is uploaded twice and failures are retried on the next run. A `thumbnail.png` in an episode folder is used if present; otherwise a plain title card is drawn. Drop licensed pictures into `episodes/epNN/images/001.jpg, 002.jpg...` before approving if you want real images. Until Google audits your API project, scheduled uploads may stay private and need a manual Publish in Studio.
+Only these stay manual because the YouTube API cannot do them: pinning the comment, end screens and cards (one click each in Studio, or use the Claude in Chrome prompt, docs/11), and switching a video from Private to Public while the API project is unaudited. Put your own pictures in `images/NNN.jpg` and the tool never overwrites them; `thumbnail.png` in the folder replaces the generated thumbnail. `config.json` keys: `images` ("commons" or "none"), `shorts` (count), `shorts_gap_days`, `comment`.

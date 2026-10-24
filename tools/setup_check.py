@@ -42,7 +42,7 @@ def main():
 
     print("Python packages")
     for mod, pkg in (("edge_tts", "edge-tts"), ("PIL", "pillow"), ("googleapiclient", "google-api-python-client"),
-                     ("google_auth_oauthlib", "google-auth-oauthlib")):
+                     ("google_auth_oauthlib", "google-auth-oauthlib"), ("requests", "requests")):
         try:
             importlib.import_module(mod)
             ok(pkg)
@@ -67,6 +67,13 @@ def main():
     ig = (ROOT / ".gitignore").read_text() if (ROOT / ".gitignore").exists() else ""
     ok("secrets are git-ignored") if "client_secret.json" in ig and "token.json" in ig else fail("secrets not in .gitignore", "add client_secret.json and token.json to .gitignore")
 
+    if tok.exists():
+        try:
+            sc = json.loads(tok.read_text()).get("scopes") or []
+            ok("token has playlist/caption/comment access") if any("force-ssl" in x for x in sc) else fail(
+                "token.json is from an older version (no playlist/comment scope)", "delete token.json and run: python tools/upload.py  (sign in again)")
+        except ValueError:
+            fail("token.json unreadable", "delete it and sign in again")
     print("Approvals")
     n = len(list((ROOT / "episodes").glob("ep*/APPROVED")))
     ok(f"{n} episode(s) approved") if n else print("  NOTE  no episode approved yet -> python tools/approve.py ep01")

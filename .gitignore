@@ -5,3 +5,7 @@ token.json
 episodes/*/out/
 schedule/state.json
 thumbnail_auto.png
+episodes/*/images/
+episodes/*/thumbnail*.jpg
+episodes/*/RELEASE
+__pycache__/

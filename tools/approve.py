@@ -5,7 +5,10 @@
     python tools/approve.py --list          # approval status of every episode
     python tools/approve.py ep04 --revoke
 
-Creates episodes/<ep>/APPROVED, which tools/pipeline.py requires before building or uploading.
+    python tools/approve.py ep04 --release  # second gate: pictures + video reviewed, OK to go live
+
+Creates episodes/<ep>/APPROVED (facts), which tools/pipeline.py requires before building, and
+episodes/<ep>/RELEASE (reviewed video), which it requires before uploading.
 Only approve after you have checked the listed items against books.
 """
 import argparse
@@ -42,14 +45,27 @@ def main():
     ap.add_argument("-y", "--yes", action="store_true")
     ap.add_argument("--revoke", action="store_true")
     ap.add_argument("--list", action="store_true")
+    ap.add_argument("--release", action="store_true", help="release a built episode for upload")
     a = ap.parse_args()
     if a.list or not a.episodes:
         for e in EPS:
-            print(("APPROVED  " if (e / "APPROVED").exists() else "pending   ") + e.name)
+            print(("APPROVED  " if (e / "APPROVED").exists() else "pending   ")
+                  + ("RELEASED  " if (e / "RELEASE").exists() else "          ") + e.name)
         return
     for p in a.episodes:
         ep = find(p)
-        mark = ep / "APPROVED"
+        mark = ep / ("RELEASE" if a.release else "APPROVED")
+        if a.release and not a.revoke:
+            if not (ep / "APPROVED").exists():
+                print("approve the facts first:", ep.name); continue
+            if not (ep / "out" / "video.mp4").exists():
+                print("no video yet: run python tools/pipeline.py prepare --ep", ep.name[:4]); continue
+            print(f"\n{ep.name}: have you watched out/video.mp4, checked images/review.html and credits.md?")
+            if a.yes or input("Release for upload (y/N): ").strip().lower() == "y":
+                mark.write_text("released\n"); print("released", ep.name)
+            else:
+                print("not released", ep.name)
+            continue
         if a.revoke:
             mark.unlink(missing_ok=True); print("revoked", ep.name); continue
         items = open_items(ep)
