@@ -12,9 +12,8 @@ Everything runs on **your own computer** (Windows, Mac or Linux), not in this cl
 3. **Git** — to download this repo.
 4. In a terminal:
 ```
-git clone <your repo URL> history-of-kings
+git clone https://github.com/sudhirkrs/history-of-kings.git
 cd history-of-kings
-git checkout claude/admiring-knuth-7tos2n
 pip install edge-tts pillow google-api-python-client google-auth-oauthlib
 ```
 

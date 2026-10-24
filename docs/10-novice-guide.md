@@ -13,8 +13,7 @@ Take your time. Do one step, check the "You should see", then go on. If somethin
    - `cd %USERPROFILE%\Documents`
    - `git clone https://github.com/sudhirkrs/history-of-kings.git`
    - `cd history-of-kings`
-   - `git checkout claude/admiring-knuth-7tos2n`
-   *You should see* "Switched to branch". (Git may ask you to sign in to GitHub in a browser: do it.)
+   *You should see* a new folder `history-of-kings` (it is already on the `main` branch). (Git may ask you to sign in to GitHub in a browser: do it.)
 6. Install the helper packages: `pip install edge-tts pillow google-api-python-client google-auth-oauthlib`. *You should see* "Successfully installed".
 7. **Check everything:** `python tools/setup_check.py --voice`. It lists problems as `FIX` with the command that cures each. Repeat until the last line says **Ready.** (Two FIX lines about `client_secret.json` and `token.json` are normal until Part 3.)
 
@@ -47,7 +46,7 @@ Take your time. Do one step, check the "You should see", then go on. If somethin
 
 ## PART 6 — Make it automatic
 25. For each next episode just do steps 18, 20. Then run `python tools/install_scheduler.py` once: every Sunday the computer builds and schedules the next approved episodes. Keep the computer on at that time (default Sunday 9:00).
-26. Get my future updates: `git pull`.
+26. Get future updates: `git pull` (always on `main`).
 
 ## If stuck
 - "python is not recognized": reinstall Python and tick "Add to PATH" (step 1), open a new `cmd`.
